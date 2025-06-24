@@ -8,14 +8,14 @@ export default function BottomNav() {
 
   const navItems = [
     { href: '/', label: '홈', icon: '🏠' },
-    { href: '/critterdex', label: '크리터덱스', icon: '📖' },
+    { href: '/critterdex', label: '내 크리터', icon: '📖' },
     { href: '/dungeon', label: '던전', icon: '⚔️' },
     { href: '/hatchery', label: '부화장', icon: '🥚' },
     { href: '/shop', label: '상점', icon: '🛒' },
   ];
 
   return (
-    <nav className="bottom-nav-fixed fixed bottom-0 left-0 right-0 h-16 bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 md:hidden z-50 shadow-lg">
+    <nav className="bottom-nav-fixed fixed bottom-0 left-0 right-0 h-16 w-full bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 z-50 shadow-lg">
       <div className="flex justify-around h-full items-center">
         {navItems.map((item) => (
           <Link

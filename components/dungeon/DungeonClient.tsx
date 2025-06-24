@@ -177,7 +177,7 @@ export default function DungeonClient({ initialDungeons, initialCritters }: Dung
   const totalExp = dungeons.reduce((sum, d) => sum + (d.userProgress?.totalExperienceEarned || 0), 0)
 
   return (
-    <div className="container mx-auto px-4 py-8">
+    <div className="container mx-auto px-4 py-8 h-[calc(100vh-8rem)] overflow-y-auto">
       <div className="text-center mb-8">
         <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">
           던전 탐험

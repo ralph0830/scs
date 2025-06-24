@@ -104,6 +104,7 @@ export default function CritterManager({ initialCritters }: CritterManagerProps)
         <Table>
           <TableHeader>
             <TableRow>
+              <TableHead></TableHead>
               <TableHead>이름</TableHead>
               <TableHead>타입</TableHead>
               <TableHead>기본 HP</TableHead>
@@ -118,6 +119,15 @@ export default function CritterManager({ initialCritters }: CritterManagerProps)
           <TableBody>
             {critters.map((critter) => (
               <TableRow key={critter.id}>
+                <TableCell>
+                  <img
+                    src={critter.imageUrl && critter.imageUrl.trim() !== '' ? critter.imageUrl : '/critters/no-image.png'}
+                    alt={critter.name + ' 이미지'}
+                    className="w-10 h-10 rounded-full object-cover border"
+                    width={40}
+                    height={40}
+                  />
+                </TableCell>
                 <TableCell className="font-medium">{critter.name}</TableCell>
                 <TableCell>
                   <span className="px-2 py-1 bg-blue-100 text-blue-800 rounded text-sm">

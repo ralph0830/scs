@@ -75,7 +75,7 @@ export default function HatcheryClient({ initialEggs }: HatcheryClientProps) {
   const eggCount = eggs.find(e => e.name === 'Egg')?.count ?? 0;
 
   return (
-    <div className="container mx-auto p-4">
+    <div className="container mx-auto p-4 h-[calc(100vh-8rem)] overflow-y-auto">
        <div className="text-center mb-8">
          <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">
            부화장

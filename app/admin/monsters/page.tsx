@@ -217,6 +217,7 @@ export default function MonsterManagementPage() {
         <Table>
           <TableHeader>
             <TableRow>
+              <TableHead></TableHead>
               <TableHead>이름</TableHead>
               <TableHead>타입</TableHead>
               <TableHead>희귀도</TableHead>
@@ -232,6 +233,15 @@ export default function MonsterManagementPage() {
           <TableBody>
             {monsters.map((monster) => (
               <TableRow key={monster.id}>
+                <TableCell>
+                  <img
+                    src={monster.imageUrl && monster.imageUrl.trim() !== '' ? monster.imageUrl : '/critters/no-image.png'}
+                    alt={monster.name + ' 이미지'}
+                    className="w-10 h-10 rounded-full object-cover border"
+                    width={40}
+                    height={40}
+                  />
+                </TableCell>
                 <TableCell className="font-medium">{monster.name}</TableCell>
                 <TableCell>
                   <span className="px-2 py-1 bg-blue-100 text-blue-800 rounded text-sm">

@@ -49,13 +49,15 @@ export default async function AdminDashboardPage() {
           </div>
         </Link>
         
-        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 border-2 border-blue-500">
-            <div className="text-4xl mb-4">🐾</div>
-            <h3 className="text-lg font-semibold mb-2">크리터 관리</h3>
-            <p className="text-gray-600 dark:text-gray-400 text-sm">
-              게임 내 크리터들을 관리합니다
-            </p>
-        </div>
+        <Link href="/admin/critters">
+          <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 hover:shadow-xl transition-shadow cursor-pointer border-2 border-blue-500">
+              <div className="text-4xl mb-4">🐾</div>
+              <h3 className="text-lg font-semibold mb-2">크리터 관리</h3>
+              <p className="text-gray-600 dark:text-gray-400 text-sm">
+                게임 내 크리터들을 관리합니다
+              </p>
+          </div>
+        </Link>
 
         <Link href="/admin/items">
           <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 hover:shadow-xl transition-shadow cursor-pointer">
@@ -75,8 +77,6 @@ export default async function AdminDashboardPage() {
           </Button>
         </Link>
       </div>
-
-      <CritterManager initialCritters={allCritters} />
     </div>
   )
 } 

@@ -2,9 +2,9 @@ module.exports = {
   apps: [
     {
       name: 'scs-app',
-      script: 'npm',
-      args: 'run start',
-      cwd: '/var/www/html/scs',
+      script: 'node_modules/.bin/next',
+      args: 'start -p 3000',
+      cwd: 'C:\\project\\gamedev\\scs',
       instances: 1,
       autorestart: true,
       watch: false,

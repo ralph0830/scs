@@ -24,7 +24,7 @@ export default function RootLayout({
         <ViewportFix />
         <div className="flex min-h-screen flex-col">
           <Header />
-          <main className="flex-grow pb-16 md:pb-0">{children}</main>
+          <main className="flex-grow pt-16 pb-16">{children}</main>
           <BottomNav />
         </div>
         <Toaster />
