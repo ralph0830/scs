@@ -85,7 +85,7 @@ export default function CritterList({ showActions = false, onEdit, initialCritte
   }
 
   return (
-    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-4 p-4 bg-gray-100 dark:bg-gray-900 rounded-lg min-h-24">
+    <div className="show-scrollbar grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-4 p-4 bg-gray-100 dark:bg-gray-900 rounded-lg min-h-24 overflow-y-auto">
       {critters.map((critter) => (
         showActions ? (
           <DraggableCritterCard key={critter.id} critter={critter} />

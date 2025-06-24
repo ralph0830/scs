@@ -180,3 +180,29 @@
   }
 }
 
+/* ===== 스크롤바 글로벌 숨김 ===== */
+body::-webkit-scrollbar,
+html::-webkit-scrollbar {
+  display: none;
+}
+body, html {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+/* ===== show-scrollbar: 특정 영역만 스크롤바 표시 ===== */
+.show-scrollbar {
+  overflow-y: auto !important;
+  scrollbar-width: thin !important;         /* 파이어폭스 */
+  -ms-overflow-style: auto !important;      /* IE, Edge */
+}
+.show-scrollbar::-webkit-scrollbar {
+  display: block !important;
+  width: 8px;
+  background: #eee;
+}
+.show-scrollbar::-webkit-scrollbar-thumb {
+  background: #bbb;
+  border-radius: 4px;
+}
+
