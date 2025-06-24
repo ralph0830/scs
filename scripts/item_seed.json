@@ -1,0 +1,4403 @@
+[
+  {
+    "name": "짐승 털가죽",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/beast_pelt.png"
+  },
+  {
+    "name": "가죽",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/leather.png"
+  },
+  {
+    "name": "알파 늑대 송곳니",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/alpha_wolf_fang.png"
+  },
+  {
+    "name": "야생동물 알",
+    "description": "알 타입의 아이템. ",
+    "type": "알",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/egg_wild.png"
+  },
+  {
+    "name": "미트 찹",
+    "description": "음식 타입의 아이템. ",
+    "type": "음식",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/meat_chop.png"
+  },
+  {
+    "name": "멧돼지 엄니",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/boar_tusk.png"
+  },
+  {
+    "name": "나무",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/wood.png"
+  },
+  {
+    "name": "식물 섬유질",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/plant_fiber.png"
+  },
+  {
+    "name": "살아있는 수액",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/living_sap.png"
+  },
+  {
+    "name": "토마토",
+    "description": "음식 타입의 아이템. ",
+    "type": "음식",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/tomato.png"
+  },
+  {
+    "name": "나무 알",
+    "description": "알 타입의 아이템. ",
+    "type": "알",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/egg_wooden.png"
+  },
+  {
+    "name": "구리 광석",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/copper_ore.png"
+  },
+  {
+    "name": "치즈",
+    "description": "음식 타입의 아이템. ",
+    "type": "음식",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/cheese.png"
+  },
+  {
+    "name": "구리 주괴",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/copper_ingot.png"
+  },
+  {
+    "name": "고대의 씨앗",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/ancient_seed.png"
+  },
+  {
+    "name": "천",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/cloth.png"
+  },
+  {
+    "name": "원시의 정수",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/primordial_essence.png"
+  },
+  {
+    "name": "사과",
+    "description": "음식 타입의 아이템. ",
+    "type": "음식",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/apple.png"
+  },
+  {
+    "name": "솜꼬리토끼 모피",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/cottontail_fur.png"
+  },
+  {
+    "name": "구리 헬멧 ★★",
+    "description": "액세서리 타입의 아이템. 효과: HP+20",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "HP+20",
+    "price": null,
+    "imageUrl": "/items/copper_helmet.png"
+  },
+  {
+    "name": "가죽 부츠",
+    "description": "액세서리 타입의 아이템. 효과: 민첩+3",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "민첩+3",
+    "price": null,
+    "imageUrl": "/items/leather_boots.png"
+  },
+  {
+    "name": "가죽 장갑",
+    "description": "액세서리 타입의 아이템. 효과: 체질+2\n민첩+2",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+2\n민첩+2",
+    "price": null,
+    "imageUrl": "/items/leather_gloves.png"
+  },
+  {
+    "name": "나무 버클러",
+    "description": "액세서리 타입의 아이템. 효과: 체질+3",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+3",
+    "price": null,
+    "imageUrl": "/items/wooden_buckler.png"
+  },
+  {
+    "name": "엄니 목걸이",
+    "description": "액세서리 타입의 아이템. 효과: 체질+1지능+1민첩+1",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+1지능+1민첩+1",
+    "price": null,
+    "imageUrl": "/items/tusk_necklace.png"
+  },
+  {
+    "name": "구리 갑옷 ★",
+    "description": "헤비아머 타입의 아이템. 효과: 체질+1\nHP+30",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "체질+1\nHP+30",
+    "price": null,
+    "imageUrl": "/items/copper_armor.png"
+  },
+  {
+    "name": "가죽 재킷 ★",
+    "description": "미디엄아머 타입의 아이템. 효과: 체질+1\n민첩+1\nHP+20",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "체질+1\n민첩+1\nHP+20",
+    "price": null,
+    "imageUrl": "/items/leather_jacket.png"
+  },
+  {
+    "name": "천 로브 ★",
+    "description": "라이트아머 타입의 아이템. 효과: 지능+3HP+10",
+    "type": "라이트아머",
+    "rarity": "common",
+    "effect": "지능+3HP+10",
+    "price": null,
+    "imageUrl": "/items/cloth_robe.png"
+  },
+  {
+    "name": "철검",
+    "description": "검 타입의 아이템. 효과: 체질+3민첩+1",
+    "type": "검",
+    "rarity": "common",
+    "effect": "체질+3민첩+1",
+    "price": null,
+    "imageUrl": "/items/copper_sword.png"
+  },
+  {
+    "name": "송곳니 단검",
+    "description": "단검 타입의 아이템. 효과: 체질+2민첩+2",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "체질+2민첩+2",
+    "price": null,
+    "imageUrl": "/items/fang_dagger.png"
+  },
+  {
+    "name": "마법의 지팡이",
+    "description": "지팡이 타입의 아이템. 효과: 지능+4",
+    "type": "지팡이",
+    "rarity": "common",
+    "effect": "지능+4",
+    "price": null,
+    "imageUrl": "/items/enchanted_staff.png"
+  },
+  {
+    "name": "나무 활",
+    "description": "활 타입의 아이템. 효과: 체질+1민첩+3",
+    "type": "활",
+    "rarity": "common",
+    "effect": "체질+1민첩+3",
+    "price": null,
+    "imageUrl": "/items/wooden_bow.png"
+  },
+  {
+    "name": "솜꼬리토끼 재킷 ★",
+    "description": "미디엄아머 타입의 아이템. 효과: 체질+1민첩+1HP+20경험치+35%",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "체질+1민첩+1HP+20경험치+35%",
+    "price": null,
+    "imageUrl": "/items/cottontail_jacket.png"
+  },
+  {
+    "name": "주입된 목걸이",
+    "description": "액세서리 타입의 아이템. 효과: 체질+1\n지능+2\n민첩+1\n경험치+10%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+1\n지능+2\n민첩+1\n경험치+10%",
+    "price": null,
+    "imageUrl": "/items/infused_necklace.png"
+  },
+  {
+    "name": "폐금속",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/scrap_metal.png"
+  },
+  {
+    "name": "철 주괴",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/iron_ingot.png"
+  },
+  {
+    "name": "사암",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/sandstone.png"
+  },
+  {
+    "name": "유리",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/glass.png"
+  },
+  {
+    "name": "병에 담긴 모래 정령",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/bottled_sand_spirit.png"
+  },
+  {
+    "name": "변형하는 모래",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/metamorphic_sand.png"
+  },
+  {
+    "name": "석영",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/quartz.png"
+  },
+  {
+    "name": "웜의 피",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/wurm_blood.png"
+  },
+  {
+    "name": "웜 비늘",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/wurm_scale.png"
+  },
+  {
+    "name": "깃털",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/feather.png"
+  },
+  {
+    "name": "반곡형 칼날",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/recurve_blade.png"
+  },
+  {
+    "name": "샤'후리 활 프레임",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/shahuri_bow_frame.png"
+  },
+  {
+    "name": "정확도 포션",
+    "description": "포션 타입의 아이템. ",
+    "type": "포션",
+    "rarity": "common",
+    "effect": "",
+    "price": 80,
+    "imageUrl": "/items/potion_of_precision.png"
+  },
+  {
+    "name": "달걀",
+    "description": "음식 타입의 아이템. ",
+    "type": "음식",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/egg.png"
+  },
+  {
+    "name": "파인애플",
+    "description": "음식 타입의 아이템. ",
+    "type": "음식",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/pineapple.png"
+  },
+  {
+    "name": "곤충 알",
+    "description": "알 타입의 아이템. ",
+    "type": "알",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/egg_insect.png"
+  },
+  {
+    "name": "조류 알",
+    "description": "알 타입의 아이템. ",
+    "type": "알",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/egg_avian.png"
+  },
+  {
+    "name": "신비한 알",
+    "description": "알 타입의 아이템. ",
+    "type": "알",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/egg_esoteric.png"
+  },
+  {
+    "name": "철 헬름 ★★",
+    "description": "액세서리 타입의 아이템. 효과: HP+40",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "HP+40",
+    "price": null,
+    "imageUrl": "/items/iron_helm.png"
+  },
+  {
+    "name": "웜 비늘 방패",
+    "description": "액세서리 타입의 아이템. 효과: 체질+6",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+6",
+    "price": null,
+    "imageUrl": "/items/wurmscales_shield.png"
+  },
+  {
+    "name": "변형하는 방패 ★",
+    "description": "액세서리 타입의 아이템. 효과: 체질+6\n보복6(물리)",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+6\n보복6(물리)",
+    "price": null,
+    "imageUrl": "/items/metamorphic_shield.png"
+  },
+  {
+    "name": "웜 비늘 장갑",
+    "description": "액세서리 타입의 아이템. 효과: 체질+3\n민첩+4",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+3\n민첩+4",
+    "price": null,
+    "imageUrl": "/items/wurmscales_gloves.png"
+  },
+  {
+    "name": "웜 비늘 부츠",
+    "description": "액세서리 타입의 아이템. 효과: 민첩+6",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "민첩+6",
+    "price": null,
+    "imageUrl": "/items/wurmscales_boots.png"
+  },
+  {
+    "name": "쇠사슬 갑옷 ★",
+    "description": "헤비아머 타입의 아이템. 효과: 체질+2HP+60",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "체질+2HP+60",
+    "price": null,
+    "imageUrl": "/items/iron_chainmail.png"
+  },
+  {
+    "name": "깃털 로브 ★",
+    "description": "라이트아머 타입의 아이템. 효과: 지능+6HP+20",
+    "type": "라이트아머",
+    "rarity": "common",
+    "effect": "지능+6HP+20",
+    "price": null,
+    "imageUrl": "/items/feather_robe.png"
+  },
+  {
+    "name": "웜 비늘 재킷 ★",
+    "description": "미디엄아머 타입의 아이템. 효과: 체질+2민첩+2HP+40",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "체질+2민첩+2HP+40",
+    "price": null,
+    "imageUrl": "/items/wurmscales_jacket.png"
+  },
+  {
+    "name": "시미터",
+    "description": "검 타입의 아이템. 효과: 체질+6민첩+2",
+    "type": "검",
+    "rarity": "common",
+    "effect": "체질+6민첩+2",
+    "price": null,
+    "imageUrl": "/items/scimitar.png"
+  },
+  {
+    "name": "살아있는 시미터",
+    "description": "검 타입의 아이템. 효과: 체질+10마법 방어력+5반격 확률+10%",
+    "type": "검",
+    "rarity": "common",
+    "effect": "체질+10마법 방어력+5반격 확률+10%",
+    "price": null,
+    "imageUrl": "/items/living_scimitar.png"
+  },
+  {
+    "name": "샤'후리 활",
+    "description": "활 타입의 아이템. 효과: 지능+2민첩+6기절 확률 5%",
+    "type": "활",
+    "rarity": "common",
+    "effect": "지능+2민첩+6기절 확률 5%",
+    "price": null,
+    "imageUrl": "/items/shahuri_bow.png"
+  },
+  {
+    "name": "유리 단도",
+    "description": "단검 타입의 아이템. 효과: 체질+3민첩+5",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "체질+3민첩+5",
+    "price": null,
+    "imageUrl": "/items/glass_knife.png"
+  },
+  {
+    "name": "뼛조각",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/bone_fragment.png"
+  },
+  {
+    "name": "유령 천",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/spectral_cloth.png"
+  },
+  {
+    "name": "해진 원피",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/tattered_hide.png"
+  },
+  {
+    "name": "길쭉한 뼈",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/elongated_bone.png"
+  },
+  {
+    "name": "날카로운 늑골",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/sharp_rib.png"
+  },
+  {
+    "name": "감염된 피",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/infected_blood.png"
+  },
+  {
+    "name": "기적의 피",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/thaumaturgic_blood.png"
+  },
+  {
+    "name": "영혼 파편",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/soul_shard.png"
+  },
+  {
+    "name": "격납 구체",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/containment_orb.png"
+  },
+  {
+    "name": "전쟁 군주의 두개골",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/warlord_skull.png"
+  },
+  {
+    "name": "엑토플라즘 구체",
+    "description": "특수재료 타입의 아이템. 효과: [획득방법]\n- D3에서 전투가 끊기지 않은 상태로 위습을 200마리 잡으면 획득\n- 진행정보가 표시되며 참여하고 있는 모험가가 승급하거나 전멸하면 끊김",
+    "type": "특수재료",
+    "rarity": "common",
+    "effect": "[획득방법]\n- D3에서 전투가 끊기지 않은 상태로 위습을 200마리 잡으면 획득\n- 진행정보가 표시되며 참여하고 있는 모험가가 승급하거나 전멸하면 끊김",
+    "price": null,
+    "imageUrl": "/items/orb_of_ectoplasm.png"
+  },
+  {
+    "name": "영혼의 책",
+    "description": "액세서리 타입의 아이템. 효과: 지능+9",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "지능+9",
+    "price": null,
+    "imageUrl": "/items/spirit_tome.png"
+  },
+  {
+    "name": "영혼 양초",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/spirit_candle.png"
+  },
+  {
+    "name": "체질 포션",
+    "description": "포션 타입의 아이템. ",
+    "type": "포션",
+    "rarity": "common",
+    "effect": "",
+    "price": 80,
+    "imageUrl": "/items/potion_of_constitution.png"
+  },
+  {
+    "name": "언데드 헬름 ★★",
+    "description": "액세서리 타입의 아이템. 효과: HP+60",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "HP+60",
+    "price": null,
+    "imageUrl": "/items/undead_helm.png"
+  },
+  {
+    "name": "언데드 장갑",
+    "description": "액세서리 타입의 아이템. 효과: 체질+6\n민첩+5",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+6\n민첩+5",
+    "price": null,
+    "imageUrl": "/items/undead_gloves.png"
+  },
+  {
+    "name": "언데드 그리브",
+    "description": "액세서리 타입의 아이템. 효과: 민첩+9",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "민첩+9",
+    "price": null,
+    "imageUrl": "/items/undead_greaves.png"
+  },
+  {
+    "name": "언데드 방패",
+    "description": "액세서리 타입의 아이템. 효과: 체질+9",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+9",
+    "price": null,
+    "imageUrl": "/items/undead_shield.png"
+  },
+  {
+    "name": "화염 촉매",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/fire_catalyst.png"
+  },
+  {
+    "name": "언데드 흉갑 ★",
+    "description": "헤비아머 타입의 아이템. 효과: 체질+3HP+90",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "체질+3HP+90",
+    "price": null,
+    "imageUrl": "/items/undead_cuirass.png"
+  },
+  {
+    "name": "오싹한 흉갑",
+    "description": "헤비아머 타입의 아이템. 효과: 체질+6HP+90마법 방어력+10위협 수준+1",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "체질+6HP+90마법 방어력+10위협 수준+1",
+    "price": null,
+    "imageUrl": "/items/ghastly_cuirass.png"
+  },
+  {
+    "name": "유령의 로브 ★",
+    "description": "라이트아머 타입의 아이템. 효과: 지능+9HP+30",
+    "type": "라이트아머",
+    "rarity": "common",
+    "effect": "지능+9HP+30",
+    "price": null,
+    "imageUrl": "/items/spectral_robe.png"
+  },
+  {
+    "name": "언데드 재킷 ★",
+    "description": "미디엄아머 타입의 아이템. 효과: 체질+3민첩+3HP+60",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "체질+3민첩+3HP+60",
+    "price": null,
+    "imageUrl": "/items/undead_jacket.png"
+  },
+  {
+    "name": "전기 촉매",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/electric_catalyst.png"
+  },
+  {
+    "name": "언데드 검",
+    "description": "검 타입의 아이템. 효과: 체질+9민첩+3",
+    "type": "검",
+    "rarity": "common",
+    "effect": "체질+9민첩+3",
+    "price": null,
+    "imageUrl": "/items/undead_sword.png"
+  },
+  {
+    "name": "언데드 지팡이",
+    "description": "지팡이 타입의 아이템. 효과: 지능+12",
+    "type": "지팡이",
+    "rarity": "common",
+    "effect": "지능+12",
+    "price": null,
+    "imageUrl": "/items/undead_staff.png"
+  },
+  {
+    "name": "언데드 단도",
+    "description": "단검 타입의 아이템. 효과: 체질+5민첩+7치명타 확률+6%",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "체질+5민첩+7치명타 확률+6%",
+    "price": null,
+    "imageUrl": "/items/undead_knife.png"
+  },
+  {
+    "name": "섬뜩한 시미터",
+    "description": "검 타입의 아이템. 효과: 체질+16마법 방어력+10반격 확률 +20%",
+    "type": "검",
+    "rarity": "common",
+    "effect": "체질+16마법 방어력+10반격 확률 +20%",
+    "price": null,
+    "imageUrl": "/items/ghastly_scimitar.png"
+  },
+  {
+    "name": "해골 촛불",
+    "description": "액세서리 타입의 아이템. 효과: 지능+4\n어둠-10",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "지능+4\n어둠-10",
+    "price": null,
+    "imageUrl": "/items/skull_candle.png"
+  },
+  {
+    "name": "타오르는 향로",
+    "description": "액세서리 타입의 아이템. 효과: 지능+12\n어둠-10\n치유량+20%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "지능+12\n어둠-10\n치유량+20%",
+    "price": null,
+    "imageUrl": "/items/burning_censer.png"
+  },
+  {
+    "name": "유령 토끼 망토 ★",
+    "description": "라이트아머 타입의 아이템. 효과: 지능+9HP+30경험치+35%",
+    "type": "라이트아머",
+    "rarity": "common",
+    "effect": "지능+9HP+30경험치+35%",
+    "price": null,
+    "imageUrl": "/items/ghost_rabbit_cloak.png"
+  },
+  {
+    "name": "비단 실",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/silk_thread.png"
+  },
+  {
+    "name": "비단 원단",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/silk_fabric.png"
+  },
+  {
+    "name": "검은 분비물",
+    "description": "특수재료 타입의 아이템. 효과: [획득방법]\nD4에서 간헐적 이벤트로 몬스터들에게 '섬망' 상태가 걸리는데\n이 섬망 상태의 몬스터를 잡으면 각 20% 확률로 드롭됨",
+    "type": "특수재료",
+    "rarity": "common",
+    "effect": "[획득방법]\nD4에서 간헐적 이벤트로 몬스터들에게 '섬망' 상태가 걸리는데\n이 섬망 상태의 몬스터를 잡으면 각 20% 확률로 드롭됨",
+    "price": null,
+    "imageUrl": "/items/black_ooze.png"
+  },
+  {
+    "name": "타락의 정수",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/essence_of_corruption.png"
+  },
+  {
+    "name": "정화의 물약",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/cleansing_potion.png"
+  },
+  {
+    "name": "성수",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/holy_water.png"
+  },
+  {
+    "name": "사악한 안정제",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/sinister_stabilizer.png"
+  },
+  {
+    "name": "지능 포션",
+    "description": "포션 타입의 아이템. ",
+    "type": "포션",
+    "rarity": "common",
+    "effect": "",
+    "price": 80,
+    "imageUrl": "/items/potion_of_intelligence.png"
+  },
+  {
+    "name": "금 조각",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/gold_scraps.png"
+  },
+  {
+    "name": "황금 주괴",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/gold_ingot.png"
+  },
+  {
+    "name": "레드우드",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/redwood.png"
+  },
+  {
+    "name": "파수꾼 벨트",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/warden_belt.png"
+  },
+  {
+    "name": "은 반지",
+    "description": "액세서리 타입의 아이템. 효과: 방어력+1\n선제 공격",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "방어력+1\n선제 공격",
+    "price": null,
+    "imageUrl": "/items/silver_ring.png"
+  },
+  {
+    "name": "주교관 ★",
+    "description": "액세서리 타입의 아이템. 효과: 지능+9\nHP+60\n치유량+20%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "지능+9\nHP+60\n치유량+20%",
+    "price": null,
+    "imageUrl": "/items/mitre_hat.png"
+  },
+  {
+    "name": "상아",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/ivory.png"
+  },
+  {
+    "name": "타락한 방패",
+    "description": "액세서리 타입의 아이템. 효과: 체질+1",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+1",
+    "price": null,
+    "imageUrl": "/items/corrupted_shield.png"
+  },
+  {
+    "name": "타락한 지팡이",
+    "description": "지팡이 타입의 아이템. 효과: 지능+1",
+    "type": "지팡이",
+    "rarity": "common",
+    "effect": "지능+1",
+    "price": null,
+    "imageUrl": "/items/corrupted_staff.png"
+  },
+  {
+    "name": "타락한 단검",
+    "description": "단검 타입의 아이템. 효과: 민첩+1",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "민첩+1",
+    "price": null,
+    "imageUrl": "/items/corrupted_dagger.png"
+  },
+  {
+    "name": "감자",
+    "description": "음식 타입의 아이템. ",
+    "type": "음식",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/potato.png"
+  },
+  {
+    "name": "초콜릿",
+    "description": "음식 타입의 아이템. ",
+    "type": "음식",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/chocolate.png"
+  },
+  {
+    "name": "에메랄드",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/emerald.png"
+  },
+  {
+    "name": "루비",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/ruby.png"
+  },
+  {
+    "name": "황금 헬름 ★★",
+    "description": "액세서리 타입의 아이템. 효과: HP+80",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "HP+80",
+    "price": null,
+    "imageUrl": "/items/golden_helm.png"
+  },
+  {
+    "name": "황금 부츠",
+    "description": "액세서리 타입의 아이템. 효과: 민첩+12",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "민첩+12",
+    "price": null,
+    "imageUrl": "/items/golden_boots.png"
+  },
+  {
+    "name": "황금 건틀릿",
+    "description": "액세서리 타입의 아이템. 효과: 체질+7\n민첩+7",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+7\n민첩+7",
+    "price": null,
+    "imageUrl": "/items/golden_gauntlets.png"
+  },
+  {
+    "name": "황금 방패",
+    "description": "액세서리 타입의 아이템. 효과: 체질+12",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+12",
+    "price": null,
+    "imageUrl": "/items/golden_shield.png"
+  },
+  {
+    "name": "제국의 방패 ★★★★",
+    "description": "액세서리 타입의 아이템. 효과: 체질+16\n민첩+5\n방어력+15",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+16\n민첩+5\n방어력+15",
+    "price": null,
+    "imageUrl": "/items/imperial_shield.png"
+  },
+  {
+    "name": "황금 갑옷",
+    "description": "헤비아머 타입의 아이템. 효과: 체질+4HP+120",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "체질+4HP+120",
+    "price": null,
+    "imageUrl": "/items/golden_armor.png"
+  },
+  {
+    "name": "변형하는 갑옷 ★",
+    "description": "헤비아머 타입의 아이템. 효과: 체질+5HP+140보복 10 (물리)",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "체질+5HP+140보복 10 (물리)",
+    "price": null,
+    "imageUrl": "/items/metamorphic_armor.png"
+  },
+  {
+    "name": "비단 로브 ★",
+    "description": "라이트아머 타입의 아이템. 효과: 지능+12HP+40",
+    "type": "라이트아머",
+    "rarity": "common",
+    "effect": "지능+12HP+40",
+    "price": null,
+    "imageUrl": "/items/silk_robe.png"
+  },
+  {
+    "name": "벨트 재킷",
+    "description": "미디엄아머 타입의 아이템. 효과: 체질+4민첩+4HP+80",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "체질+4민첩+4HP+80",
+    "price": null,
+    "imageUrl": "/items/belt_jacket.png"
+  },
+  {
+    "name": "상아 재킷 ★★★",
+    "description": "미디엄아머 타입의 아이템. 효과: 체질+8민첩+4HP+90치명타 확률+12%",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "체질+8민첩+4HP+90치명타 확률+12%",
+    "price": null,
+    "imageUrl": "/items/ivory_jacket.png"
+  },
+  {
+    "name": "황금 검",
+    "description": "검 타입의 아이템. 효과: 체질+12민첩+4",
+    "type": "검",
+    "rarity": "common",
+    "effect": "체질+12민첩+4",
+    "price": null,
+    "imageUrl": "/items/golden_sword.png"
+  },
+  {
+    "name": "진홍색 거머리 ★",
+    "description": "지팡이 타입의 아이템. 효과: 체질+4지능+16생명력 흡수+20%",
+    "type": "지팡이",
+    "rarity": "common",
+    "effect": "체질+4지능+16생명력 흡수+20%",
+    "price": null,
+    "imageUrl": "/items/crimson_leech.png"
+  },
+  {
+    "name": "제국의 지팡이",
+    "description": "지팡이 타입의 아이템. 효과: 체질+8지능+26민첩+8",
+    "type": "지팡이",
+    "rarity": "common",
+    "effect": "체질+8지능+26민첩+8",
+    "price": null,
+    "imageUrl": "/items/imperial_staff.png"
+  },
+  {
+    "name": "레드우드 활",
+    "description": "활 타입의 아이템. 효과: 체질+4민첩+12",
+    "type": "활",
+    "rarity": "common",
+    "effect": "체질+4민첩+12",
+    "price": null,
+    "imageUrl": "/items/redwood_bow.png"
+  },
+  {
+    "name": "비전 단검",
+    "description": "단검 타입의 아이템. 효과: 체질+6지능+24민첩+12마법 피해를 줌",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "체질+6지능+24민첩+12마법 피해를 줌",
+    "price": null,
+    "imageUrl": "/items/arcane_dagger.png"
+  },
+  {
+    "name": "보석 왕관 ★★★★★",
+    "description": "액세서리 타입의 아이템. 효과: 방어력+10\n마법 방어력+10\n선제 공격;공격이 항상 명중",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "방어력+10\n마법 방어력+10\n선제 공격;공격이 항상 명중",
+    "price": null,
+    "imageUrl": "/items/jeweled_crown.png"
+  },
+  {
+    "name": "루비 반지",
+    "description": "액세서리 타입의 아이템. 효과: 방어력+10\n선제 공격",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "방어력+10\n선제 공격",
+    "price": null,
+    "imageUrl": "/items/ruby_ring.png"
+  },
+  {
+    "name": "에메랄드 반지",
+    "description": "액세서리 타입의 아이템. 효과: 마법 방어력+10\n선제 공격",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "마법 방어력+10\n선제 공격",
+    "price": null,
+    "imageUrl": "/items/emerald_ring.png"
+  },
+  {
+    "name": "얼음 촉매",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/ice_catalyst.png"
+  },
+  {
+    "name": "귀족 갑옷 ★",
+    "description": "헤비아머 타입의 아이템. 효과: 체질+4HP+120경험치 +35%",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "체질+4HP+120경험치 +35%",
+    "price": null,
+    "imageUrl": "/items/patrician_armor.png"
+  },
+  {
+    "name": "원숭이 원피",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/monkey_hide.png"
+  },
+  {
+    "name": "해적 가죽",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/corsair_leather.png"
+  },
+  {
+    "name": "유령나무 그루터기",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/ghostwood_stump.png"
+  },
+  {
+    "name": "유령나무 판자",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/ghostwood_board.png"
+  },
+  {
+    "name": "심연의 조개껍데기",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/abyssal_seashell.png"
+  },
+  {
+    "name": "심연의 눈",
+    "description": "특수재료 타입의 아이템. 효과: [획득방법]\nD5에서 수수께끼의 촉수 5마리가 나왔을 때 전부 처치하면 1개 획득",
+    "type": "특수재료",
+    "rarity": "common",
+    "effect": "[획득방법]\nD5에서 수수께끼의 촉수 5마리가 나왔을 때 전부 처치하면 1개 획득",
+    "price": null,
+    "imageUrl": "/items/eye_of_the_abyss.png"
+  },
+  {
+    "name": "이국적인 벨벳",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/exotic_velvet.png"
+  },
+  {
+    "name": "흑철 조각",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/black_iron_scraps.png"
+  },
+  {
+    "name": "흑철 주괴",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/black_iron_ingot.png"
+  },
+  {
+    "name": "진주",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/pearl.png"
+  },
+  {
+    "name": "동전 지갑",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/coin_purse.png"
+  },
+  {
+    "name": "깊은 바다 벨벳",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/deep_sea_velvet.png"
+  },
+  {
+    "name": "심연의 주괴",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/abyssal_ingot.png"
+  },
+  {
+    "name": "민첩 포션",
+    "description": "포션 타입의 아이템. ",
+    "type": "포션",
+    "rarity": "common",
+    "effect": "",
+    "price": 80,
+    "imageUrl": "/items/potion_of_dexterity.png"
+  },
+  {
+    "name": "사라진 페이지",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/missing_page.png"
+  },
+  {
+    "name": "신비한 부속물",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/mysterious_appendage.png"
+  },
+  {
+    "name": "심연의 점액",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/abyssal_goo.png"
+  },
+  {
+    "name": "구조물 알",
+    "description": "알 타입의 아이템. ",
+    "type": "알",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/egg_construct.png"
+  },
+  {
+    "name": "바나나",
+    "description": "음식 타입의 아이템. ",
+    "type": "음식",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/banana.png"
+  },
+  {
+    "name": "신선한 연어",
+    "description": "음식 타입의 아이템. ",
+    "type": "음식",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/fresh_salmon.png"
+  },
+  {
+    "name": "신선한 참치",
+    "description": "음식 타입의 아이템. ",
+    "type": "음식",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/fresh_tuna.png"
+  },
+  {
+    "name": "흑철 헬름 ★★",
+    "description": "액세서리 타입의 아이템. 효과: HP+100",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "HP+100",
+    "price": null,
+    "imageUrl": "/items/black_iron_helm.png"
+  },
+  {
+    "name": "이국적인 부츠",
+    "description": "액세서리 타입의 아이템. 효과: 민첩+15",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "민첩+15",
+    "price": null,
+    "imageUrl": "/items/exotic_boots.png"
+  },
+  {
+    "name": "유령나무 방패",
+    "description": "액세서리 타입의 아이템. 효과: 체질+15",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+15",
+    "price": null,
+    "imageUrl": "/items/ghostwood_shield.png"
+  },
+  {
+    "name": "흑철 건틀릿",
+    "description": "액세서리 타입의 아이템. 효과: 체질+9\n민첩+8",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+9\n민첩+8",
+    "price": null,
+    "imageUrl": "/items/black_iron_gauntlets.png"
+  },
+  {
+    "name": "심연 개론",
+    "description": "액세서리 타입의 아이템. 효과: 지능+15",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "지능+15",
+    "price": null,
+    "imageUrl": "/items/abyssal_compendium.png"
+  },
+  {
+    "name": "흑철 갑옷 ★",
+    "description": "헤비아머 타입의 아이템. 효과: 체질+5HP+150",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "체질+5HP+150",
+    "price": null,
+    "imageUrl": "/items/black_iron_armor.png"
+  },
+  {
+    "name": "이국적인 로브 ★",
+    "description": "라이트아머 타입의 아이템. 효과: 지능+15HP+50",
+    "type": "라이트아머",
+    "rarity": "common",
+    "effect": "지능+15HP+50",
+    "price": null,
+    "imageUrl": "/items/exotic_robe.png"
+  },
+  {
+    "name": "심해의 로브",
+    "description": "라이트아머 타입의 아이템. 효과: 지능+15HP+50상태이상 면역 확률 +40%",
+    "type": "라이트아머",
+    "rarity": "common",
+    "effect": "지능+15HP+50상태이상 면역 확률 +40%",
+    "price": null,
+    "imageUrl": "/items/deep_sea_robe.png"
+  },
+  {
+    "name": "원숭이 가죽 재킷",
+    "description": "미디엄아머 타입의 아이템. 효과: 체질+5민첩+5HP+100",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "체질+5민첩+5HP+100",
+    "price": null,
+    "imageUrl": "/items/monkey_hide_jacket.png"
+  },
+  {
+    "name": "심해의 재킷",
+    "description": "미디엄아머 타입의 아이템. 효과: 체질+5민첩+5HP+100상태이상 면역 확률 +40%",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "체질+5민첩+5HP+100상태이상 면역 확률 +40%",
+    "price": null,
+    "imageUrl": "/items/deep_sea_jacket.png"
+  },
+  {
+    "name": "흑철 커틀라스",
+    "description": "검 타입의 아이템. 효과: 체질+15민첩+5",
+    "type": "검",
+    "rarity": "common",
+    "effect": "체질+15민첩+5",
+    "price": null,
+    "imageUrl": "/items/black_iron_cutlass.png"
+  },
+  {
+    "name": "흑철 홀장",
+    "description": "지팡이 타입의 아이템. 효과: 지능+20",
+    "type": "지팡이",
+    "rarity": "common",
+    "effect": "지능+20",
+    "price": null,
+    "imageUrl": "/items/black_iron_scepter.png"
+  },
+  {
+    "name": "해적왕의 삼각모 ★★★★★",
+    "description": "액세서리 타입의 아이템. 효과: 지능+10\n민첩+15\nHP+100\n치명타 피해+50%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "지능+10\n민첩+15\nHP+100\n치명타 피해+50%",
+    "price": null,
+    "imageUrl": "/items/pirate_king_tricorn.png"
+  },
+  {
+    "name": "유령나무 활",
+    "description": "활 타입의 아이템. 효과: 체질+4민첩+16",
+    "type": "활",
+    "rarity": "common",
+    "effect": "체질+4민첩+16",
+    "price": null,
+    "imageUrl": "/items/ghostwood_bow.png"
+  },
+  {
+    "name": "흑철 단검",
+    "description": "단검 타입의 아이템. 효과: 체질+6민첩+14",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "체질+6민첩+14",
+    "price": null,
+    "imageUrl": "/items/black_iron_dagger.png"
+  },
+  {
+    "name": "심연의 커틀라스",
+    "description": "검 타입의 아이템. 효과: 체질+24",
+    "type": "검",
+    "rarity": "common",
+    "effect": "체질+24",
+    "price": null,
+    "imageUrl": "/items/abyssal_cutlass.png"
+  },
+  {
+    "name": "서리금속 광석",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/frostmetal_ore.png"
+  },
+  {
+    "name": "서리금속 주괴",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/frostmetal_ingot.png"
+  },
+  {
+    "name": "얼음 섬유",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/ice_fiber.png"
+  },
+  {
+    "name": "겨울천",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/wintercloth.png"
+  },
+  {
+    "name": "겨울나무",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/winterwood.png"
+  },
+  {
+    "name": "트롤 원피",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/troll_hide.png"
+  },
+  {
+    "name": "서리 핵",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/frost_nucleus.png"
+  },
+  {
+    "name": "서리 수정",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/frost_crystal.png"
+  },
+  {
+    "name": "얼어붙은 알",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/frozen_egg.png"
+  },
+  {
+    "name": "얼어붙은 비늘",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/frozen_scale.png"
+  },
+  {
+    "name": "와이번 찹",
+    "description": "음식 타입의 아이템. ",
+    "type": "음식",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/wyvern_chop.png"
+  },
+  {
+    "name": "블루베리",
+    "description": "음식 타입의 아이템. ",
+    "type": "음식",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/blueberry.png"
+  },
+  {
+    "name": "체력 포션",
+    "description": "포션 타입의 아이템. ",
+    "type": "포션",
+    "rarity": "common",
+    "effect": "",
+    "price": 80,
+    "imageUrl": "/items/potion_of_health.png"
+  },
+  {
+    "name": "겨울 헬름",
+    "description": "액세서리 타입의 아이템. 효과: HP+120",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "HP+120",
+    "price": null,
+    "imageUrl": "/items/winter_helm.png"
+  },
+  {
+    "name": "겨울 부츠",
+    "description": "액세서리 타입의 아이템. 효과: 민첩+18\n재생+4",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "민첩+18\n재생+4",
+    "price": null,
+    "imageUrl": "/items/winter_boots.png"
+  },
+  {
+    "name": "겨울 장갑",
+    "description": "액세서리 타입의 아이템. 효과: 체질+11\n민첩+10\n재생+4",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+11\n민첩+10\n재생+4",
+    "price": null,
+    "imageUrl": "/items/winter_gloves.png"
+  },
+  {
+    "name": "겨울 방패",
+    "description": "액세서리 타입의 아이템. 효과: 체질+18",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+18",
+    "price": null,
+    "imageUrl": "/items/winter_shield.png"
+  },
+  {
+    "name": "얼어붙은 알 펜던트",
+    "description": "액세서리 타입의 아이템. 효과: HP+90\n방어력+7\n빙결피해+40",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "HP+90\n방어력+7\n빙결피해+40",
+    "price": null,
+    "imageUrl": "/items/frozen_egg_pendant.png"
+  },
+  {
+    "name": "서리금속 갑옷",
+    "description": "헤비아머 타입의 아이템. 효과: 체질+5HP+180재생+6",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "체질+5HP+180재생+6",
+    "price": null,
+    "imageUrl": "/items/frostmetal_armor.png"
+  },
+  {
+    "name": "겨울 망토",
+    "description": "라이트아머 타입의 아이템. 효과: 지능+18HP+60",
+    "type": "라이트아머",
+    "rarity": "common",
+    "effect": "지능+18HP+60",
+    "price": null,
+    "imageUrl": "/items/winter_cape.png"
+  },
+  {
+    "name": "와이번 망토",
+    "description": "라이트아머 타입의 아이템. 효과: 지능+15HP+80치유량+15%",
+    "type": "라이트아머",
+    "rarity": "common",
+    "effect": "지능+15HP+80치유량+15%",
+    "price": null,
+    "imageUrl": "/items/wyvern_cape.png"
+  },
+  {
+    "name": "트롤 가죽 재킷 ★★★★",
+    "description": "미디엄아머 타입의 아이템. 효과: 체질+5민첩+5HP+120재생+6",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "체질+5민첩+5HP+120재생+6",
+    "price": null,
+    "imageUrl": "/items/trollskin_jacket.png"
+  },
+  {
+    "name": "서리금속 단검",
+    "description": "단검 타입의 아이템. 효과: 체질+7민첩+17",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "체질+7민첩+17",
+    "price": null,
+    "imageUrl": "/items/frostmetal_dagger.png"
+  },
+  {
+    "name": "서리금속 검",
+    "description": "검 타입의 아이템. 효과: 체질+18민첩+6",
+    "type": "검",
+    "rarity": "common",
+    "effect": "체질+18민첩+6",
+    "price": null,
+    "imageUrl": "/items/frostmetal_sword.png"
+  },
+  {
+    "name": "겨울나무 지팡이",
+    "description": "지팡이 타입의 아이템. 효과: 지능+24",
+    "type": "지팡이",
+    "rarity": "common",
+    "effect": "지능+24",
+    "price": null,
+    "imageUrl": "/items/winterwood_staff.png"
+  },
+  {
+    "name": "수정 지팡이",
+    "description": "지팡이 타입의 아이템. 효과: 지능+26상태이상 면역 확률 +25%",
+    "type": "지팡이",
+    "rarity": "common",
+    "effect": "지능+26상태이상 면역 확률 +25%",
+    "price": null,
+    "imageUrl": "/items/crystal_staff.png"
+  },
+  {
+    "name": "겨울나무 활",
+    "description": "활 타입의 아이템. 효과: 지능+5민첩+19",
+    "type": "활",
+    "rarity": "common",
+    "effect": "지능+5민첩+19",
+    "price": null,
+    "imageUrl": "/items/winterwood_bow.png"
+  },
+  {
+    "name": "수정 단검",
+    "description": "단검 타입의 아이템. 효과: 체질+9민첩+17치명타 피해+30%",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "체질+9민첩+17치명타 피해+30%",
+    "price": null,
+    "imageUrl": "/items/crystal_dagger.png"
+  },
+  {
+    "name": "박쥐 날개",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/bat_wing.png"
+  },
+  {
+    "name": "밤날개 가죽",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/nightwing_leather.png"
+  },
+  {
+    "name": "거미줄 꾸러미",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/cobweb_bundle.png"
+  },
+  {
+    "name": "거미 실크",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/spider_silk.png"
+  },
+  {
+    "name": "흑요석 덩어리",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/obsidian_chunk.png"
+  },
+  {
+    "name": "커다란 홍채",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/large_iris.png"
+  },
+  {
+    "name": "어둠 포션",
+    "description": "포션 타입의 아이템. ",
+    "type": "포션",
+    "rarity": "common",
+    "effect": "",
+    "price": 80,
+    "imageUrl": "/items/potion_of_darkness.png"
+  },
+  {
+    "name": "박쥐 이빨",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/bat_tooth.png"
+  },
+  {
+    "name": "거미 다리",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/spider_leg.png"
+  },
+  {
+    "name": "기괴한 촉수",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/eldritch_tendril.png"
+  },
+  {
+    "name": "진홍색 혼합물",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/crimson_brew.png"
+  },
+  {
+    "name": "그림자 보석",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/shadow_gem.png"
+  },
+  {
+    "name": "그림자 물약",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/shadow_potion.png"
+  },
+  {
+    "name": "부두 인형",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/voodoo_doll.png"
+  },
+  {
+    "name": "부정한 물약",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/unholy_potion.png"
+  },
+  {
+    "name": "흑요석 헬름 ★★",
+    "description": "액세서리 타입의 아이템. 효과: HP+140",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "HP+140",
+    "price": null,
+    "imageUrl": "/items/obsidian_helm.png"
+  },
+  {
+    "name": "거미 부츠",
+    "description": "액세서리 타입의 아이템. 효과: 민첩+21",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "민첩+21",
+    "price": 50,
+    "imageUrl": "/items/spider_boots.png"
+  },
+  {
+    "name": "거미 장갑",
+    "description": "액세서리 타입의 아이템. 효과: 체질+12\n민첩+12",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+12\n민첩+12",
+    "price": null,
+    "imageUrl": "/items/spider_gloves.png"
+  },
+  {
+    "name": "흑요석 방패",
+    "description": "액세서리 타입의 아이템. 효과: 체질+21",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+21",
+    "price": null,
+    "imageUrl": "/items/obsidian_shield.png"
+  },
+  {
+    "name": "그림자 반지 ★★★",
+    "description": "액세서리 타입의 아이템. 효과: 민첩+24\n선제 공격\n치명타 확률 +12%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "민첩+24\n선제 공격\n치명타 확률 +12%",
+    "price": null,
+    "imageUrl": "/items/shadow_ring.png"
+  },
+  {
+    "name": "밤날개 재킷",
+    "description": "미디엄아머 타입의 아이템. 효과: 체질+7민첩+7HP+140",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "체질+7민첩+7HP+140",
+    "price": null,
+    "imageUrl": "/items/nightwing_jacket.png"
+  },
+  {
+    "name": "흑요석 흉갑 ★",
+    "description": "헤비아머 타입의 아이템. 효과: 체질+7HP+210",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "체질+7HP+210",
+    "price": null,
+    "imageUrl": "/items/obsidian_cuirass.png"
+  },
+  {
+    "name": "부정한 흉갑 ★★★",
+    "description": "헤비아머 타입의 아이템. 효과: 체질+8HP+230보복 15 (마법)",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "체질+8HP+230보복 15 (마법)",
+    "price": null,
+    "imageUrl": "/items/unholy_cuirass.png"
+  },
+  {
+    "name": "거미 로브 ★★",
+    "description": "라이트아머 타입의 아이템. 효과: 지능+21HP+70",
+    "type": "라이트아머",
+    "rarity": "common",
+    "effect": "지능+21HP+70",
+    "price": null,
+    "imageUrl": "/items/spider_robe.png"
+  },
+  {
+    "name": "흑요석 검",
+    "description": "검 타입의 아이템. 효과: 체질+21민첩+7",
+    "type": "검",
+    "rarity": "common",
+    "effect": "체질+21민첩+7",
+    "price": null,
+    "imageUrl": "/items/obsidian_sword.png"
+  },
+  {
+    "name": "뱀파이어 검 ★★★",
+    "description": "검 타입의 아이템. 효과: 체질+21민첩+7생명력 흡수+20%",
+    "type": "검",
+    "rarity": "common",
+    "effect": "체질+21민첩+7생명력 흡수+20%",
+    "price": null,
+    "imageUrl": "/items/vampire_sword.png"
+  },
+  {
+    "name": "부정한 검",
+    "description": "검 타입의 아이템. 효과: 체질+27민첩+5보복 15 (마법)",
+    "type": "검",
+    "rarity": "common",
+    "effect": "체질+27민첩+5보복 15 (마법)",
+    "price": null,
+    "imageUrl": "/items/unholy_sword.png"
+  },
+  {
+    "name": "흑요석 홀장",
+    "description": "지팡이 타입의 아이템. 효과: 지능+28",
+    "type": "지팡이",
+    "rarity": "common",
+    "effect": "지능+28",
+    "price": null,
+    "imageUrl": "/items/obsidian_scepter.png"
+  },
+  {
+    "name": "뱀파이어 홀장 ★★★",
+    "description": "지팡이 타입의 아이템. 효과: 지능+28생명력 흡수+20%",
+    "type": "지팡이",
+    "rarity": "common",
+    "effect": "지능+28생명력 흡수+20%",
+    "price": null,
+    "imageUrl": "/items/vampire_scepter.png"
+  },
+  {
+    "name": "판옵티콘 지팡이 ★★★",
+    "description": "지팡이 타입의 아이템. 효과: 지능+32어둠-16",
+    "type": "지팡이",
+    "rarity": "common",
+    "effect": "지능+32어둠-16",
+    "price": null,
+    "imageUrl": "/items/panopticon_staff.png"
+  },
+  {
+    "name": "흑요석 활",
+    "description": "활 타입의 아이템. 효과: 지능+6민첩+22",
+    "type": "활",
+    "rarity": "common",
+    "effect": "지능+6민첩+22",
+    "price": 50,
+    "imageUrl": "/items/obsidian_bow.png"
+  },
+  {
+    "name": "뱀파이어 활",
+    "description": "활 타입의 아이템. 효과: 지능+6민첩+22생명력 흡수+20%",
+    "type": "활",
+    "rarity": "common",
+    "effect": "지능+6민첩+22생명력 흡수+20%",
+    "price": null,
+    "imageUrl": "/items/vampire_bow.png"
+  },
+  {
+    "name": "그림자 활",
+    "description": "활 타입의 아이템. 효과: 지능+6민첩+22피해량 [0.5x어둠]% 증가",
+    "type": "활",
+    "rarity": "common",
+    "effect": "지능+6민첩+22피해량 [0.5x어둠]% 증가",
+    "price": null,
+    "imageUrl": "/items/shadow_bow.png"
+  },
+  {
+    "name": "흑요석 단검",
+    "description": "단검 타입의 아이템. 효과: 체질+8민첩+20",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "체질+8민첩+20",
+    "price": null,
+    "imageUrl": "/items/obsidian_dagger.png"
+  },
+  {
+    "name": "뱀파이어 단검 ★",
+    "description": "단검 타입의 아이템. 효과: 체질+8민첩+20생명력 흡수+20%",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "체질+8민첩+20생명력 흡수+20%",
+    "price": null,
+    "imageUrl": "/items/vampire_dagger.png"
+  },
+  {
+    "name": "그림자 단검",
+    "description": "단검 타입의 아이템. 효과: 체질+8민첩+20피해량 [0.5x어둠]% 증가",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "체질+8민첩+20피해량 [0.5x어둠]% 증가",
+    "price": null,
+    "imageUrl": "/items/shadow_dagger.png"
+  },
+  {
+    "name": "거대한 나방 날개",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/giant_moth_wing.png"
+  },
+  {
+    "name": "날개 원단",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/wing_fabric.png"
+  },
+  {
+    "name": "스피트팽 비늘",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/spitfang_scale.png"
+  },
+  {
+    "name": "거대한 등딱지 조각",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/giant_shell_fragment.png"
+  },
+  {
+    "name": "거북이 가시",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/tortoise_thorn.png"
+  },
+  {
+    "name": "엘리시안 우드",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/elysian_wood.png"
+  },
+  {
+    "name": "하얀 머리카락",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/white_hair.png"
+  },
+  {
+    "name": "날쌘발 원단",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/fleetfoot_fabric.png"
+  },
+  {
+    "name": "살아있는 덩굴",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/living_vine.png"
+  },
+  {
+    "name": "질식 가루 주머니",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/bag_of_choking_powder.png"
+  },
+  {
+    "name": "긴 뱀 송곳니",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/long_serpent_fang.png"
+  },
+  {
+    "name": "태고의 비늘",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/primeval_scale.png"
+  },
+  {
+    "name": "아보카도",
+    "description": "음식 타입의 아이템. ",
+    "type": "음식",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/avocado.png"
+  },
+  {
+    "name": "두툼한 버섯",
+    "description": "음식 타입의 아이템. ",
+    "type": "음식",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/meaty_mushroom.png"
+  },
+  {
+    "name": "파충류 알",
+    "description": "알 타입의 아이템. ",
+    "type": "알",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/egg_reptile.png"
+  },
+  {
+    "name": "신록의 헬름 ★",
+    "description": "액세서리 타입의 아이템. 효과: HP+160",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "HP+160",
+    "price": null,
+    "imageUrl": "/items/verdant_helm.png"
+  },
+  {
+    "name": "태고의 헬름 ★",
+    "description": "액세서리 타입의 아이템. 효과: HP+180\n방어력+12",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "HP+180\n방어력+12",
+    "price": null,
+    "imageUrl": "/items/primeval_helm.png"
+  },
+  {
+    "name": "거북 방패",
+    "description": "액세서리 타입의 아이템. 효과: 체질+24",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+24",
+    "price": null,
+    "imageUrl": "/items/tortoise_shield.png"
+  },
+  {
+    "name": "가시 달린 거북 방패 ★★★",
+    "description": "액세서리 타입의 아이템. 효과: 체질+24\n보복25(물리)",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+24\n보복25(물리)",
+    "price": null,
+    "imageUrl": "/items/spiked_tortoise_shield.png"
+  },
+  {
+    "name": "태고의 방패",
+    "description": "액세서리 타입의 아이템. 효과: 체질+27\n방어력+12",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+27\n방어력+12",
+    "price": null,
+    "imageUrl": "/items/primeval_shield.png"
+  },
+  {
+    "name": "가시 달린 태고의 방패 ★",
+    "description": "액세서리 타입의 아이템. 효과: 체질+27\n방어력+12\n보복25(물리)",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+27\n방어력+12\n보복25(물리)",
+    "price": null,
+    "imageUrl": "/items/spiked_primeval_shield.png"
+  },
+  {
+    "name": "거북 갑옷",
+    "description": "헤비아머 타입의 아이템. 효과: 체질+8HP+240",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "체질+8HP+240",
+    "price": null,
+    "imageUrl": "/items/tortoise_armor.png"
+  },
+  {
+    "name": "날쌘발 갑옷 ★★★",
+    "description": "헤비아머 타입의 아이템. 효과: 체질+5민첩+1HP+240회피율+12% (합연산)",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "체질+5민첩+1HP+240회피율+12% (합연산)",
+    "price": null,
+    "imageUrl": "/items/fleetfoot_armor.png"
+  },
+  {
+    "name": "드라이어드의 갑옷 ★★★",
+    "description": "헤비아머 타입의 아이템. 효과: HP+240피격 시 자신에게 재생 효과 부여",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "HP+240피격 시 자신에게 재생 효과 부여",
+    "price": null,
+    "imageUrl": "/items/armor_of_the_dryad.png"
+  },
+  {
+    "name": "나방 로브",
+    "description": "라이트아머 타입의 아이템. 효과: 지능+24HP+80",
+    "type": "라이트아머",
+    "rarity": "common",
+    "effect": "지능+24HP+80",
+    "price": null,
+    "imageUrl": "/items/moth_robe.png"
+  },
+  {
+    "name": "날쌘발 로브 ★★★",
+    "description": "라이트아머 타입의 아이템. 효과: 지능+12민첩+4HP+80회피율+24% (합연산)",
+    "type": "라이트아머",
+    "rarity": "common",
+    "effect": "지능+12민첩+4HP+80회피율+24% (합연산)",
+    "price": null,
+    "imageUrl": "/items/fleetfoot_robe.png"
+  },
+  {
+    "name": "숨 막히는 로브 ★★★",
+    "description": "라이트아머 타입의 아이템. 효과: 지능+25HP+100근접 공격자를 침묵 상태로 만듭니다",
+    "type": "라이트아머",
+    "rarity": "common",
+    "effect": "지능+25HP+100근접 공격자를 침묵 상태로 만듭니다",
+    "price": null,
+    "imageUrl": "/items/breathtaking_robe.png"
+  },
+  {
+    "name": "태고의 갑옷 ★★★",
+    "description": "헤비아머 타입의 아이템. 효과: 체질+9HP+270방어력+15",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "체질+9HP+270방어력+15",
+    "price": null,
+    "imageUrl": "/items/primeval_armor.png"
+  },
+  {
+    "name": "살아있는 채찍 ★",
+    "description": "검 타입의 아이템. 효과: 민첩+12HP+40원거리 무기명중 시 65% 확률로 도발",
+    "type": "검",
+    "rarity": "common",
+    "effect": "민첩+12HP+40원거리 무기명중 시 65% 확률로 도발",
+    "price": null,
+    "imageUrl": "/items/living_whip.png"
+  },
+  {
+    "name": "드라이어드의 축복 ★",
+    "description": "지팡이 타입의 아이템. 효과: 지능+22치유량+23%",
+    "type": "지팡이",
+    "rarity": "common",
+    "effect": "지능+22치유량+23%",
+    "price": null,
+    "imageUrl": "/items/dryads_blessing.png"
+  },
+  {
+    "name": "신록의 장갑",
+    "description": "액세서리 타입의 아이템. 효과: 체질+14\n민첩+13",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+14\n민첩+13",
+    "price": null,
+    "imageUrl": "/items/verdant_gloves.png"
+  },
+  {
+    "name": "날쌘발 장갑",
+    "description": "액세서리 타입의 아이템. 효과: 체질+6\n민첩+11\n회피율+16%(합연산)",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+6\n민첩+11\n회피율+16%(합연산)",
+    "price": null,
+    "imageUrl": "/items/fleetfoot_gloves.png"
+  },
+  {
+    "name": "스피트팽 재킷",
+    "description": "미디엄아머 타입의 아이템. 효과: 체질+8민첩+8HP+160",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "체질+8민첩+8HP+160",
+    "price": null,
+    "imageUrl": "/items/spitfang_jacket.png"
+  },
+  {
+    "name": "날쌘발 재킷 ★★★",
+    "description": "미디엄아머 타입의 아이템. 효과: 체질+4민첩+8HP+160회피율+20% (합연산)",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "체질+4민첩+8HP+160회피율+20% (합연산)",
+    "price": null,
+    "imageUrl": "/items/fleetfoot_jacket.png"
+  },
+  {
+    "name": "신록의 부츠",
+    "description": "액세서리 타입의 아이템. 효과: 민첩+24",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "민첩+24",
+    "price": null,
+    "imageUrl": "/items/verdant_boots.png"
+  },
+  {
+    "name": "날쌘발 부츠",
+    "description": "액세서리 타입의 아이템. 효과: 민첩+16\n회피율+16%(합연산)",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "민첩+16\n회피율+16%(합연산)",
+    "price": null,
+    "imageUrl": "/items/fleetfoot_boots.png"
+  },
+  {
+    "name": "신록의 칼날",
+    "description": "단검 타입의 아이템. 효과: 체질+9민첩+23",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "체질+9민첩+23",
+    "price": null,
+    "imageUrl": "/items/verdant_blade.png"
+  },
+  {
+    "name": "드라이어드의 저주 ★★★★",
+    "description": "단검 타입의 아이템. 효과: 체질+9지능+30민첩+18마법 피해를 줌",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "체질+9지능+30민첩+18마법 피해를 줌",
+    "price": null,
+    "imageUrl": "/items/dryads_curse.png"
+  },
+  {
+    "name": "신록의 활",
+    "description": "활 타입의 아이템. 효과: 지능+8민첩+24",
+    "type": "활",
+    "rarity": "common",
+    "effect": "지능+8민첩+24",
+    "price": null,
+    "imageUrl": "/items/verdant_bow.png"
+  },
+  {
+    "name": "천상의 조각",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/celestial_scraps.png"
+  },
+  {
+    "name": "천상의 금속",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/celestial_metal.png"
+  },
+  {
+    "name": "사슬 고리",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/chain_link.png"
+  },
+  {
+    "name": "구원의 사슬",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/chain_of_redemption.png"
+  },
+  {
+    "name": "에테르의 불",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/aether_ignis.png"
+  },
+  {
+    "name": "밴쉬의 비늘",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/banshee_scale.png"
+  },
+  {
+    "name": "밴쉬의 발톱",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/banshee_claw.png"
+  },
+  {
+    "name": "타버린 심장",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/charred_heart.png"
+  },
+  {
+    "name": "밴쉬의 뿔",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/banshee_horn.png"
+  },
+  {
+    "name": "친화의 비약",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/elixir_of_affinity.png"
+  },
+  {
+    "name": "탄력막",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/elastic_membrane.png"
+  },
+  {
+    "name": "시냅스",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/synapse.png"
+  },
+  {
+    "name": "스캐너",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/scanner.png"
+  },
+  {
+    "name": "선속 제한기",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/flux_limiter.png"
+  },
+  {
+    "name": "천상의 헬멧 ★",
+    "description": "액세서리 타입의 아이템. 효과: HP+180",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "HP+180",
+    "price": null,
+    "imageUrl": "/items/celestial_helmet.png"
+  },
+  {
+    "name": "전술 헬멧",
+    "description": "액세서리 타입의 아이템. 효과: 민첩+12\nHP+120\n피해량 [0.5x어둠]% 증가",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "민첩+12\nHP+120\n피해량 [0.5x어둠]% 증가",
+    "price": null,
+    "imageUrl": "/items/tactical_helmet.png"
+  },
+  {
+    "name": "천상의 방패",
+    "description": "액세서리 타입의 아이템. 효과: 체질+27",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+27",
+    "price": null,
+    "imageUrl": "/items/celestial_shield.png"
+  },
+  {
+    "name": "탄력 있는 부츠",
+    "description": "액세서리 타입의 아이템. 효과: 민첩+27",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "민첩+27",
+    "price": null,
+    "imageUrl": "/items/elastic_boots.png"
+  },
+  {
+    "name": "점화 구체 ★★★★",
+    "description": "액세서리 타입의 아이템. 효과: 지능+8\nHP+70\n화염 피해+40%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "지능+8\nHP+70\n화염 피해+40%",
+    "price": null,
+    "imageUrl": "/items/ignition_orb.png"
+  },
+  {
+    "name": "천상의 갑옷",
+    "description": "헤비아머 타입의 아이템. 효과: 체질+9HP+270",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "체질+9HP+270",
+    "price": null,
+    "imageUrl": "/items/celestial_armor.png"
+  },
+  {
+    "name": "탄력 있는 로브",
+    "description": "라이트아머 타입의 아이템. 효과: 지능+27HP+90",
+    "type": "라이트아머",
+    "rarity": "common",
+    "effect": "지능+27HP+90",
+    "price": null,
+    "imageUrl": "/items/elastic_robe.png"
+  },
+  {
+    "name": "밴쉬 재킷",
+    "description": "미디엄아머 타입의 아이템. 효과: 체질+9민첩+9HP+180",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "체질+9민첩+9HP+180",
+    "price": null,
+    "imageUrl": "/items/banshee_jacket.png"
+  },
+  {
+    "name": "밴쉬 장갑",
+    "description": "액세서리 타입의 아이템. 효과: 체질+15\n민첩+15",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+15\n민첩+15",
+    "price": null,
+    "imageUrl": "/items/banshee_gloves.png"
+  },
+  {
+    "name": "스킨 리퍼 ★★★",
+    "description": "액세서리 타입의 아이템. 효과: 체질+21\n민첩+21\n치명타 확률 +15%\n치명타 피해 +15%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+21\n민첩+21\n치명타 확률 +15%\n치명타 피해 +15%",
+    "price": null,
+    "imageUrl": "/items/skin_blender.png"
+  },
+  {
+    "name": "천상의 검",
+    "description": "검 타입의 아이템. 효과: 체질+28민첩+8",
+    "type": "검",
+    "rarity": "common",
+    "effect": "체질+28민첩+8",
+    "price": null,
+    "imageUrl": "/items/celestial_sword.png"
+  },
+  {
+    "name": "집중의 홀장 ★",
+    "description": "지팡이 타입의 아이템. 효과: 지능+24공격이 항상 명중",
+    "type": "지팡이",
+    "rarity": "common",
+    "effect": "지능+24공격이 항상 명중",
+    "price": null,
+    "imageUrl": "/items/focused_scepter.png"
+  },
+  {
+    "name": "밴쉬의 단검",
+    "description": "단검 타입의 아이템. 효과: 체질+8민첩+28",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "체질+8민첩+28",
+    "price": null,
+    "imageUrl": "/items/banshee_dagger.png"
+  },
+  {
+    "name": "밴쉬의 활",
+    "description": "활 타입의 아이템. 효과: 지능+8민첩+28",
+    "type": "활",
+    "rarity": "common",
+    "effect": "지능+8민첩+28",
+    "price": null,
+    "imageUrl": "/items/banshee_bow.png"
+  },
+  {
+    "name": "밴쉬의 비명",
+    "description": "활 타입의 아이템. 효과: 지능+12민첩+38치명타 확률 +10%",
+    "type": "활",
+    "rarity": "common",
+    "effect": "지능+12민첩+38치명타 확률 +10%",
+    "price": null,
+    "imageUrl": "/items/banshee_scream.png"
+  },
+  {
+    "name": "단락 ★★★",
+    "description": "액세서리 타입의 아이템. 효과: 민첩+25추가 행동 : 50 피해, 기절 확률 10%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "민첩+25추가 행동 : 50 피해, 기절 확률 10%",
+    "price": null,
+    "imageUrl": "/items/short_circuit.png"
+  },
+  {
+    "name": "녹색 슬라임",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/green_slime.png"
+  },
+  {
+    "name": "태양섬광 핵",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/sunfire_core.png"
+  },
+  {
+    "name": "정전기 핵",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/static_core.png"
+  },
+  {
+    "name": "영구동토 핵",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/permafrost_core.png"
+  },
+  {
+    "name": "공허의 핵",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/void_core.png"
+  },
+  {
+    "name": "탐색 거울",
+    "description": "액세서리 타입의 아이템. 효과: 지능+25\n공격이 항상 명중",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "지능+25\n공격이 항상 명중",
+    "price": null,
+    "imageUrl": "/items/seeking_glass.png"
+  },
+  {
+    "name": "슬라임 왕의 왕관",
+    "description": "액세서리 타입의 아이템. 효과: 경험치+35%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "경험치+35%",
+    "price": null,
+    "imageUrl": "/items/slime_kings_crown.png"
+  },
+  {
+    "name": "태양섬광 정수",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/sunfire_essence.png"
+  },
+  {
+    "name": "정전기 정수",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/static_essence.png"
+  },
+  {
+    "name": "영구동토 정수",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/permafrost_essence.png"
+  },
+  {
+    "name": "프리즘 정수",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/prismatic_essence.png"
+  },
+  {
+    "name": "슬라임 갑옷 ★",
+    "description": "헤비아머 타입의 아이템. 효과: HP+150방어력+5",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "HP+150방어력+5",
+    "price": null,
+    "imageUrl": "/items/slime_armor.png"
+  },
+  {
+    "name": "슬라임 로브",
+    "description": "라이트아머 타입의 아이템. 효과: HP+80방어력+5",
+    "type": "라이트아머",
+    "rarity": "common",
+    "effect": "HP+80방어력+5",
+    "price": null,
+    "imageUrl": "/items/slime_robe.png"
+  },
+  {
+    "name": "슬라임 재킷",
+    "description": "미디엄아머 타입의 아이템. 효과: HP+130방어력+5",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "HP+130방어력+5",
+    "price": null,
+    "imageUrl": "/items/slime_jacket.png"
+  },
+  {
+    "name": "용융 지팡이",
+    "description": "지팡이 타입의 아이템. 효과: 지능+14",
+    "type": "지팡이",
+    "rarity": "common",
+    "effect": "지능+14",
+    "price": null,
+    "imageUrl": "/items/molten_staff.png"
+  },
+  {
+    "name": "태양 지팡이",
+    "description": "지팡이 타입의 아이템. 효과: 체질+2지능+13민첩+2화염 피해+40%",
+    "type": "지팡이",
+    "rarity": "common",
+    "effect": "체질+2지능+13민첩+2화염 피해+40%",
+    "price": null,
+    "imageUrl": "/items/sun_staff.png"
+  },
+  {
+    "name": "얼어붙은 포옹",
+    "description": "헤비아머 타입의 아이템. 효과: HP+200방어력+12근접 공격자를 빙결 상태로 만듦",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "HP+200방어력+12근접 공격자를 빙결 상태로 만듦",
+    "price": null,
+    "imageUrl": "/items/frozen_embrace.png"
+  },
+  {
+    "name": "이그니스 튜닉",
+    "description": "라이트아머 타입의 아이템. 효과: HP+100방어력+10화염 피해+40%",
+    "type": "라이트아머",
+    "rarity": "common",
+    "effect": "HP+100방어력+10화염 피해+40%",
+    "price": null,
+    "imageUrl": "/items/tunica_ignis.png"
+  },
+  {
+    "name": "구원의 망토 ★",
+    "description": "라이트아머 타입의 아이템. 효과: HP+110방어력+20마법 방어력+10화염 피해+40%",
+    "type": "라이트아머",
+    "rarity": "common",
+    "effect": "HP+110방어력+20마법 방어력+10화염 피해+40%",
+    "price": null,
+    "imageUrl": "/items/cloak_of_redemption.png"
+  },
+  {
+    "name": "프리즘 펜던트 ★",
+    "description": "액세서리 타입의 아이템. 효과: 경험치+65%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "경험치+65%",
+    "price": null,
+    "imageUrl": "/items/prismatic_pendant.png"
+  },
+  {
+    "name": "공허의 펜던트 ★",
+    "description": "액세서리 타입의 아이템. 효과: 경험치+80%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "경험치+80%",
+    "price": null,
+    "imageUrl": "/items/void_pendant.png"
+  },
+  {
+    "name": "프리즘 갑옷 ★★★",
+    "description": "헤비아머 타입의 아이템. 효과: HP+230방어력+15마법 방어력+15",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "HP+230방어력+15마법 방어력+15",
+    "price": null,
+    "imageUrl": "/items/prismatic_armor.png"
+  },
+  {
+    "name": "공허의 갑옷 ★★★",
+    "description": "헤비아머 타입의 아이템. 효과: HP+280방어력+15마법 방어력+15",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "HP+280방어력+15마법 방어력+15",
+    "price": null,
+    "imageUrl": "/items/void_armor.png"
+  },
+  {
+    "name": "승천한 활",
+    "description": "활 타입의 아이템. 효과: 지능+6민첩+8기절 확률 7.5%",
+    "type": "활",
+    "rarity": "common",
+    "effect": "지능+6민첩+8기절 확률 7.5%",
+    "price": null,
+    "imageUrl": "/items/ascended_bow.png"
+  },
+  {
+    "name": "파쇄하는 심해",
+    "description": "활 타입의 아이템. 효과: 지능+13민첩+18기절 확률 10%",
+    "type": "활",
+    "rarity": "common",
+    "effect": "지능+13민첩+18기절 확률 10%",
+    "price": null,
+    "imageUrl": "/items/crushing_depth.png"
+  },
+  {
+    "name": "고드름",
+    "description": "지팡이 타입의 아이템. 효과: 체질+10지능+26민첩+10타격 시 빙결",
+    "type": "지팡이",
+    "rarity": "common",
+    "effect": "체질+10지능+26민첩+10타격 시 빙결",
+    "price": null,
+    "imageUrl": "/items/icicle.png"
+  },
+  {
+    "name": "검사의 눈",
+    "description": "특수재료 타입의 아이템. 효과: [획득방법]\nR2 신성한 고고학에서 첫 번째 검사 샤'키레를 처치하면 100% 확률로 획득",
+    "type": "특수재료",
+    "rarity": "common",
+    "effect": "[획득방법]\nR2 신성한 고고학에서 첫 번째 검사 샤'키레를 처치하면 100% 확률로 획득",
+    "price": null,
+    "imageUrl": "/items/eyes_of_the_swordsman.png"
+  },
+  {
+    "name": "검사의 부적 ★★★★",
+    "description": "액세서리 타입의 아이템. 효과: 체질+25\n반격 확률+25%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+25\n반격 확률+25%",
+    "price": null,
+    "imageUrl": "/items/amulet_of_the_swordsman.png"
+  },
+  {
+    "name": "신성한 접합체",
+    "description": "액세서리 타입의 아이템. 효과: 체질+7\n지능+7\n민첩+7\n상태이상 면역 확률 +100%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+7\n지능+7\n민첩+7\n상태이상 면역 확률 +100%",
+    "price": null,
+    "imageUrl": "/items/divine_zygote.png"
+  },
+  {
+    "name": "신성한 배아 ★★★★",
+    "description": "액세서리 타입의 아이템. 효과: 체질+20지능+20민첩+20상태이상 면역 확률 +100%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+20지능+20민첩+20상태이상 면역 확률 +100%",
+    "price": null,
+    "imageUrl": "/items/divine_embryo.png"
+  },
+  {
+    "name": "저주받은 은",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/cursed_silver.png"
+  },
+  {
+    "name": "성구함 조각",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/phylactery_fragment.png"
+  },
+  {
+    "name": "리치의 로브",
+    "description": "라이트아머 타입의 아이템. 효과: 지능+27HP+75생명력 흡수+35%(하수인이 살아있을 경우)",
+    "type": "라이트아머",
+    "rarity": "common",
+    "effect": "지능+27HP+75생명력 흡수+35%(하수인이 살아있을 경우)",
+    "price": null,
+    "imageUrl": "/items/robe_of_the_lich.png"
+  },
+  {
+    "name": "잔인함의 포션",
+    "description": "포션 타입의 아이템. ",
+    "type": "포션",
+    "rarity": "common",
+    "effect": "",
+    "price": 80,
+    "imageUrl": "/items/potion_of_viciousness.png"
+  },
+  {
+    "name": "저주받은 활 ★★★★★",
+    "description": "활 타입의 아이템. 효과: 민첩+30두 번 공격",
+    "type": "활",
+    "rarity": "common",
+    "effect": "민첩+30두 번 공격",
+    "price": null,
+    "imageUrl": "/items/cursed_bow.png"
+  },
+  {
+    "name": "저주받은 재킷",
+    "description": "미디엄아머 타입의 아이템. 효과: 체질+10HP+100치명타 피해+50%",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "체질+10HP+100치명타 피해+50%",
+    "price": null,
+    "imageUrl": "/items/cursed_jacket.png"
+  },
+  {
+    "name": "저주받은 발톱",
+    "description": "액세서리 타입의 아이템. 효과: 체질+10\n민첩+10\n보너스 행동: 8출혈 중첩 적용",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+10\n민첩+10\n보너스 행동: 8출혈 중첩 적용",
+    "price": null,
+    "imageUrl": "/items/cursed_claws.png"
+  },
+  {
+    "name": "성구함",
+    "description": "액세서리 타입의 아이템. 효과: HP+80\n재생 효과+5%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "HP+80\n재생 효과+5%",
+    "price": null,
+    "imageUrl": "/items/phylactery.png"
+  },
+  {
+    "name": "불멸의 갑옷 ★★★",
+    "description": "헤비아머 타입의 아이템. 효과: HP+350피격시 자신에게 재생[+5%] 효과 부여",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "HP+350피격시 자신에게 재생[+5%] 효과 부여",
+    "price": null,
+    "imageUrl": "/items/armor_of_the_undying.png"
+  },
+  {
+    "name": "해골 열쇠",
+    "description": "액세서리 타입의 아이템. 효과: 지능+36\n하수인 피해량 x2",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "지능+36\n하수인 피해량 x2",
+    "price": null,
+    "imageUrl": "/items/skeleton_key.png"
+  },
+  {
+    "name": "카벨리안 금속",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/kabelian_metal.png"
+  },
+  {
+    "name": "감각이 있는 석판",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/sentient_slab.png"
+  },
+  {
+    "name": "연금술 가루",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/alchemic_powder.png"
+  },
+  {
+    "name": "숭고한 가루",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/exalted_powder.png"
+  },
+  {
+    "name": "거대한 검",
+    "description": "검 타입의 아이템. 효과: 체질+50체질 < 120일 경우 피해량 반감",
+    "type": "검",
+    "rarity": "common",
+    "effect": "체질+50체질 < 120일 경우 피해량 반감",
+    "price": null,
+    "imageUrl": "/items/colossal_sword.png"
+  },
+  {
+    "name": "영원한 굶주림",
+    "description": "액세서리 타입의 아이템. 효과: 지능+5\n생명력 흡수+50%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "지능+5\n생명력 흡수+50%",
+    "price": null,
+    "imageUrl": "/items/eternal_hunger.png"
+  },
+  {
+    "name": "클라리스의 인장",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/seal_of_claris.png"
+  },
+  {
+    "name": "마법 방어력 포션",
+    "description": "포션 타입의 아이템. ",
+    "type": "포션",
+    "rarity": "common",
+    "effect": "",
+    "price": 100,
+    "imageUrl": "/items/potion_of_magic_defense.png"
+  },
+  {
+    "name": "방어력 포션",
+    "description": "포션 타입의 아이템. ",
+    "type": "포션",
+    "rarity": "common",
+    "effect": "",
+    "price": 110,
+    "imageUrl": "/items/potion_of_defense.png"
+  },
+  {
+    "name": "결투사 갑옷 ★",
+    "description": "헤비아머 타입의 아이템. 효과: 체질+20HP+75반격 확률+25%",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "체질+20HP+75반격 확률+25%",
+    "price": null,
+    "imageUrl": "/items/duelist_armor.png"
+  },
+  {
+    "name": "챔피언 갑옷 ★★★★",
+    "description": "헤비아머 타입의 아이템. 효과: 체질+28HP+120반격 확률+40%",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "체질+28HP+120반격 확률+40%",
+    "price": null,
+    "imageUrl": "/items/champion_armor.png"
+  },
+  {
+    "name": "교활한 몰락",
+    "description": "미디엄아머 타입의 아이템. 효과: 체질+5민첩+5HP+140침묵 10%",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "체질+5민첩+5HP+140침묵 10%",
+    "price": null,
+    "imageUrl": "/items/cunning_downfall.png"
+  },
+  {
+    "name": "교활한 종말",
+    "description": "미디엄아머 타입의 아이템. 효과: 체질+7민첩+7HP+160침묵 12.5%",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "체질+7민첩+7HP+160침묵 12.5%",
+    "price": null,
+    "imageUrl": "/items/cunning_demise.png"
+  },
+  {
+    "name": "티탄의 힘",
+    "description": "활 타입의 아이템. 효과: 지능+20민첩+32기절 확률 11%",
+    "type": "활",
+    "rarity": "common",
+    "effect": "지능+20민첩+32기절 확률 11%",
+    "price": null,
+    "imageUrl": "/items/titanic_might.png"
+  },
+  {
+    "name": "티탄의 방패",
+    "description": "액세서리 타입의 아이템. 효과: 체질+16\n방어력+5\n마법 방어력+5\n위협 수준+1",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+16\n방어력+5\n마법 방어력+5\n위협 수준+1",
+    "price": null,
+    "imageUrl": "/items/shield_of_the_titan.png"
+  },
+  {
+    "name": "순교자의 방패 ★★★",
+    "description": "액세서리 타입의 아이템. 효과: 체질+22\n방어력+8\n마법 방어력+8\n위협 수준+2",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+22\n방어력+8\n마법 방어력+8\n위협 수준+2",
+    "price": null,
+    "imageUrl": "/items/shield_of_the_martyr.png"
+  },
+  {
+    "name": "플라잉 리퍼 ★★★★",
+    "description": "단검 타입의 아이템. 효과: 체질+10민첩+20원거리 무기",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "체질+10민첩+20원거리 무기",
+    "price": null,
+    "imageUrl": "/items/flying_reaper.png"
+  },
+  {
+    "name": "상호 절망 ★",
+    "description": "단검 타입의 아이템. 효과: 체질+15민첩+30부패 20치명타 피해+65%",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "체질+15민첩+30부패 20치명타 피해+65%",
+    "price": null,
+    "imageUrl": "/items/mutual_despair.png"
+  },
+  {
+    "name": "서펜트 지팡이",
+    "description": "지팡이 타입의 아이템. 효과: 지능+40치유량-50%타격시 격분",
+    "type": "지팡이",
+    "rarity": "common",
+    "effect": "지능+40치유량-50%타격시 격분",
+    "price": null,
+    "imageUrl": "/items/serpent_staff.png"
+  },
+  {
+    "name": "회피율 포션",
+    "description": "포션 타입의 아이템. ",
+    "type": "포션",
+    "rarity": "common",
+    "effect": "",
+    "price": 80,
+    "imageUrl": "/items/potion_of_agility.png"
+  },
+  {
+    "name": "면역 포션",
+    "description": "포션 타입의 아이템. ",
+    "type": "포션",
+    "rarity": "common",
+    "effect": "",
+    "price": 70,
+    "imageUrl": "/items/potion_of_immunity.png"
+  },
+  {
+    "name": "진홍색 베일 ★★★",
+    "description": "미디엄아머 타입의 아이템. 효과: 체질+24민첩+24HP+270치명타 확률+18%",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "체질+24민첩+24HP+270치명타 확률+18%",
+    "price": null,
+    "imageUrl": "/items/scarlet_veil.png"
+  },
+  {
+    "name": "진홍색 실 가닥",
+    "description": "특수재료 타입의 아이템. 효과: [획득방법]\n상점에서 650다이아로 구매",
+    "type": "특수재료",
+    "rarity": "common",
+    "effect": "[획득방법]\n상점에서 650다이아로 구매",
+    "price": 650,
+    "imageUrl": "/items/scarlet_strand.png"
+  },
+  {
+    "name": "글레이즈드 도넛",
+    "description": "음식(상점) 타입의 아이템. ",
+    "type": "음식(상점)",
+    "rarity": "common",
+    "effect": "",
+    "price": 50,
+    "imageUrl": "/items/glazed_donut.png"
+  },
+  {
+    "name": "고급스러운 아이스크림",
+    "description": "음식(상점) 타입의 아이템. ",
+    "type": "음식(상점)",
+    "rarity": "common",
+    "effect": "",
+    "price": 100,
+    "imageUrl": "/items/gourmet_icecream.png"
+  },
+  {
+    "name": "맥시버거",
+    "description": "음식(상점) 타입의 아이템. ",
+    "type": "음식(상점)",
+    "rarity": "common",
+    "effect": "",
+    "price": 200,
+    "imageUrl": "/items/maxxiburger.png"
+  },
+  {
+    "name": "치즈케이크",
+    "description": "음식(상점) 타입의 아이템. ",
+    "type": "음식(상점)",
+    "rarity": "common",
+    "effect": "",
+    "price": 400,
+    "imageUrl": "/items/cheesecake.png"
+  },
+  {
+    "name": "암브로시아",
+    "description": "음식(상점) 타입의 아이템. ",
+    "type": "음식(상점)",
+    "rarity": "common",
+    "effect": "",
+    "price": 800,
+    "imageUrl": "/items/ambrosia.png"
+  },
+  {
+    "name": "예식 케이크",
+    "description": "음식(상점) 타입의 아이템. ",
+    "type": "음식(상점)",
+    "rarity": "common",
+    "effect": "",
+    "price": 1500,
+    "imageUrl": "/items/ceremonial_cake.png"
+  },
+  {
+    "name": "이지스 ★★★★★",
+    "description": "검 타입의 아이템. 효과: HP+60\n방어력+10\n마법 방어력+10\n타격 시 도발",
+    "type": "검",
+    "rarity": "common",
+    "effect": "HP+60\n방어력+10\n마법 방어력+10\n타격 시 도발",
+    "price": 1000,
+    "imageUrl": "/items/aegis.png"
+  },
+  {
+    "name": "드림캐쳐",
+    "description": "액세서리 타입의 아이템. 효과: 체질+3\n지능+3\n민첩+3\n경험치 +50%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+3\n지능+3\n민첩+3\n경험치 +50%",
+    "price": null,
+    "imageUrl": "/items/dreamcatcher.png"
+  },
+  {
+    "name": "주문이 엮인 원피",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/spellwoven_hide.png"
+  },
+  {
+    "name": "주문이 엮인 가죽",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/spellwoven_leather.png"
+  },
+  {
+    "name": "주문이 엮인 재킷",
+    "description": "미디엄아머 타입의 아이템. 효과: 체질+10민첩+10HP+200",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "체질+10민첩+10HP+200",
+    "price": null,
+    "imageUrl": "/items/spellwoven_jacket.png"
+  },
+  {
+    "name": "라록시안 장갑",
+    "description": "액세서리 타입의 아이템. 효과: 체질+16민첩+17",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+16민첩+17",
+    "price": null,
+    "imageUrl": "/items/laroxian_gloves.png"
+  },
+  {
+    "name": "라록시안 부츠",
+    "description": "액세서리 타입의 아이템. 효과: 민첩+30",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "민첩+30",
+    "price": null,
+    "imageUrl": "/items/laroxian_boots.png"
+  },
+  {
+    "name": "살아 움직이는 파편",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/animated_scraps.png"
+  },
+  {
+    "name": "살아 움직이는 주괴",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/animated_ingot.png"
+  },
+  {
+    "name": "살아 움직이는 흉갑",
+    "description": "헤비아머 타입의 아이템. 효과: 체질+10HP+300",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "체질+10HP+300",
+    "price": null,
+    "imageUrl": "/items/animated_cuirass.png"
+  },
+  {
+    "name": "살아 움직이는 검",
+    "description": "검 타입의 아이템. 효과: 체질+30민첩+10",
+    "type": "검",
+    "rarity": "common",
+    "effect": "체질+30민첩+10",
+    "price": null,
+    "imageUrl": "/items/animated_sword.png"
+  },
+  {
+    "name": "살아 움직이는 지팡이",
+    "description": "지팡이 타입의 아이템. 효과: 지능+40",
+    "type": "지팡이",
+    "rarity": "common",
+    "effect": "지능+40",
+    "price": null,
+    "imageUrl": "/items/animated_staff.png"
+  },
+  {
+    "name": "살아 움직이는 단검",
+    "description": "단검 타입의 아이템. 효과: 체질+10민첩+30",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "체질+10민첩+30",
+    "price": null,
+    "imageUrl": "/items/animated_dagger.png"
+  },
+  {
+    "name": "살아 움직이는 활",
+    "description": "활 타입의 아이템. 효과: 지능+10민첩+30",
+    "type": "활",
+    "rarity": "common",
+    "effect": "지능+10민첩+30",
+    "price": null,
+    "imageUrl": "/items/animated_bow.png"
+  },
+  {
+    "name": "살아 움직이는 투구",
+    "description": "액세서리 타입의 아이템. 효과: HP+200",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "HP+200",
+    "price": null,
+    "imageUrl": "/items/animated_helm.png"
+  },
+  {
+    "name": "살아 움직이는 방패",
+    "description": "액세서리 타입의 아이템. 효과: 체질+30",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+30",
+    "price": null,
+    "imageUrl": "/items/animated_buckler.png"
+  },
+  {
+    "name": "사악한 홀장",
+    "description": "지팡이 타입의 아이템. 효과: 지능+45하수인이 우르의 눈을 얻습니다(상태이상 면역 100%, 체질15, 민첩15 인 액세서리를 하수인이 착용한다)",
+    "type": "지팡이",
+    "rarity": "common",
+    "effect": "지능+45하수인이 우르의 눈을 얻습니다(상태이상 면역 100%, 체질15, 민첩15 인 액세서리를 하수인이 착용한다)",
+    "price": null,
+    "imageUrl": "/items/wicked_scepter.png"
+  },
+  {
+    "name": "방출하는 핵",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/radiating_nucleus.png"
+  },
+  {
+    "name": "장막 절단기",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/veil_breaker.png"
+  },
+  {
+    "name": "보호의 보석",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/gem_of_protection.png"
+  },
+  {
+    "name": "장막 분쇄기",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/veil_shatterer.png"
+  },
+  {
+    "name": "불안정한 지팡이",
+    "description": "지팡이 타입의 아이템. 효과: 지능+40피해 : 최소 -80%, 최대 +80%",
+    "type": "지팡이",
+    "rarity": "common",
+    "effect": "지능+40피해 : 최소 -80%, 최대 +80%",
+    "price": null,
+    "imageUrl": "/items/unstable_staff.png"
+  },
+  {
+    "name": "라록시안 원단",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/laroxian_fabric.png"
+  },
+  {
+    "name": "라록시안 로브",
+    "description": "라이트아머 타입의 아이템. 효과: 지능+30HP+100",
+    "type": "라이트아머",
+    "rarity": "common",
+    "effect": "지능+30HP+100",
+    "price": null,
+    "imageUrl": "/items/laroxian_robe.png"
+  },
+  {
+    "name": "차폐 흉갑",
+    "description": "헤비아머 타입의 아이템. 효과: 체질+15HP+300상태이상 면역 확률 +30%",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "체질+15HP+300상태이상 면역 확률 +30%",
+    "price": null,
+    "imageUrl": "/items/shielding_cuirass.png"
+  },
+  {
+    "name": "차폐 재킷",
+    "description": "미디엄아머 타입의 아이템. 효과: 체질+14\n민첩+10\nHP+200\n상태이상 면역 확률 +30%",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "체질+14\n민첩+10\nHP+200\n상태이상 면역 확률 +30%",
+    "price": null,
+    "imageUrl": "/items/shielding_jacket.png"
+  },
+  {
+    "name": "차폐 헬름",
+    "description": "액세서리 타입의 아이템. 효과: 체질+3\nHP+200\n상태이상 면역 확률 +25%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+3\nHP+200\n상태이상 면역 확률 +25%",
+    "price": null,
+    "imageUrl": "/items/shielding_helm.png"
+  },
+  {
+    "name": "주문 개론",
+    "description": "액세서리 타입의 아이템. 효과: 지능+30",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "지능+30",
+    "price": null,
+    "imageUrl": "/items/spell_compendium.png"
+  },
+  {
+    "name": "대마법사의 지팡이",
+    "description": "지팡이 타입의 아이템. 효과: 지능+40\n피해: 최대+15%",
+    "type": "지팡이",
+    "rarity": "common",
+    "effect": "지능+40\n피해: 최대+15%",
+    "price": null,
+    "imageUrl": "/items/staff_of_the_archmage.png"
+  },
+  {
+    "name": "대마법사의 로브",
+    "description": "라이트아머 타입의 아이템. 효과: 지능+40\nHP+120\n마법 방어력+6",
+    "type": "라이트아머",
+    "rarity": "common",
+    "effect": "지능+40\nHP+120\n마법 방어력+6",
+    "price": null,
+    "imageUrl": "/items/robe_of_the_archmage.png"
+  },
+  {
+    "name": "힘의 룬",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/rune_of_power.png"
+  },
+  {
+    "name": "사악한 인장",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/wicked_seal.png"
+  },
+  {
+    "name": "불안정한 보석",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/unstable_gem.png"
+  },
+  {
+    "name": "대마법사의 모자",
+    "description": "액세서리 타입의 아이템. 효과: 지능+35치명타 피해+20%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "지능+35치명타 피해+20%",
+    "price": null,
+    "imageUrl": "/items/archmage_hat.png"
+  },
+  {
+    "name": "재조립 재킷",
+    "description": "미디엄아머 타입의 아이템. 효과: 체질+18\n민첩+14\nHP+200\n재생+40\n상태이상 면역 확률+30%",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "체질+18\n민첩+14\nHP+200\n재생+40\n상태이상 면역 확률+30%",
+    "price": null,
+    "imageUrl": "/items/reassembling_jacket.png"
+  },
+  {
+    "name": "이상한 원단",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/abherrant_fabric.png"
+  },
+  {
+    "name": "검은 원피",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/black_hide.png"
+  },
+  {
+    "name": "섬뜩한 조각",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/eldritch_shred.png"
+  },
+  {
+    "name": "음산한 부츠",
+    "description": "액세서리 타입의 아이템. 효과: 민첩+34회피율+20% (합연산)",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "민첩+34회피율+20% (합연산)",
+    "price": null,
+    "imageUrl": "/items/bleak_boots.png"
+  },
+  {
+    "name": "음산한 장갑",
+    "description": "액세서리 타입의 아이템. 효과: 체질+18민첩+19회피율+20% (힙연산)",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+18민첩+19회피율+20% (힙연산)",
+    "price": null,
+    "imageUrl": "/items/bleak_gloves.png"
+  },
+  {
+    "name": "섬뜩한 인장",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/eldritch_seal.png"
+  },
+  {
+    "name": "섬뜩한 주교관",
+    "description": "액세서리 타입의 아이템. 효과: 지능+45\nHP+50\n치유량-99%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "지능+45\nHP+50\n치유량-99%",
+    "price": null,
+    "imageUrl": "/items/eldritch_mitre.png"
+  },
+  {
+    "name": "카벨리안 발톱",
+    "description": "액세서리 타입의 아이템. 효과: 체질+18\n민첩+16\n보너스 행동: 20출혈 중첩 적용",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+18\n민첩+16\n보너스 행동: 20출혈 중첩 적용",
+    "price": null,
+    "imageUrl": "/items/kabelian_claws.png"
+  },
+  {
+    "name": "보이지 않는 하인",
+    "description": "액세서리 타입의 아이템. 효과: 체질+35\nHP+135\n보너스 행동: 140의 원거리 마법 피해",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+35\nHP+135\n보너스 행동: 140의 원거리 마법 피해",
+    "price": null,
+    "imageUrl": "/items/invisible_servant.png"
+  },
+  {
+    "name": "전우주의 바이올린",
+    "description": "액세서리 타입의 아이템. 효과: 체질+25\n지능+25\n민첩+25\n영감을 주다/고양: +3턴",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+25\n지능+25\n민첩+25\n영감을 주다/고양: +3턴",
+    "price": null,
+    "imageUrl": "/items/cosmic_violin.png"
+  },
+  {
+    "name": "별의 파편",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/star_fragment.png"
+  },
+  {
+    "name": "숲의 플루트",
+    "description": "액세서리 타입의 아이템. 효과: 체질+10\n지능+10\n민첩+10\n영감을 주다/고양: +2턴",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+10\n지능+10\n민첩+10\n영감을 주다/고양: +2턴",
+    "price": null,
+    "imageUrl": "/items/sylvan_flute.png"
+  },
+  {
+    "name": "플루트",
+    "description": "액세서리 타입의 아이템. 효과: 체질+5\n지능+5\n민첩+5\n영감을 주다/고양: +1턴",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+5\n지능+5\n민첩+5\n영감을 주다/고양: +1턴",
+    "price": null,
+    "imageUrl": "/items/flute.png"
+  },
+  {
+    "name": "별의 섬광",
+    "description": "활 타입의 아이템. 효과: 지능+34\n민첩+55\n기절+13%",
+    "type": "활",
+    "rarity": "common",
+    "effect": "지능+34\n민첩+55\n기절+13%",
+    "price": null,
+    "imageUrl": "/items/stellar_flare.png"
+  },
+  {
+    "name": "십자군 휘장",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/crusader_insigna.png"
+  },
+  {
+    "name": "심령의 점액",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/astral_goo.png"
+  },
+  {
+    "name": "늑대인간 송곳니",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/werewolf_fang.png"
+  },
+  {
+    "name": "보름달 단검",
+    "description": "단검 타입의 아이템. 효과: 체질+5민첩+5생명력 흡수 +15%",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "체질+5민첩+5생명력 흡수 +15%",
+    "price": null,
+    "imageUrl": "/items/fullmoon_dagger.png"
+  },
+  {
+    "name": "지옥의 양식",
+    "description": "음식 타입의 아이템. ",
+    "type": "음식",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/hellish_ration.png"
+  },
+  {
+    "name": "호박",
+    "description": "음식 타입의 아이템. ",
+    "type": "음식",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/pumpkin.png"
+  },
+  {
+    "name": "카벨리안 갑옷",
+    "description": "헤비아머 타입의 아이템. 효과: HP+105체질+20어둠 -20",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "HP+105체질+20어둠 -20",
+    "price": null,
+    "imageUrl": "/items/kabelian_armor.png"
+  },
+  {
+    "name": "천상의 자비",
+    "description": "검 타입의 아이템. 효과: 체질+28민첩+8어둠 -12 공격이 항상 명중;",
+    "type": "검",
+    "rarity": "common",
+    "effect": "체질+28민첩+8어둠 -12 공격이 항상 명중;",
+    "price": null,
+    "imageUrl": "/items/celestials_mercy.png"
+  },
+  {
+    "name": "얼음 감옥",
+    "description": "헤비아머 타입의 아이템. 효과: HP+215방어력+16근접 공격자를 빙결 상태로 만듦",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "HP+215방어력+16근접 공격자를 빙결 상태로 만듦",
+    "price": null,
+    "imageUrl": "/items/ice_cage.png"
+  },
+  {
+    "name": "별의 지팡이",
+    "description": "지팡이 타입의 아이템. 효과: 체질+10지능+25민첩+10화염 피해 +60%",
+    "type": "지팡이",
+    "rarity": "common",
+    "effect": "체질+10지능+25민첩+10화염 피해 +60%",
+    "price": null,
+    "imageUrl": "/items/stellar_staff.png"
+  },
+  {
+    "name": "저주받은 헬름",
+    "description": "액세서리 타입의 아이템. 효과: HP+105보복 15(물리)",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "HP+105보복 15(물리)",
+    "price": null,
+    "imageUrl": "/items/cursed_helm.png"
+  },
+  {
+    "name": "진 토닉",
+    "description": "액세서리 타입의 아이템. 효과: HP+15체질+4지능+4상태이상 면역 확률 +20%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "HP+15체질+4지능+4상태이상 면역 확률 +20%",
+    "price": null,
+    "imageUrl": "/items/djinn_tonic.png"
+  },
+  {
+    "name": "신성한 유충",
+    "description": "액세서리 타입의 아이템. 효과: 체질+25지능+25민첩+25상태이상 면역 확률 +100%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+25지능+25민첩+25상태이상 면역 확률 +100%",
+    "price": null,
+    "imageUrl": "/items/divine_larvae.png"
+  },
+  {
+    "name": "부정한 주문감옥",
+    "description": "헤비아머 타입의 아이템. 효과: HP+320체질+9보복 60 (마법)",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "HP+320체질+9보복 60 (마법)",
+    "price": null,
+    "imageUrl": "/items/unholy_spellcage.png"
+  },
+  {
+    "name": "오싹한 방패",
+    "description": "액세서리 타입의 아이템. 효과: HP+25체질+9마법 방어력+8보복 10 (마법)",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "HP+25체질+9마법 방어력+8보복 10 (마법)",
+    "price": null,
+    "imageUrl": "/items/ghastly_shield.png"
+  },
+  {
+    "name": "테러사우루스 송곳니",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/terrorsaurus_fang.png"
+  },
+  {
+    "name": "익룡 발톱",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/pterodactyl_claw.png"
+  },
+  {
+    "name": "독이 든 살",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/poisonous_flesh.png"
+  },
+  {
+    "name": "점화석영",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/kindlequartz.png"
+  },
+  {
+    "name": "다이아몬드",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/diamond.png"
+  },
+  {
+    "name": "인페르나이트",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/infernite.png"
+  },
+  {
+    "name": "학습의 비약",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/elixir_of_learning.png"
+  },
+  {
+    "name": "미스릴",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/mithril.png"
+  },
+  {
+    "name": "고대의 원피",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/ancient_hide.png"
+  },
+  {
+    "name": "공룡 갈비",
+    "description": "음식 타입의 아이템. ",
+    "type": "음식",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/dino_ribs.png"
+  },
+  {
+    "name": "고대의 막",
+    "description": "일반재료 타입의 아이템. ",
+    "type": "일반재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/ancient_membrane.png"
+  },
+  {
+    "name": "선사의 혼합물",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/prehistoric_mixture.png"
+  },
+  {
+    "name": "고대의 부츠",
+    "description": "액세서리 타입의 아이템. 효과: 민첩+33",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "민첩+33",
+    "price": null,
+    "imageUrl": "/items/ancient_boots.png"
+  },
+  {
+    "name": "고대의 장갑",
+    "description": "액세서리 타입의 아이템. 효과: 체질+18민첩+18",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+18민첩+18",
+    "price": null,
+    "imageUrl": "/items/ancient_gloves.png"
+  },
+  {
+    "name": "고대의 부적",
+    "description": "액세서리 타입의 아이템. 효과: HP+140동물 친화력: 40",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "HP+140동물 친화력: 40",
+    "price": null,
+    "imageUrl": "/items/archaic_amulet.png"
+  },
+  {
+    "name": "다이아몬드 부적",
+    "description": "액세서리 타입의 아이템. 효과: HP+175경험치 +55%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "HP+175경험치 +55%",
+    "price": null,
+    "imageUrl": "/items/diamond_amulet.png"
+  },
+  {
+    "name": "고대의 재킷",
+    "description": "미디엄아머 타입의 아이템. 효과: HP+220체질+11민첩+11",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "HP+220체질+11민첩+11",
+    "price": null,
+    "imageUrl": "/items/ancient_jacket.png"
+  },
+  {
+    "name": "야수조련사 재킷",
+    "description": "미디엄아머 타입의 아이템. 효과: HP+220체질+10민첩+10동물 친화력 50",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "HP+220체질+10민첩+10동물 친화력 50",
+    "price": null,
+    "imageUrl": "/items/beastmaster_jacket.png"
+  },
+  {
+    "name": "고대의 로브",
+    "description": "라이트아머 타입의 아이템. 효과: HP+110지능+33",
+    "type": "라이트아머",
+    "rarity": "common",
+    "effect": "HP+110지능+33",
+    "price": null,
+    "imageUrl": "/items/ancient_robe.png"
+  },
+  {
+    "name": "미스릴 활",
+    "description": "활 타입의 아이템. 효과: 지능+11민첩+33",
+    "type": "활",
+    "rarity": "common",
+    "effect": "지능+11민첩+33",
+    "price": null,
+    "imageUrl": "/items/mithril_bow.png"
+  },
+  {
+    "name": "미스릴 헬름",
+    "description": "액세서리 타입의 아이템. 효과: HP+220",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "HP+220",
+    "price": null,
+    "imageUrl": "/items/mithril_helm.png"
+  },
+  {
+    "name": "미스릴 방패",
+    "description": "액세서리 타입의 아이템. 효과: 체질+33",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+33",
+    "price": null,
+    "imageUrl": "/items/mithril_shield.png"
+  },
+  {
+    "name": "고대의 갑옷",
+    "description": "헤비아머 타입의 아이템. 효과: HP+330체질+11",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "HP+330체질+11",
+    "price": null,
+    "imageUrl": "/items/ancient_armor.png"
+  },
+  {
+    "name": "미스릴 검",
+    "description": "검 타입의 아이템. 효과: 체질+33민첩+11",
+    "type": "검",
+    "rarity": "common",
+    "effect": "체질+33민첩+11",
+    "price": null,
+    "imageUrl": "/items/mithril_sword.png"
+  },
+  {
+    "name": "미스릴 단검",
+    "description": "단검 타입의 아이템. 효과: 체질+11민첩+33",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "체질+11민첩+33",
+    "price": null,
+    "imageUrl": "/items/mithril_dagger.png"
+  },
+  {
+    "name": "독소 주머니",
+    "description": "액세서리 타입의 아이템. 효과: HP+90지능+15독 피해 -4%",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "HP+90지능+15독 피해 -4%",
+    "price": null,
+    "imageUrl": "/items/toxin_pouch.png"
+  },
+  {
+    "name": "지옥의 차크람",
+    "description": "단검 타입의 아이템. 효과: 민첩+40원거리 무기",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "민첩+40원거리 무기",
+    "price": null,
+    "imageUrl": "/items/infernal_chakram.png"
+  },
+  {
+    "name": "의식의 칼날",
+    "description": "단검 타입의 아이템. 효과: HP+80체질+25지능+25치유량 +60%",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "HP+80체질+25지능+25치유량 +60%",
+    "price": null,
+    "imageUrl": "/items/ritual_blade.png"
+  },
+  {
+    "name": "불타는 초상",
+    "description": "액세서리 타입의 아이템. 효과: 체질+34방어력+9마법 방어력+9위협 수준+3",
+    "type": "액세서리",
+    "rarity": "common",
+    "effect": "체질+34방어력+9마법 방어력+9위협 수준+3",
+    "price": null,
+    "imageUrl": "/items/burning_effigy.png"
+  },
+  {
+    "name": "지혜의 주입물",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/infusion_of_wisdom.png"
+  },
+  {
+    "name": "현자의 재킷",
+    "description": "미디엄아머 타입의 아이템. 효과: HP+140체질+7민첩+7경험치 +60%",
+    "type": "미디엄아머",
+    "rarity": "common",
+    "effect": "HP+140체질+7민첩+7경험치 +60%",
+    "price": null,
+    "imageUrl": "/items/sage_jacket.png"
+  },
+  {
+    "name": "현자의 망토",
+    "description": "라이트아머 타입의 아이템. 효과: HP+70지능+21경험치+60%",
+    "type": "라이트아머",
+    "rarity": "common",
+    "effect": "HP+70지능+21경험치+60%",
+    "price": null,
+    "imageUrl": "/items/sage_cloak.png"
+  },
+  {
+    "name": "현자의 갑옷",
+    "description": "헤비아머 타입의 아이템. 효과: HP+210체질+7경험치+60%",
+    "type": "헤비아머",
+    "rarity": "common",
+    "effect": "HP+210체질+7경험치+60%",
+    "price": null,
+    "imageUrl": "/items/sage_armor.png"
+  },
+  {
+    "name": "예식용 단검",
+    "description": "단검 타입의 아이템. 효과: HP+30체질+8지능+8치유량+40%",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "HP+30체질+8지능+8치유량+40%",
+    "price": null,
+    "imageUrl": "/items/ceremonial_dagger.png"
+  },
+  {
+    "name": "지옥의 활",
+    "description": "활 타입의 아이템. 효과: 민첩+45두 번 공격",
+    "type": "활",
+    "rarity": "common",
+    "effect": "민첩+45두 번 공격",
+    "price": null,
+    "imageUrl": "/items/infernal_bow.png"
+  },
+  {
+    "name": "에보-23 바이알",
+    "description": "특수재료 타입의 아이템. 효과: 이 아이템은 모험가의 희귀 특성을 수정할 수 있습니다.\n[두번째 특성을 추가하거나 변경 가능]",
+    "type": "특수재료",
+    "rarity": "common",
+    "effect": "이 아이템은 모험가의 희귀 특성을 수정할 수 있습니다.\n[두번째 특성을 추가하거나 변경 가능]",
+    "price": null,
+    "imageUrl": "/items/evo23_vial.png"
+  },
+  {
+    "name": "서펜트의 돌진",
+    "description": "단검 타입의 아이템. 효과: 체질 +25민첩 +25피해 -50%회피 +50%",
+    "type": "단검",
+    "rarity": "common",
+    "effect": "체질 +25민첩 +25피해 -50%회피 +50%",
+    "price": null,
+    "imageUrl": "/items/serpent_lunge.png"
+  },
+  {
+    "name": "서펜트의 독침",
+    "description": "활 타입의 아이템. 효과: 민첩 +40피해 x3자기 기절",
+    "type": "활",
+    "rarity": "common",
+    "effect": "민첩 +40피해 x3자기 기절",
+    "price": null,
+    "imageUrl": "/items/serpent_sting.png"
+  },
+  {
+    "name": "사펜트의 이빨",
+    "description": "검 타입의 아이템. 효과: 체질 +30민첩 +10위협 -4피해 x 위협",
+    "type": "검",
+    "rarity": "common",
+    "effect": "체질 +30민첩 +10위협 -4피해 x 위협",
+    "price": null,
+    "imageUrl": "/items/serpent_bite.png"
+  },
+  {
+    "name": "업그레이드: 작업장 대기열",
+    "description": "특수재료 타입의 아이템. 효과: 1번만 구매 가능",
+    "type": "특수재료",
+    "rarity": "common",
+    "effect": "1번만 구매 가능",
+    "price": 500,
+    "imageUrl": "/items/upgrade_workshop_queue.png"
+  },
+  {
+    "name": "업그레이드: 시장 대기열",
+    "description": "특수재료 타입의 아이템. 효과: 1번만 구매 가능",
+    "type": "특수재료",
+    "rarity": "common",
+    "effect": "1번만 구매 가능",
+    "price": 500,
+    "imageUrl": "/items/upgrade_market_queue.png"
+  },
+  {
+    "name": "업그레이드: 선술집 수용 인원",
+    "description": "특수재료 타입의 아이템. 효과: 1번만 구매 가능",
+    "type": "특수재료",
+    "rarity": "common",
+    "effect": "1번만 구매 가능",
+    "price": 500,
+    "imageUrl": "/items/upgrade_tavern_capacity.png"
+  },
+  {
+    "name": "업그레이드: 쉘터",
+    "description": "특수재료 타입의 아이템. 효과: 1번만 구매 가능",
+    "type": "특수재료",
+    "rarity": "common",
+    "effect": "1번만 구매 가능",
+    "price": 500,
+    "imageUrl": "/items/upgrade_shelter.png"
+  },
+  {
+    "name": "업그레이드: 숙소",
+    "description": "특수재료 타입의 아이템. 효과: 1번만 구매 가능",
+    "type": "특수재료",
+    "rarity": "common",
+    "effect": "1번만 구매 가능",
+    "price": 500,
+    "imageUrl": "/items/upgrade_quarters.png"
+  },
+  {
+    "name": "업그레이드: 시장 시간",
+    "description": "특수재료 타입의 아이템. 효과: 2번만 구매 가능",
+    "type": "특수재료",
+    "rarity": "common",
+    "effect": "2번만 구매 가능",
+    "price": 300,
+    "imageUrl": "/items/upgrade_market_time.png"
+  },
+  {
+    "name": "업그레이드: 작업장 시간",
+    "description": "특수재료 타입의 아이템. 효과: 2번만 구매 가능",
+    "type": "특수재료",
+    "rarity": "common",
+    "effect": "2번만 구매 가능",
+    "price": 300,
+    "imageUrl": "/items/upgrade_workshop_time.png"
+  },
+  {
+    "name": "업그레이드: 저장소",
+    "description": "특수재료 타입의 아이템. 효과: 10번만 구매 가능",
+    "type": "특수재료",
+    "rarity": "common",
+    "effect": "10번만 구매 가능",
+    "price": 80,
+    "imageUrl": "/items/upgrade_storage.png"
+  },
+  {
+    "name": "업그레이드: 선술집 시간",
+    "description": "특수재료 타입의 아이템. 효과: 2번만 구매 가능",
+    "type": "특수재료",
+    "rarity": "common",
+    "effect": "2번만 구매 가능",
+    "price": 300,
+    "imageUrl": "/items/upgrade_tavern_time.png"
+  },
+  {
+    "name": "중재",
+    "description": "특수재료 타입의 아이템. 효과: 모험가가 레벨을 초기화하지 않고 승천할수 있습니다.승천한 모험가는 교리에 접근할수 있고, 기본능력치 증가및 물약 한도 증가혜택을 얻지만 레벨업에 두 배의 경험치가 필요합니다.",
+    "type": "특수재료",
+    "rarity": "common",
+    "effect": "모험가가 레벨을 초기화하지 않고 승천할수 있습니다.승천한 모험가는 교리에 접근할수 있고, 기본능력치 증가및 물약 한도 증가혜택을 얻지만 레벨업에 두 배의 경험치가 필요합니다.",
+    "price": null,
+    "imageUrl": "/items/intercession.png"
+  },
+  {
+    "name": "회춘의 포션",
+    "description": "가공재료 타입의 아이템. ",
+    "type": "가공재료",
+    "rarity": "common",
+    "effect": "",
+    "price": null,
+    "imageUrl": "/items/potion_of_rejuvenation.png"
+  }
+]

@@ -1,0 +1,342 @@
+{
+  "images": [
+    {
+      "src": "/img/kor.62f4bbf6.png",
+      "alt": null,
+      "className": "lan_icon",
+      "parentTag": "DIV",
+      "parentClass": "lan_icon_wrapper"
+    },
+    {
+      "src": "/images/gem.png",
+      "alt": "gem",
+      "className": "item_small",
+      "parentTag": "TH",
+      "parentClass": ""
+    },
+    {
+      "src": "/images/beast_pelt.png",
+      "alt": "Beast Pelt",
+      "className": "item cursor",
+      "parentTag": "TD",
+      "parentClass": ""
+    },
+    {
+      "src": "/images/coin_copper.png",
+      "alt": "coin_copper",
+      "className": "",
+      "parentTag": "TD",
+      "parentClass": ""
+    },
+    {
+      "src": "/images/unit_wolf.png",
+      "alt": "Wolf(D1)",
+      "className": "item",
+      "parentTag": "DIV",
+      "parentClass": "cursor"
+    },
+    {
+      "src": "/images/unit_boar.png",
+      "alt": "Boar(D1)",
+      "className": "item",
+      "parentTag": "DIV",
+      "parentClass": "cursor"
+    },
+    {
+      "src": "/images/leather.png",
+      "alt": "Leather",
+      "className": "item cursor",
+      "parentTag": "TD",
+      "parentClass": ""
+    },
+    {
+      "src": "/images/coin_copper.png",
+      "alt": "coin_copper",
+      "className": "",
+      "parentTag": "TD",
+      "parentClass": ""
+    },
+    {
+      "src": "/images/alpha_wolf_fang.png",
+      "alt": "Alpha Wolf Fang",
+      "className": "item cursor",
+      "parentTag": "TD",
+      "parentClass": ""
+    },
+    {
+      "src": "/images/coin_copper.png",
+      "alt": "coin_copper",
+      "className": "",
+      "parentTag": "TD",
+      "parentClass": ""
+    },
+    {
+      "src": "/images/unit_wolf.png",
+      "alt": "Wolf(D1)",
+      "className": "item",
+      "parentTag": "DIV",
+      "parentClass": "cursor"
+    },
+    {
+      "src": "/images/egg_wild.png",
+      "alt": "Wild Egg",
+      "className": "item cursor",
+      "parentTag": "TD",
+      "parentClass": ""
+    },
+    {
+      "src": "/images/coin_copper.png",
+      "alt": "coin_copper",
+      "className": "",
+      "parentTag": "TD",
+      "parentClass": ""
+    },
+    {
+      "src": "/images/unit_deckhand.png",
+      "alt": "Deckhand(D5)",
+      "className": "item",
+      "parentTag": "DIV",
+      "parentClass": "cursor"
+    },
+    {
+      "src": "/images/unit_wolf.png",
+      "alt": "Wolf(D1)",
+      "className": "item",
+      "parentTag": "DIV",
+      "parentClass": "cursor"
+    },
+    {
+      "src": "/images/unit_boar.png",
+      "alt": "Boar(D1)",
+      "className": "item",
+      "parentTag": "DIV",
+      "parentClass": "cursor"
+    },
+    {
+      "src": "/images/unit_golden_rabbit.png",
+      "alt": "Golden Rabbit(D1)",
+      "className": "item",
+      "parentTag": "DIV",
+      "parentClass": "cursor"
+    },
+    {
+      "src": "/images/meat_chop.png",
+      "alt": "Meat Chop",
+      "className": "item cursor",
+      "parentTag": "TD",
+      "parentClass": ""
+    },
+    {
+      "src": "/images/coin_copper.png",
+      "alt": "coin_copper",
+      "className": "",
+      "parentTag": "TD",
+      "parentClass": ""
+    },
+    {
+      "src": "/images/unit_boar.png",
+      "alt": "Boar(D1)",
+      "className": "item",
+      "parentTag": "DIV",
+      "parentClass": "cursor"
+    },
+    {
+      "src": "/images/unit_golden_rabbit.png",
+      "alt": "Golden Rabbit(D1)",
+      "className": "item",
+      "parentTag": "DIV",
+      "parentClass": "cursor"
+    },
+    {
+      "src": "/images/boar_tusk.png",
+      "alt": "Boar Tusk",
+      "className": "item cursor",
+      "parentTag": "TD",
+      "parentClass": ""
+    },
+    {
+      "src": "/images/coin_copper.png",
+      "alt": "coin_copper",
+      "className": "",
+      "parentTag": "TD",
+      "parentClass": ""
+    },
+    {
+      "src": "/images/unit_boar.png",
+      "alt": "Boar(D1)",
+      "className": "item",
+      "parentTag": "DIV",
+      "parentClass": "cursor"
+    },
+    {
+      "src": "/images/wood.png",
+      "alt": "Wood",
+      "className": "item cursor",
+      "parentTag": "TD",
+      "parentClass": ""
+    },
+    {
+      "src": "/images/coin_copper.png",
+      "alt": "coin_copper",
+      "className": "",
+      "parentTag": "TD",
+      "parentClass": ""
+    },
+    {
+      "src": "/images/unit_treant.png",
+      "alt": "Treant(D1)",
+      "className": "item",
+      "parentTag": "DIV",
+      "parentClass": "cursor"
+    },
+    {
+      "src": "/images/unit_ent.png",
+      "alt": "Ent(D1)",
+      "className": "item",
+      "parentTag": "DIV",
+      "parentClass": "cursor"
+    },
+    {
+      "src": "/images/plant_fiber.png",
+      "alt": "Plant Fiber",
+      "className": "item cursor",
+      "parentTag": "TD",
+      "parentClass": ""
+    },
+    {
+      "src": "/images/coin_copper.png",
+      "alt": "coin_copper",
+      "className": "",
+      "parentTag": "TD",
+      "parentClass": ""
+    },
+    {
+      "src": "/images/unit_treant.png",
+      "alt": "Treant(D1)",
+      "className": "item",
+      "parentTag": "DIV",
+      "parentClass": "cursor"
+    },
+    {
+      "src": "/images/unit_centaur.png",
+      "alt": "Centaur(D1)",
+      "className": "item",
+      "parentTag": "DIV",
+      "parentClass": "cursor"
+    },
+    {
+      "src": "/images/living_sap.png",
+      "alt": "Living Sap",
+      "className": "item cursor",
+      "parentTag": "TD",
+      "parentClass": ""
+    },
+    {
+      "src": "/images/coin_copper.png",
+      "alt": "coin_copper",
+      "className": "",
+      "parentTag": "TD",
+      "parentClass": ""
+    },
+    {
+      "src": "/images/unit_treant.png",
+      "alt": "Treant(D1)",
+      "className": "item",
+      "parentTag": "DIV",
+      "parentClass": "cursor"
+    },
+    {
+      "src": "/images/tomato.png",
+      "alt": "Tomato",
+      "className": "item cursor",
+      "parentTag": "TD",
+      "parentClass": ""
+    },
+    {
+      "src": "/images/coin_copper.png",
+      "alt": "coin_copper",
+      "className": "",
+      "parentTag": "TD",
+      "parentClass": ""
+    },
+    {
+      "src": "/images/unit_treant.png",
+      "alt": "Treant(D1)",
+      "className": "item",
+      "parentTag": "DIV",
+      "parentClass": "cursor"
+    }
+  ],
+  "tables": [
+    {
+      "className": "mgT10",
+      "rows": 11,
+      "headers": [
+        "No.",
+        "Image",
+        "Name",
+        "Type",
+        "Stats",
+        "How Get",
+        "Sell Price(Efficiency)",
+        "Price",
+        "Feed Power",
+        "Combine",
+        "Drop Monsters(Map)(Drop Rate)"
+      ]
+    }
+  ],
+  "itemDivs": [
+    {
+      "className": "item_box_wrapper",
+      "id": "",
+      "textContent": "70%45%"
+    },
+    {
+      "className": "item_box_wrapper",
+      "id": "",
+      "textContent": ""
+    },
+    {
+      "className": "item_box_wrapper",
+      "id": "",
+      "textContent": "8%"
+    },
+    {
+      "className": "item_box_wrapper",
+      "id": "",
+      "textContent": "0.1%0.1%0.1%0.1%"
+    },
+    {
+      "className": "item_box_wrapper",
+      "id": "",
+      "textContent": "1.2%2%"
+    },
+    {
+      "className": "item_box_wrapper",
+      "id": "",
+      "textContent": "30%"
+    },
+    {
+      "className": "item_box_wrapper",
+      "id": "",
+      "textContent": "59.9%49.9%"
+    },
+    {
+      "className": "item_box_wrapper",
+      "id": "",
+      "textContent": "34.5%45%"
+    },
+    {
+      "className": "item_box_wrapper",
+      "id": "",
+      "textContent": "0.5%"
+    },
+    {
+      "className": "item_box_wrapper",
+      "id": "",
+      "textContent": "1.2%"
+    }
+  ],
+  "listItems": []
+}

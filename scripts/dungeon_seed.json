@@ -1,0 +1,182 @@
+[
+  {
+    "name": "D1. 마법의 숲",
+    "description": "D1. 마법의 숲 던전",
+    "minLevel": 1,
+    "maxLevel": 10,
+    "difficulty": "easy",
+    "unlockRequirement": null,
+    "backgroundImage": null
+  },
+  {
+    "name": "D2. 사막",
+    "description": "D2. 사막 던전",
+    "minLevel": 6,
+    "maxLevel": 20,
+    "difficulty": "easy",
+    "unlockRequirement": "D1. 마법의 숲 완료",
+    "backgroundImage": null
+  },
+  {
+    "name": "D3. 영원한 전장",
+    "description": "D3. 영원한 전장 던전",
+    "minLevel": 11,
+    "maxLevel": 30,
+    "difficulty": "easy",
+    "unlockRequirement": "D2. 사막 완료",
+    "backgroundImage": null
+  },
+  {
+    "name": "D4. 황금 도시",
+    "description": "D4. 황금 도시 던전",
+    "minLevel": 16,
+    "maxLevel": 40,
+    "difficulty": "easy",
+    "unlockRequirement": "D3. 영원한 전장 완료",
+    "backgroundImage": null
+  },
+  {
+    "name": "D5. 블랙워터 항구",
+    "description": "D5. 블랙워터 항구 던전",
+    "minLevel": 21,
+    "maxLevel": 50,
+    "difficulty": "easy",
+    "unlockRequirement": "D4. 황금 도시 완료",
+    "backgroundImage": null
+  },
+  {
+    "name": "D6. 얼어붙는 봉우리",
+    "description": "D6. 얼어붙는 봉우리 던전",
+    "minLevel": 26,
+    "maxLevel": 60,
+    "difficulty": "medium",
+    "unlockRequirement": "D5. 블랙워터 항구 완료",
+    "backgroundImage": null
+  },
+  {
+    "name": "D7. 흑요석 광산",
+    "description": "D7. 흑요석 광산 던전",
+    "minLevel": 31,
+    "maxLevel": 70,
+    "difficulty": "medium",
+    "unlockRequirement": "D6. 얼어붙는 봉우리 완료",
+    "backgroundImage": null
+  },
+  {
+    "name": "D8. 남부 숲",
+    "description": "D8. 남부 숲 던전",
+    "minLevel": 36,
+    "maxLevel": 80,
+    "difficulty": "medium",
+    "unlockRequirement": "D7. 흑요석 광산 완료",
+    "backgroundImage": null
+  },
+  {
+    "name": "D9. 메마른 황무지",
+    "description": "D9. 메마른 황무지 던전",
+    "minLevel": 41,
+    "maxLevel": 90,
+    "difficulty": "medium",
+    "unlockRequirement": "D8. 남부 숲 완료",
+    "backgroundImage": null
+  },
+  {
+    "name": "D10. 숨겨진 도시, 라록스",
+    "description": "D10. 숨겨진 도시, 라록스 던전",
+    "minLevel": 46,
+    "maxLevel": 100,
+    "difficulty": "medium",
+    "unlockRequirement": "D9. 메마른 황무지 완료",
+    "backgroundImage": null
+  },
+  {
+    "name": "D11. 잊혀진 대지",
+    "description": "D11. 잊혀진 대지 던전",
+    "minLevel": 51,
+    "maxLevel": 110,
+    "difficulty": "hard",
+    "unlockRequirement": "D10. 숨겨진 도시, 라록스 완료",
+    "backgroundImage": null
+  },
+  {
+    "name": "R1. 슬라임 연못",
+    "description": "R1. 슬라임 연못 던전",
+    "minLevel": 56,
+    "maxLevel": 120,
+    "difficulty": "hard",
+    "unlockRequirement": "D11. 잊혀진 대지 완료",
+    "backgroundImage": null
+  },
+  {
+    "name": "R2. [E]신성한 고고학",
+    "description": "R2. [E]신성한 고고학 던전",
+    "minLevel": 61,
+    "maxLevel": 130,
+    "difficulty": "hard",
+    "unlockRequirement": "R1. 슬라임 연못 완료",
+    "backgroundImage": null
+  },
+  {
+    "name": "R3. 고대 무덤 발굴",
+    "description": "R3. 고대 무덤 발굴 던전",
+    "minLevel": 66,
+    "maxLevel": 140,
+    "difficulty": "hard",
+    "unlockRequirement": "R2. [E]신성한 고고학 완료",
+    "backgroundImage": null
+  },
+  {
+    "name": "R4. [E]제국 구조",
+    "description": "R4. [E]제국 구조 던전",
+    "minLevel": 71,
+    "maxLevel": 150,
+    "difficulty": "hard",
+    "unlockRequirement": "R3. 고대 무덤 발굴 완료",
+    "backgroundImage": null
+  },
+  {
+    "name": "R5. 광신도의 반란",
+    "description": "R5. 광신도의 반란 던전",
+    "minLevel": 76,
+    "maxLevel": 160,
+    "difficulty": "expert",
+    "unlockRequirement": "R4. [E]제국 구조 완료",
+    "backgroundImage": null
+  },
+  {
+    "name": "R6. [E]끔찍한 상승",
+    "description": "R6. [E]끔찍한 상승 던전",
+    "minLevel": 81,
+    "maxLevel": 170,
+    "difficulty": "expert",
+    "unlockRequirement": "R5. 광신도의 반란 완료",
+    "backgroundImage": null
+  },
+  {
+    "name": "R7. 실종된 탐험대",
+    "description": "R7. 실종된 탐험대 던전",
+    "minLevel": 86,
+    "maxLevel": 180,
+    "difficulty": "expert",
+    "unlockRequirement": "R6. [E]끔찍한 상승 완료",
+    "backgroundImage": null
+  },
+  {
+    "name": "R8. [E]천상의 모선",
+    "description": "R8. [E]천상의 모선 던전",
+    "minLevel": 91,
+    "maxLevel": 190,
+    "difficulty": "expert",
+    "unlockRequirement": "R7. 실종된 탐험대 완료",
+    "backgroundImage": null
+  },
+  {
+    "name": "R9. [E]무서운 하강",
+    "description": "R9. [E]무서운 하강 던전",
+    "minLevel": 96,
+    "maxLevel": 200,
+    "difficulty": "expert",
+    "unlockRequirement": "R8. [E]천상의 모선 완료",
+    "backgroundImage": null
+  }
+]
