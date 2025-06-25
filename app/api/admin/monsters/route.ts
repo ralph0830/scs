@@ -16,26 +16,20 @@ export async function GET() {
 export async function POST(request: NextRequest) {
   try {
     const body = await request.json();
-    const { name, description, emoji, imageUrl, type, baseHp, baseAttack, baseDefense, hpGrowth, attackGrowth, defenseGrowth, rarity, minLevel, maxLevel, experienceReward, goldReward, dropRate } = body;
+    const { id, name, description, imageUrl, type, baseHp, baseAttack, baseDefense, rarity, experienceReward, goldReward } = body;
 
     const newMonster = await db.insert(monsters).values({
+      id,
       name,
       description,
-      emoji,
       imageUrl,
       type,
       baseHp,
       baseAttack,
       baseDefense,
-      hpGrowth,
-      attackGrowth,
-      defenseGrowth,
       rarity,
-      minLevel,
-      maxLevel,
       experienceReward,
       goldReward,
-      dropRate,
     }).returning();
 
     return NextResponse.json(newMonster[0]);

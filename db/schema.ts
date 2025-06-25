@@ -11,7 +11,6 @@ export const critters = sqliteTable('critters', {
   id: integer('id').primaryKey(),
   name: text('name').notNull(),
   description: text('description'),
-  emoji: text('emoji'),
   imageUrl: text('image_url'),
   type: text('type', { enum: critterTypes }).default('normal').notNull(),
   
@@ -169,27 +168,14 @@ export const monsters = sqliteTable('monsters', {
   id: integer('id').primaryKey({ autoIncrement: true }),
   name: text('name').notNull(),
   description: text('description'),
-  emoji: text('emoji'),
   imageUrl: text('image_url'),
   type: text('type', { enum: critterTypes }).default('normal').notNull(),
-  
-  // Base stats
   baseHp: integer('base_hp').default(10).notNull(),
   baseAttack: integer('base_attack').default(5).notNull(),
   baseDefense: integer('base_defense').default(5).notNull(),
-
-  // Stat growth per level
-  hpGrowth: real('hp_growth').default(1.1).notNull(),
-  attackGrowth: real('attack_growth').default(1.1).notNull(),
-  defenseGrowth: real('defense_growth').default(1.1).notNull(),
-
-  // Monster specific properties
   rarity: text('rarity', { enum: ['common', 'uncommon', 'rare', 'epic', 'legendary'] }).default('common').notNull(),
-  minLevel: integer('min_level').default(1).notNull(),
-  maxLevel: integer('max_level').default(100).notNull(),
   experienceReward: integer('experience_reward').default(10).notNull(),
   goldReward: integer('gold_reward').default(5).notNull(),
-  dropRate: real('drop_rate').default(0.1).notNull(), // 10% default drop rate
 });
 
 // Monster skills (monsters can have different skills than critters)

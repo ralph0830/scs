@@ -162,9 +162,7 @@ export default function DungeonSpawnsPage({ params }: { params: { dungeonId: str
               <TableRow key={spawn.id}>
                 <TableCell className="font-medium">
                   <div className="flex items-center">
-                    {spawn.monster.emoji && (
-                      <span className="mr-2">{spawn.monster.emoji}</span>
-                    )}
+                    {spawn.monster.imageUrl && <img src={spawn.monster.imageUrl} alt={spawn.monster.name} className="mr-2 w-6 h-6 inline-block" />}
                     {spawn.monster.name}
                   </div>
                 </TableCell>

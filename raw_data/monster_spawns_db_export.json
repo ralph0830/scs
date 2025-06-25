@@ -1,0 +1,911 @@
+[
+  {
+    "id": 1,
+    "area_id": 1,
+    "monster_id": 1,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 2,
+    "area_id": 1,
+    "monster_id": 2,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 3,
+    "area_id": 1,
+    "monster_id": 3,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 4,
+    "area_id": 1,
+    "monster_id": 4,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 5,
+    "area_id": 1,
+    "monster_id": 5,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 6,
+    "area_id": 1,
+    "monster_id": 6,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 7,
+    "area_id": 1,
+    "monster_id": 7,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 8,
+    "area_id": 2,
+    "monster_id": 8,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 9,
+    "area_id": 2,
+    "monster_id": 9,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 10,
+    "area_id": 2,
+    "monster_id": 10,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 11,
+    "area_id": 2,
+    "monster_id": 11,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 12,
+    "area_id": 2,
+    "monster_id": 12,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 13,
+    "area_id": 2,
+    "monster_id": 13,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 14,
+    "area_id": 2,
+    "monster_id": 14,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 15,
+    "area_id": 3,
+    "monster_id": 15,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 16,
+    "area_id": 3,
+    "monster_id": 16,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 17,
+    "area_id": 3,
+    "monster_id": 17,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 18,
+    "area_id": 3,
+    "monster_id": 18,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 19,
+    "area_id": 3,
+    "monster_id": 19,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 20,
+    "area_id": 3,
+    "monster_id": 20,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 21,
+    "area_id": 3,
+    "monster_id": 21,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 22,
+    "area_id": 4,
+    "monster_id": 22,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 23,
+    "area_id": 4,
+    "monster_id": 23,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 24,
+    "area_id": 4,
+    "monster_id": 24,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 25,
+    "area_id": 4,
+    "monster_id": 25,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 26,
+    "area_id": 4,
+    "monster_id": 26,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 27,
+    "area_id": 4,
+    "monster_id": 27,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 28,
+    "area_id": 4,
+    "monster_id": 28,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 29,
+    "area_id": 5,
+    "monster_id": 29,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 30,
+    "area_id": 5,
+    "monster_id": 30,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 31,
+    "area_id": 5,
+    "monster_id": 31,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 32,
+    "area_id": 5,
+    "monster_id": 32,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 33,
+    "area_id": 5,
+    "monster_id": 33,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 34,
+    "area_id": 5,
+    "monster_id": 34,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 35,
+    "area_id": 6,
+    "monster_id": 35,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 36,
+    "area_id": 6,
+    "monster_id": 36,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 37,
+    "area_id": 6,
+    "monster_id": 37,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 38,
+    "area_id": 6,
+    "monster_id": 38,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 39,
+    "area_id": 6,
+    "monster_id": 39,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 40,
+    "area_id": 6,
+    "monster_id": 40,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 41,
+    "area_id": 7,
+    "monster_id": 41,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 42,
+    "area_id": 7,
+    "monster_id": 42,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 43,
+    "area_id": 7,
+    "monster_id": 43,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 44,
+    "area_id": 7,
+    "monster_id": 44,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 45,
+    "area_id": 7,
+    "monster_id": 45,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 46,
+    "area_id": 7,
+    "monster_id": 46,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 47,
+    "area_id": 8,
+    "monster_id": 47,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 48,
+    "area_id": 8,
+    "monster_id": 48,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 49,
+    "area_id": 8,
+    "monster_id": 49,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 50,
+    "area_id": 8,
+    "monster_id": 50,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 51,
+    "area_id": 8,
+    "monster_id": 51,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 52,
+    "area_id": 8,
+    "monster_id": 52,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 53,
+    "area_id": 9,
+    "monster_id": 53,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 54,
+    "area_id": 9,
+    "monster_id": 54,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 55,
+    "area_id": 9,
+    "monster_id": 55,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 56,
+    "area_id": 9,
+    "monster_id": 56,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 57,
+    "area_id": 9,
+    "monster_id": 57,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 58,
+    "area_id": 10,
+    "monster_id": 58,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 59,
+    "area_id": 10,
+    "monster_id": 59,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 60,
+    "area_id": 10,
+    "monster_id": 60,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 61,
+    "area_id": 10,
+    "monster_id": 61,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 62,
+    "area_id": 10,
+    "monster_id": 62,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 63,
+    "area_id": 10,
+    "monster_id": 63,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 64,
+    "area_id": 11,
+    "monster_id": 64,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 65,
+    "area_id": 11,
+    "monster_id": 65,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 66,
+    "area_id": 11,
+    "monster_id": 66,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 67,
+    "area_id": 11,
+    "monster_id": 67,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 68,
+    "area_id": 11,
+    "monster_id": 68,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 69,
+    "area_id": 11,
+    "monster_id": 69,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 70,
+    "area_id": 12,
+    "monster_id": 70,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 71,
+    "area_id": 12,
+    "monster_id": 71,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 72,
+    "area_id": 12,
+    "monster_id": 72,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 73,
+    "area_id": 12,
+    "monster_id": 73,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 74,
+    "area_id": 12,
+    "monster_id": 74,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 75,
+    "area_id": 12,
+    "monster_id": 75,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 76,
+    "area_id": 13,
+    "monster_id": 76,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 77,
+    "area_id": 13,
+    "monster_id": 77,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 78,
+    "area_id": 13,
+    "monster_id": 78,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 79,
+    "area_id": 14,
+    "monster_id": 79,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 80,
+    "area_id": 14,
+    "monster_id": 80,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 81,
+    "area_id": 14,
+    "monster_id": 81,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 82,
+    "area_id": 15,
+    "monster_id": 82,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 83,
+    "area_id": 16,
+    "monster_id": 83,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 84,
+    "area_id": 16,
+    "monster_id": 84,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 85,
+    "area_id": 16,
+    "monster_id": 85,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 86,
+    "area_id": 16,
+    "monster_id": 86,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 87,
+    "area_id": 16,
+    "monster_id": 87,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 88,
+    "area_id": 17,
+    "monster_id": 88,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 89,
+    "area_id": 17,
+    "monster_id": 89,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 90,
+    "area_id": 17,
+    "monster_id": 90,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 91,
+    "area_id": 18,
+    "monster_id": 91,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 92,
+    "area_id": 18,
+    "monster_id": 92,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 93,
+    "area_id": 18,
+    "monster_id": 93,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 94,
+    "area_id": 18,
+    "monster_id": 94,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 95,
+    "area_id": 18,
+    "monster_id": 95,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 96,
+    "area_id": 19,
+    "monster_id": 96,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 97,
+    "area_id": 19,
+    "monster_id": 97,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 98,
+    "area_id": 19,
+    "monster_id": 98,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 99,
+    "area_id": 20,
+    "monster_id": 99,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 100,
+    "area_id": 20,
+    "monster_id": 100,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  },
+  {
+    "id": 101,
+    "area_id": 20,
+    "monster_id": 101,
+    "spawn_rate": 0.1,
+    "min_level": 1,
+    "max_level": 100,
+    "is_boss": 0
+  }
+]

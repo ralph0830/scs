@@ -1,0 +1,20 @@
+[
+  {
+    "id": "admin",
+    "username": "admin",
+    "password": "$2b$12$I2td2.5jh43Tbyp9giQ5uOLGdb9a3EkQt6yBnvBiY9K5XhRabR4Hy",
+    "is_admin": 1,
+    "gold": 1000,
+    "diamonds": 100,
+    "created_at": 1750863148
+  },
+  {
+    "id": "testuser",
+    "username": "testuser",
+    "password": "password123",
+    "is_admin": 0,
+    "gold": 1000,
+    "diamonds": 100,
+    "created_at": 1750863148
+  }
+]

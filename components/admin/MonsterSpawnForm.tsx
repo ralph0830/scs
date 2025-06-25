@@ -135,7 +135,7 @@ export const MonsterSpawnForm = ({ initialData, onSuccess, dungeonId, monsters }
                   {monsters.map((monster) => (
                     <SelectItem key={monster.id} value={monster.id.toString()}>
                       <div className="flex items-center">
-                        {monster.emoji && <span className="mr-2">{monster.emoji}</span>}
+                        {monster.imageUrl && <img src={monster.imageUrl} alt={monster.name} className="mr-2 w-6 h-6 inline-block" />}
                         {monster.name}
                       </div>
                     </SelectItem>

@@ -1,0 +1,10 @@
+ID  | 이름           | 타입       | HP   | ATK  | DEF  | 이모지  | 이미지                  | 설명
+Traceback (most recent call last):
+----------------------------------------------------------------------------------------------------
+1 | 아쿠아핀 | 물 장난을 좋아하는 강아지 크리터. | None | /uploads/1750753405085-aquapin.png | water | 10 | 5 | 5
+2 | 파이로 | 불처럼 뜨거운 성격의 고양이 크리터. | None | /uploads/1750764150956-1750554324554-불.png | fire | 10 | 5 | 5
+3 | 리프링 | 숲의 기운을 받은 풀잎 크리터. | None | /uploads/1750764166766-1750555644166-초록.png | grass | 10 | 5 | 5
+4 | 로키 | 단단한 돌로 만들어진 돌맹이 골렘 | None | /uploads/1750764208072-1750557047017-바위.png | rock | 10 | 5 | 5
+  File "D:\project\gamedev\scs\scripts\show_critters_scs2.py", line 13, in <module>
+    print(' | '.join(str(x) for x in row))
+UnicodeEncodeError: 'cp949' codec can't encode character '\U0001f98a' in position 38: illegal multibyte sequence

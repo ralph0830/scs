@@ -19,7 +19,8 @@ const dungeonSchema = z.object({
 export async function GET() {
   try {
     const allDungeons = await db.select().from(dungeonAreas)
-    return NextResponse.json(allDungeons)
+    const idNameMap = Object.fromEntries(allDungeons.map(d => [d.id, d.name]))
+    return NextResponse.json({ dungeons: allDungeons, idNameMap })
   } catch (error) {
     console.error('Failed to fetch dungeons:', error)
     return NextResponse.json(

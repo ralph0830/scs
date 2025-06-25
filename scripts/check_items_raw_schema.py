@@ -1,14 +1,17 @@
 import json
 from collections import Counter, defaultdict
+import sys
+import io
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 
-with open('raw_data/items_raw.json', encoding='utf-8') as f:
+with open('../raw_data/items_raw.json', encoding='utf-8') as f:
     items = json.load(f)
 
 # 1. type.text 종류/분포
 all_types = [item.get('type', {}).get('text', '') for item in items]
 type_counter = Counter(all_types)
 
-# 2. 가격 필드 비정상 값
+# 2. 가격 필드 비정상
 invalid_sell_price = []
 for item in items:
     sp = item.get('sell_price', '')
@@ -23,7 +26,7 @@ id_counter = Counter(ids)
 duplicated_ids = [i for i, c in id_counter.items() if c > 1]
 missing_ids = set(range(1, max(ids)+1)) - set(ids)
 
-# 4. 추가 필드 타입 분포
+# 4. 추가 필드 타입분포
 extra_fields = ['gem_price', 'feed_power', 'important_val', 'stats', 'stats_eng']
 field_types = defaultdict(Counter)
 for item in items:
@@ -35,7 +38,7 @@ print('--- type.text 분포 ---')
 for t, c in type_counter.items():
     print(f'{t}: {c}')
 
-print('\n--- 가격 필드 비정상 값 ---')
+print('\n--- 가격 필드 비정상 ---')
 if invalid_sell_price:
     for i in invalid_sell_price:
         print(i)
@@ -52,6 +55,6 @@ if missing_ids:
 else:
     print('누락 id 없음')
 
-print('\n--- 추가 필드 타입 분포 ---')
+print('\n--- 추가 필드 타입분포 ---')
 for f, c in field_types.items():
     print(f'{f}: {dict(c)}')

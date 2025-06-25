@@ -29,8 +29,23 @@ const difficultyLabels: Record<string, string> = {
   master: '마스터',
 }
 
+function parseUnlockRequirement(unlockRequirement: string | null, idNameMap: Record<number, string>): string {
+  if (!unlockRequirement) return '바로 해금';
+  try {
+    const obj = JSON.parse(unlockRequirement);
+    if (typeof obj === 'object' && obj.type && Array.isArray(obj.requirements)) {
+      const conds = obj.requirements.map((r: any) => `${idNameMap[r.dungeonId] || `ID${r.dungeonId}`}:${r.clearCount}회`).join(` ${obj.type} `);
+      return conds;
+    }
+    return unlockRequirement;
+  } catch {
+    return unlockRequirement;
+  }
+}
+
 export default function AdminDungeonsPage() {
   const [dungeons, setDungeons] = useState<any[]>([])
+  const [idNameMap, setIdNameMap] = useState<Record<number, string>>({})
   const [isLoading, setIsLoading] = useState(true)
   const [isFormOpen, setIsFormOpen] = useState(false)
   const [selectedDungeon, setSelectedDungeon] = useState<any | null>(null)
@@ -41,7 +56,8 @@ export default function AdminDungeonsPage() {
       const response = await fetch('/api/admin/dungeons')
       if (response.ok) {
         const data = await response.json()
-        setDungeons(data)
+        setDungeons(data.dungeons)
+        setIdNameMap(data.idNameMap)
       } else {
         throw new Error('Failed to fetch dungeons')
       }
@@ -129,11 +145,7 @@ export default function AdminDungeonsPage() {
                 </TableCell>
                 <TableCell>{`${dungeon.minLevel}~${dungeon.maxLevel}`}</TableCell>
                 <TableCell>
-                  {dungeon.unlockRequirement ? (
-                    <span className="text-sm text-gray-600">{dungeon.unlockRequirement}</span>
-                  ) : (
-                    <span className="text-sm text-green-600">바로 해금</span>
-                  )}
+                  <span className="text-sm text-gray-600">{parseUnlockRequirement(dungeon.unlockRequirement, idNameMap)}</span>
                 </TableCell>
                 <TableCell>
                   <div className="flex space-x-2">
