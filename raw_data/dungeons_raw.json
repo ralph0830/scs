@@ -1,0 +1,122 @@
+[
+  {
+    "name": "D1. 마법의 숲",
+    "value": "1",
+    "monsterCount": 7,
+    "itemCount": 15
+  },
+  {
+    "name": "D2. 사막",
+    "value": "2",
+    "monsterCount": 7,
+    "itemCount": 13
+  },
+  {
+    "name": "D3. 영원한 전장",
+    "value": "3",
+    "monsterCount": 7,
+    "itemCount": 17
+  },
+  {
+    "name": "D4. 황금 도시",
+    "value": "4",
+    "monsterCount": 7,
+    "itemCount": 25
+  },
+  {
+    "name": "D5. 블랙워터 항구",
+    "value": "5",
+    "monsterCount": 6,
+    "itemCount": 16
+  },
+  {
+    "name": "D6. 얼어붙는 봉우리",
+    "value": "6",
+    "monsterCount": 6,
+    "itemCount": 17
+  },
+  {
+    "name": "D7. 흑요석 광산",
+    "value": "7",
+    "monsterCount": 6,
+    "itemCount": 21
+  },
+  {
+    "name": "D8. 남부 숲",
+    "value": "8",
+    "monsterCount": 6,
+    "itemCount": 25
+  },
+  {
+    "name": "D9. 메마른 황무지",
+    "value": "9",
+    "monsterCount": 5,
+    "itemCount": 17
+  },
+  {
+    "name": "D10. 숨겨진 도시, 라록스",
+    "value": "16",
+    "monsterCount": 6,
+    "itemCount": 34
+  },
+  {
+    "name": "D11. 잊혀진 대지",
+    "value": "18",
+    "monsterCount": 6,
+    "itemCount": 29
+  },
+  {
+    "name": "R1. 슬라임 연못",
+    "value": "10",
+    "monsterCount": 6,
+    "itemCount": 17
+  },
+  {
+    "name": "R2. [E]신성한 고고학",
+    "value": "11",
+    "monsterCount": 3,
+    "itemCount": 5
+  },
+  {
+    "name": "R3. 고대 무덤 발굴",
+    "value": "12",
+    "monsterCount": 3,
+    "itemCount": 7
+  },
+  {
+    "name": "R4. [E]제국 구조",
+    "value": "13",
+    "monsterCount": 1,
+    "itemCount": 1
+  },
+  {
+    "name": "R5. 광신도의 반란",
+    "value": "14",
+    "monsterCount": 5,
+    "itemCount": 19
+  },
+  {
+    "name": "R6. [E]끔찍한 상승",
+    "value": "15",
+    "monsterCount": 3,
+    "itemCount": 1
+  },
+  {
+    "name": "R7. 실종된 탐험대",
+    "value": "17",
+    "monsterCount": 5,
+    "itemCount": 13
+  },
+  {
+    "name": "R8. [E]천상의 모선",
+    "value": "19",
+    "monsterCount": 3,
+    "itemCount": 1
+  },
+  {
+    "name": "R9. [E]무서운 하강",
+    "value": "20",
+    "monsterCount": 3,
+    "itemCount": 3
+  }
+]

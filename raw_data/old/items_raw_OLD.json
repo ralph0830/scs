@@ -1,0 +1,2666 @@
+[
+  {
+    "dungeon": "D1. 마법의 숲",
+    "nameKor": "구리 헬멧 ★★",
+    "img": "/images/copper_helmet.png",
+    "type": "액세서리",
+    "stats": "HP+20",
+    "howGet": "드롭,제작",
+    "price": "24 (2.4) "
+  },
+  {
+    "dungeon": "D1. 마법의 숲",
+    "nameKor": "가죽 부츠 ",
+    "img": "/images/leather_boots.png",
+    "type": "액세서리",
+    "stats": "민첩+3",
+    "howGet": "드롭,제작",
+    "price": "27 (2.25) "
+  },
+  {
+    "dungeon": "D1. 마법의 숲",
+    "nameKor": "가죽 장갑 ",
+    "img": "/images/leather_gloves.png",
+    "type": "액세서리",
+    "stats": "체질+2\n민첩+2",
+    "howGet": "드롭,제작",
+    "price": "41 (2.28) "
+  },
+  {
+    "dungeon": "D1. 마법의 숲",
+    "nameKor": "나무 버클러 ",
+    "img": "/items/wooden_buckler.png",
+    "type": "액세서리",
+    "stats": "체질+3",
+    "howGet": "드롭,제작",
+    "price": "9 (1.5) "
+  },
+  {
+    "dungeon": "D1. 마법의 숲",
+    "nameKor": "엄니 목걸이 ",
+    "img": "/images/tusk_necklace.png",
+    "type": "액세서리",
+    "stats": "체질+1지능+1민첩+1",
+    "howGet": "드롭,제작",
+    "price": "15 (1.5) "
+  },
+  {
+    "dungeon": "D1. 마법의 숲",
+    "nameKor": "구리 갑옷 ★",
+    "img": "/images/copper_armor.png",
+    "type": "헤비아머",
+    "stats": "체질+1\nHP+30",
+    "howGet": "드롭,제작",
+    "price": "20 (2.5) "
+  },
+  {
+    "dungeon": "D1. 마법의 숲",
+    "nameKor": "가죽 재킷 ★",
+    "img": "/images/leather_jacket.png",
+    "type": "미디엄아머",
+    "stats": "체질+1\n민첩+1\nHP+20",
+    "howGet": "드롭,제작",
+    "price": "45 (2.25) "
+  },
+  {
+    "dungeon": "D1. 마법의 숲",
+    "nameKor": "천 로브 ★",
+    "img": "/images/cloth_robe.png",
+    "type": "라이트아머",
+    "stats": "지능+3HP+10",
+    "howGet": "드롭,제작",
+    "price": "54 (2.25) "
+  },
+  {
+    "dungeon": "D1. 마법의 숲",
+    "nameKor": "철검 ",
+    "img": "/images/copper_sword.png",
+    "type": "검",
+    "stats": "체질+3민첩+1",
+    "howGet": "드롭,제작",
+    "price": "20 (2.22) "
+  },
+  {
+    "dungeon": "D1. 마법의 숲",
+    "nameKor": "송곳니 단검 ",
+    "img": "/images/fang_dagger.png",
+    "type": "단검",
+    "stats": "체질+2민첩+2",
+    "howGet": "드롭,제작",
+    "price": "17 (1.55) "
+  },
+  {
+    "dungeon": "D1. 마법의 숲",
+    "nameKor": "마법의 지팡이 ",
+    "img": "/images/enchanted_staff.png",
+    "type": "지팡이",
+    "stats": "지능+4",
+    "howGet": "드롭,제작",
+    "price": "45 (1.5) "
+  },
+  {
+    "dungeon": "D1. 마법의 숲",
+    "nameKor": "나무 활 ",
+    "img": "/images/wooden_bow.png",
+    "type": "활",
+    "stats": "체질+1민첩+3",
+    "howGet": "드롭,제작",
+    "price": "11 (1.57) "
+  },
+  {
+    "dungeon": "D1. 마법의 숲",
+    "nameKor": "솜꼬리토끼 재킷 ★",
+    "img": "/images/cottontail_jacket.png",
+    "type": "미디엄아머",
+    "stats": "체질+1민첩+1HP+20경험치+35%",
+    "howGet": "드롭,제작",
+    "price": "345 (1.57) "
+  },
+  {
+    "dungeon": "D1. 마법의 숲",
+    "nameKor": "주입된 목걸이 ",
+    "img": "/images/infused_necklace.png",
+    "type": "액세서리",
+    "stats": "체질+1\n지능+2\n민첩+1\n경험치+10%",
+    "howGet": "드롭,제작",
+    "price": "38 (1.9) "
+  },
+  {
+    "dungeon": "D1. 마법의 숲",
+    "nameKor": "보름달 단검 ",
+    "img": "/images/fullmoon_dagger.png",
+    "type": "단검",
+    "stats": "체질+5민첩+5생명력 흡수 +15%",
+    "howGet": "드롭,제작",
+    "price": "45 (1.5) "
+  },
+  {
+    "dungeon": "D2. 사막",
+    "nameKor": "철 헬름 ★★",
+    "img": "/images/iron_helm.png",
+    "type": "액세서리",
+    "stats": "HP+40",
+    "howGet": "드롭,제작",
+    "price": "39 (2.44) "
+  },
+  {
+    "dungeon": "D2. 사막",
+    "nameKor": "웜 비늘 방패 ",
+    "img": "/images/wurmscales_shield.png",
+    "type": "액세서리",
+    "stats": "체질+6",
+    "howGet": "드롭,제작",
+    "price": "35 (2.06) "
+  },
+  {
+    "dungeon": "D2. 사막",
+    "nameKor": "변형하는 방패 ★",
+    "img": "/images/metamorphic_shield.png",
+    "type": "액세서리",
+    "stats": "체질+6\n보복6(물리)",
+    "howGet": "드롭,제작",
+    "price": "143 (1.86) "
+  },
+  {
+    "dungeon": "D2. 사막",
+    "nameKor": "웜 비늘 장갑 ",
+    "img": "/images/wurmscales_gloves.png",
+    "type": "액세서리",
+    "stats": "체질+3\n민첩+4",
+    "howGet": "드롭,제작",
+    "price": "36 (1.5) "
+  },
+  {
+    "dungeon": "D2. 사막",
+    "nameKor": "웜 비늘 부츠 ",
+    "img": "/images/wurmscales_boots.png",
+    "type": "액세서리",
+    "stats": "민첩+6",
+    "howGet": "드롭,제작",
+    "price": "30 (1.5) "
+  },
+  {
+    "dungeon": "D2. 사막",
+    "nameKor": "쇠사슬 갑옷 ★",
+    "img": "/images/iron_chainmail.png",
+    "type": "헤비아머",
+    "stats": "체질+2HP+60",
+    "howGet": "드롭,제작",
+    "price": "51 (2.13) "
+  },
+  {
+    "dungeon": "D2. 사막",
+    "nameKor": "깃털 로브 ★",
+    "img": "/images/feather_robe.png",
+    "type": "라이트아머",
+    "stats": "지능+6HP+20",
+    "howGet": "드롭,제작",
+    "price": "72 (1.5) "
+  },
+  {
+    "dungeon": "D2. 사막",
+    "nameKor": "웜 비늘 재킷 ★",
+    "img": "/images/wurmscales_jacket.png",
+    "type": "미디엄아머",
+    "stats": "체질+2민첩+2HP+40",
+    "howGet": "드롭,제작",
+    "price": "45 (1.5) "
+  },
+  {
+    "dungeon": "D2. 사막",
+    "nameKor": "시미터 ",
+    "img": "/images/scimitar.png",
+    "type": "검",
+    "stats": "체질+6민첩+2",
+    "howGet": "드롭,제작",
+    "price": "41 (1.78) "
+  },
+  {
+    "dungeon": "D2. 사막",
+    "nameKor": "살아있는 시미터 ",
+    "img": "/images/living_scimitar.png",
+    "type": "검",
+    "stats": "체질+10마법 방어력+5반격 확률+10%",
+    "howGet": "드롭,제작",
+    "price": "227 (1.71) "
+  },
+  {
+    "dungeon": "D2. 사막",
+    "nameKor": "샤'후리 활 ",
+    "img": "/images/shahuri_bow.png",
+    "type": "활",
+    "stats": "지능+2민첩+6기절 확률 5%",
+    "howGet": "드롭,제작",
+    "price": "86 (1.51) "
+  },
+  {
+    "dungeon": "D2. 사막",
+    "nameKor": "유리 단도 ",
+    "img": "/images/glass_knife.png",
+    "type": "단검",
+    "stats": "체질+3민첩+5",
+    "howGet": "드롭,제작",
+    "price": "56 (2.24) "
+  },
+  {
+    "dungeon": "D2. 사막",
+    "nameKor": "진 토닉 ",
+    "img": "/images/djinn_tonic.png",
+    "type": "액세서리",
+    "stats": "HP+15체질+4지능+4상태이상 면역 확률 +20%",
+    "howGet": "드롭,제작",
+    "price": "233 (1.69) "
+  },
+  {
+    "dungeon": "D3. 영원한 전장",
+    "nameKor": "영혼의 책 ",
+    "img": "/images/spirit_tome.png",
+    "type": "액세서리",
+    "stats": "지능+9",
+    "howGet": "드롭,제작",
+    "price": "26 (1) "
+  },
+  {
+    "dungeon": "D3. 영원한 전장",
+    "nameKor": "언데드 헬름 ★★",
+    "img": "/images/undead_helm.png",
+    "type": "액세서리",
+    "stats": "HP+60",
+    "howGet": "드롭,제작",
+    "price": "42 (1.5) "
+  },
+  {
+    "dungeon": "D3. 영원한 전장",
+    "nameKor": "언데드 장갑 ",
+    "img": "/images/undead_gloves.png",
+    "type": "액세서리",
+    "stats": "체질+6\n민첩+5",
+    "howGet": "드롭,제작",
+    "price": "75 (1.5) "
+  },
+  {
+    "dungeon": "D3. 영원한 전장",
+    "nameKor": "언데드 그리브 ",
+    "img": "/images/undead_greaves.png",
+    "type": "액세서리",
+    "stats": "민첩+9",
+    "howGet": "드롭,제작",
+    "price": "75 (1.5) "
+  },
+  {
+    "dungeon": "D3. 영원한 전장",
+    "nameKor": "언데드 방패 ",
+    "img": "/images/undead_shield.png",
+    "type": "액세서리",
+    "stats": "체질+9",
+    "howGet": "드롭,제작",
+    "price": "53 (2.12) "
+  },
+  {
+    "dungeon": "D3. 영원한 전장",
+    "nameKor": "언데드 흉갑 ★",
+    "img": "/images/undead_cuirass.png",
+    "type": "헤비아머",
+    "stats": "체질+3HP+90",
+    "howGet": "드롭,제작",
+    "price": "72 (1.5) "
+  },
+  {
+    "dungeon": "D3. 영원한 전장",
+    "nameKor": "오싹한 흉갑 ",
+    "img": "/images/ghastly_cuirass.png",
+    "type": "헤비아머",
+    "stats": "체질+6HP+90마법 방어력+10위협 수준+1",
+    "howGet": "드롭,제작",
+    "price": "1686 (1.5) "
+  },
+  {
+    "dungeon": "D3. 영원한 전장",
+    "nameKor": "유령의 로브 ★",
+    "img": "/images/spectral_robe.png",
+    "type": "라이트아머",
+    "stats": "지능+9HP+30",
+    "howGet": "드롭,제작",
+    "price": "135 (1.5) "
+  },
+  {
+    "dungeon": "D3. 영원한 전장",
+    "nameKor": "언데드 재킷 ★",
+    "img": "/images/undead_jacket.png",
+    "type": "미디엄아머",
+    "stats": "체질+3민첩+3HP+60",
+    "howGet": "드롭,제작",
+    "price": "72 (1.5) "
+  },
+  {
+    "dungeon": "D3. 영원한 전장",
+    "nameKor": "언데드 검 ",
+    "img": "/images/undead_sword.png",
+    "type": "검",
+    "stats": "체질+9민첩+3",
+    "howGet": "드롭,제작",
+    "price": "54 (1.5) "
+  },
+  {
+    "dungeon": "D3. 영원한 전장",
+    "nameKor": "언데드 지팡이 ",
+    "img": "/images/undead_staff.png",
+    "type": "지팡이",
+    "stats": "지능+12",
+    "howGet": "드롭,제작",
+    "price": "93 (1.5) "
+  },
+  {
+    "dungeon": "D3. 영원한 전장",
+    "nameKor": "언데드 단도 ",
+    "img": "/images/undead_knife.png",
+    "type": "단검",
+    "stats": "체질+5민첩+7치명타 확률+6%",
+    "howGet": "드롭,제작",
+    "price": "54 (1.5) "
+  },
+  {
+    "dungeon": "D3. 영원한 전장",
+    "nameKor": "섬뜩한 시미터 ",
+    "img": "/images/ghastly_scimitar.png",
+    "type": "검",
+    "stats": "체질+16마법 방어력+10반격 확률 +20%",
+    "howGet": "드롭,제작",
+    "price": "416 (2.27) "
+  },
+  {
+    "dungeon": "D3. 영원한 전장",
+    "nameKor": "해골 촛불 ",
+    "img": "/images/skull_candle.png",
+    "type": "액세서리",
+    "stats": "지능+4\n어둠-10",
+    "howGet": "드롭,제작",
+    "price": "69 (1.5) "
+  },
+  {
+    "dungeon": "D3. 영원한 전장",
+    "nameKor": "타오르는 향로 ",
+    "img": "/images/burning_censer.png",
+    "type": "액세서리",
+    "stats": "지능+12\n어둠-10\n치유량+20%",
+    "howGet": "드롭,제작",
+    "price": "564 (2.28) "
+  },
+  {
+    "dungeon": "D3. 영원한 전장",
+    "nameKor": "유령 토끼 망토 ★",
+    "img": "/images/ghost_rabbit_cloak.png",
+    "type": "라이트아머",
+    "stats": "지능+9HP+30경험치+35%",
+    "howGet": "드롭,제작",
+    "price": "390 (1.5) "
+  },
+  {
+    "dungeon": "D3. 영원한 전장",
+    "nameKor": "오싹한 방패 ",
+    "img": "/images/ghastly_shield.png",
+    "type": "액세서리",
+    "stats": "HP+25체질+9마법 방어력+8보복 10 (마법)",
+    "howGet": "드롭,제작",
+    "price": "155 (2.07) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "은 반지 ",
+    "img": "/images/silver_ring.png",
+    "type": "액세서리",
+    "stats": "방어력+1\n선제 공격",
+    "howGet": "드롭,제작",
+    "price": "28 (1) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "주교관 ★",
+    "img": "/images/mitre_hat.png",
+    "type": "액세서리",
+    "stats": "지능+9\nHP+60\n치유량+20%",
+    "howGet": "드롭,제작",
+    "price": "450 (1) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "타락한 방패 ",
+    "img": "/images/corrupted_shield.png",
+    "type": "액세서리",
+    "stats": "체질+1",
+    "howGet": "드롭,제작",
+    "price": "1 (1) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "타락한 지팡이 ",
+    "img": "/images/corrupted_staff.png",
+    "type": "지팡이",
+    "stats": "지능+1",
+    "howGet": "드롭,제작",
+    "price": "1 (1) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "타락한 단검 ",
+    "img": "/images/corrupted_dagger.png",
+    "type": "단검",
+    "stats": "민첩+1",
+    "howGet": "드롭,제작",
+    "price": "1 (1) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "황금 헬름 ★★",
+    "img": "/images/golden_helm.png",
+    "type": "액세서리",
+    "stats": "HP+80",
+    "howGet": "드롭,제작",
+    "price": "363 (2.3) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "황금 부츠 ",
+    "img": "/images/golden_boots.png",
+    "type": "액세서리",
+    "stats": "민첩+12",
+    "howGet": "드롭,제작",
+    "price": "312 (2.29) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "황금 건틀릿 ",
+    "img": "/images/golden_gauntlets.png",
+    "type": "액세서리",
+    "stats": "체질+7\n민첩+7",
+    "howGet": "드롭,제작",
+    "price": "228 (2.28) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "황금 방패 ",
+    "img": "/images/golden_shield.png",
+    "type": "액세서리",
+    "stats": "체질+12",
+    "howGet": "드롭,제작",
+    "price": "414 (2.3) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "제국의 방패 ★★★★",
+    "img": "/images/imperial_shield.png",
+    "type": "액세서리",
+    "stats": "체질+16\n민첩+5\n방어력+15",
+    "howGet": "드롭,제작",
+    "price": "564 (2.95) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "황금 갑옷 ",
+    "img": "/images/golden_armor.png",
+    "type": "헤비아머",
+    "stats": "체질+4HP+120",
+    "howGet": "드롭,제작",
+    "price": "552 (2.3) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "변형하는 갑옷 ★",
+    "img": "/images/metamorphic_armor.png",
+    "type": "헤비아머",
+    "stats": "체질+5HP+140보복 10 (물리)",
+    "howGet": "드롭,제작",
+    "price": "1188 (2.48) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "비단 로브 ★",
+    "img": "/images/silk_robe.png",
+    "type": "라이트아머",
+    "stats": "지능+12HP+40",
+    "howGet": "드롭,제작",
+    "price": "216 (2.25) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "벨트 재킷 ",
+    "img": "/images/belt_jacket.png",
+    "type": "미디엄아머",
+    "stats": "체질+4민첩+4HP+80",
+    "howGet": "드롭,제작",
+    "price": "312 (1.77) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "상아 재킷 ★★★",
+    "img": "/images/ivory_jacket.png",
+    "type": "미디엄아머",
+    "stats": "체질+8민첩+4HP+90치명타 확률+12%",
+    "howGet": "드롭,제작",
+    "price": "678 (2.15) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "황금 검 ",
+    "img": "/images/golden_sword.png",
+    "type": "검",
+    "stats": "체질+12민첩+4",
+    "howGet": "드롭,제작",
+    "price": "483 (2.3) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "진홍색 거머리 ★",
+    "img": "/images/crimson_leech.png",
+    "type": "지팡이",
+    "stats": "체질+4지능+16생명력 흡수+20%",
+    "howGet": "드롭,제작",
+    "price": "834 (1.68) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "제국의 지팡이 ",
+    "img": "/images/imperial_staff.png",
+    "type": "지팡이",
+    "stats": "체질+8지능+26민첩+8",
+    "howGet": "드롭,제작",
+    "price": "564 (2.95) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "레드우드 활 ",
+    "img": "/images/redwood_bow.png",
+    "type": "활",
+    "stats": "체질+4민첩+12",
+    "howGet": "드롭,제작",
+    "price": "123 (1.5) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "비전 단검 ",
+    "img": "/images/arcane_dagger.png",
+    "type": "단검",
+    "stats": "체질+6지능+24민첩+12마법 피해를 줌",
+    "howGet": "드롭,제작",
+    "price": "564 (2.95) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "보석 왕관 ★★★★★",
+    "img": "/images/jeweled_crown.png",
+    "type": "액세서리",
+    "stats": "방어력+10\n마법 방어력+10\n선제 공격;공격이 항상 명중",
+    "howGet": "드롭,제작",
+    "price": "2790 (1.64) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "루비 반지 ",
+    "img": "/images/ruby_ring.png",
+    "type": "액세서리",
+    "stats": "방어력+10\n선제 공격",
+    "howGet": "드롭,제작",
+    "price": "147 (1.5) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "에메랄드 반지 ",
+    "img": "/images/emerald_ring.png",
+    "type": "액세서리",
+    "stats": "마법 방어력+10\n선제 공격",
+    "howGet": "드롭,제작",
+    "price": "147 (1.5) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "귀족 갑옷 ★",
+    "img": "/images/patrician_armor.png",
+    "type": "헤비아머",
+    "stats": "체질+4HP+120경험치 +35%",
+    "howGet": "드롭,제작",
+    "price": "645 (1.84) "
+  },
+  {
+    "dungeon": "D4. 황금 도시",
+    "nameKor": "플루트 ",
+    "img": "/images/flute.png",
+    "type": "액세서리",
+    "stats": "체질+5\n지능+5\n민첩+5\n영감을 주다/고양: +1턴",
+    "howGet": "드롭,제작",
+    "price": "100 (1) "
+  },
+  {
+    "dungeon": "D5. 블랙워터 항구",
+    "nameKor": "흑철 헬름 ★★",
+    "img": "/images/black_iron_helm.png",
+    "type": "액세서리",
+    "stats": "HP+100",
+    "howGet": "드롭,제작",
+    "price": "279 (2.33) "
+  },
+  {
+    "dungeon": "D5. 블랙워터 항구",
+    "nameKor": "이국적인 부츠 ",
+    "img": "/images/exotic_boots.png",
+    "type": "액세서리",
+    "stats": "민첩+15",
+    "howGet": "드롭,제작",
+    "price": "396 (1.83) "
+  },
+  {
+    "dungeon": "D5. 블랙워터 항구",
+    "nameKor": "유령나무 방패 ",
+    "img": "/images/ghostwood_shield.png",
+    "type": "액세서리",
+    "stats": "체질+15",
+    "howGet": "드롭,제작",
+    "price": "203 (2.26) "
+  },
+  {
+    "dungeon": "D5. 블랙워터 항구",
+    "nameKor": "흑철 건틀릿 ",
+    "img": "/images/black_iron_gauntlets.png",
+    "type": "액세서리",
+    "stats": "체질+9\n민첩+8",
+    "howGet": "드롭,제작",
+    "price": "278 (2.32) "
+  },
+  {
+    "dungeon": "D5. 블랙워터 항구",
+    "nameKor": "심연 개론 ",
+    "img": "/images/abyssal_compendium.png",
+    "type": "액세서리",
+    "stats": "지능+15",
+    "howGet": "드롭,제작",
+    "price": "375 (1.5) "
+  },
+  {
+    "dungeon": "D5. 블랙워터 항구",
+    "nameKor": "흑철 갑옷 ★",
+    "img": "/images/black_iron_armor.png",
+    "type": "헤비아머",
+    "stats": "체질+5HP+150",
+    "howGet": "드롭,제작",
+    "price": "419 (2.33) "
+  },
+  {
+    "dungeon": "D5. 블랙워터 항구",
+    "nameKor": "이국적인 로브 ★",
+    "img": "/images/exotic_robe.png",
+    "type": "라이트아머",
+    "stats": "지능+15HP+50",
+    "howGet": "드롭,제작",
+    "price": "1350 (1.5) "
+  },
+  {
+    "dungeon": "D5. 블랙워터 항구",
+    "nameKor": "심해의 로브 ",
+    "img": "/images/deep_sea_robe.png",
+    "type": "라이트아머",
+    "stats": "지능+15HP+50상태이상 면역 확률 +40%",
+    "howGet": "드롭,제작",
+    "price": "5505 (3.34) "
+  },
+  {
+    "dungeon": "D5. 블랙워터 항구",
+    "nameKor": "원숭이 가죽 재킷 ",
+    "img": "/images/monkey_hide_jacket.png",
+    "type": "미디엄아머",
+    "stats": "체질+5민첩+5HP+100",
+    "howGet": "드롭,제작",
+    "price": "828 (1.57) "
+  },
+  {
+    "dungeon": "D5. 블랙워터 항구",
+    "nameKor": "심해의 재킷 ",
+    "img": "/images/deep_sea_jacket.png",
+    "type": "미디엄아머",
+    "stats": "체질+5민첩+5HP+100상태이상 면역 확률 +40%",
+    "howGet": "드롭,제작",
+    "price": "5883 (3.13) "
+  },
+  {
+    "dungeon": "D5. 블랙워터 항구",
+    "nameKor": "흑철 커틀라스 ",
+    "img": "/images/black_iron_cutlass.png",
+    "type": "검",
+    "stats": "체질+15민첩+5",
+    "howGet": "드롭,제작",
+    "price": "362 (2.32) "
+  },
+  {
+    "dungeon": "D5. 블랙워터 항구",
+    "nameKor": "흑철 홀장 ",
+    "img": "/images/black_iron_scepter.png",
+    "type": "지팡이",
+    "stats": "지능+20",
+    "howGet": "드롭,제작",
+    "price": "336 (2.33) "
+  },
+  {
+    "dungeon": "D5. 블랙워터 항구",
+    "nameKor": "해적왕의 삼각모 ★★★★★",
+    "img": "/images/pirate_king_tricorn.png",
+    "type": "액세서리",
+    "stats": "지능+10\n민첩+15\nHP+100\n치명타 피해+50%",
+    "howGet": "드롭,제작",
+    "price": "14600 (3.09) "
+  },
+  {
+    "dungeon": "D5. 블랙워터 항구",
+    "nameKor": "유령나무 활 ",
+    "img": "/images/ghostwood_bow.png",
+    "type": "활",
+    "stats": "체질+4민첩+16",
+    "howGet": "드롭,제작",
+    "price": "248 (2.07) "
+  },
+  {
+    "dungeon": "D5. 블랙워터 항구",
+    "nameKor": "흑철 단검 ",
+    "img": "/images/black_iron_dagger.png",
+    "type": "단검",
+    "stats": "체질+6민첩+14",
+    "howGet": "드롭,제작",
+    "price": "342 (2.33) "
+  },
+  {
+    "dungeon": "D5. 블랙워터 항구",
+    "nameKor": "심연의 커틀라스 ",
+    "img": "/images/abyssal_cutlass.png",
+    "type": "검",
+    "stats": "체질+24",
+    "howGet": "드롭,제작",
+    "price": "5501 (3.36) "
+  },
+  {
+    "dungeon": "D6. 얼어붙는 봉우리",
+    "nameKor": "겨울 헬름 ",
+    "img": "/images/winter_helm.png",
+    "type": "액세서리",
+    "stats": "HP+120",
+    "howGet": "드롭,제작",
+    "price": "378 (2.25) "
+  },
+  {
+    "dungeon": "D6. 얼어붙는 봉우리",
+    "nameKor": "겨울 부츠 ",
+    "img": "/images/winter_boots.png",
+    "type": "액세서리",
+    "stats": "민첩+18\n재생+4",
+    "howGet": "드롭,제작",
+    "price": "204 (1.82) "
+  },
+  {
+    "dungeon": "D6. 얼어붙는 봉우리",
+    "nameKor": "겨울 장갑 ",
+    "img": "/images/winter_gloves.png",
+    "type": "액세서리",
+    "stats": "체질+11\n민첩+10\n재생+4",
+    "howGet": "드롭,제작",
+    "price": "264 (2.06) "
+  },
+  {
+    "dungeon": "D6. 얼어붙는 봉우리",
+    "nameKor": "겨울 방패 ",
+    "img": "/images/winter_shield.png",
+    "type": "액세서리",
+    "stats": "체질+18",
+    "howGet": "드롭,제작",
+    "price": "261 (1.67) "
+  },
+  {
+    "dungeon": "D6. 얼어붙는 봉우리",
+    "nameKor": "얼어붙은 알 펜던트 ",
+    "img": "/images/frozen_egg_pendant.png",
+    "type": "액세서리",
+    "stats": "HP+90\n방어력+7\n빙결피해+40",
+    "howGet": "드롭,제작",
+    "price": "341 (1.5) "
+  },
+  {
+    "dungeon": "D6. 얼어붙는 봉우리",
+    "nameKor": "서리금속 갑옷 ",
+    "img": "/images/frostmetal_armor.png",
+    "type": "헤비아머",
+    "stats": "체질+5HP+180재생+6",
+    "howGet": "드롭,제작",
+    "price": "504 (2.1) "
+  },
+  {
+    "dungeon": "D6. 얼어붙는 봉우리",
+    "nameKor": "겨울 망토 ",
+    "img": "/images/winter_cape.png",
+    "type": "라이트아머",
+    "stats": "지능+18HP+60",
+    "howGet": "드롭,제작",
+    "price": "486 (2.25) "
+  },
+  {
+    "dungeon": "D6. 얼어붙는 봉우리",
+    "nameKor": "와이번 망토 ",
+    "img": "/images/wyvern_cape.png",
+    "type": "라이트아머",
+    "stats": "지능+15HP+80치유량+15%",
+    "howGet": "드롭,제작",
+    "price": "630 (2.02) "
+  },
+  {
+    "dungeon": "D6. 얼어붙는 봉우리",
+    "nameKor": "트롤 가죽 재킷 ★★★★",
+    "img": "/images/trollskin_jacket.png",
+    "type": "미디엄아머",
+    "stats": "체질+5민첩+5HP+120재생+6",
+    "howGet": "드롭,제작",
+    "price": "306 (1.82) "
+  },
+  {
+    "dungeon": "D6. 얼어붙는 봉우리",
+    "nameKor": "서리금속 단검 ",
+    "img": "/images/frostmetal_dagger.png",
+    "type": "단검",
+    "stats": "체질+7민첩+17",
+    "howGet": "드롭,제작",
+    "price": "450 (2.21) "
+  },
+  {
+    "dungeon": "D6. 얼어붙는 봉우리",
+    "nameKor": "서리금속 검 ",
+    "img": "/images/frostmetal_sword.png",
+    "type": "검",
+    "stats": "체질+18민첩+6",
+    "howGet": "드롭,제작",
+    "price": "513 (2.19) "
+  },
+  {
+    "dungeon": "D6. 얼어붙는 봉우리",
+    "nameKor": "겨울나무 지팡이 ",
+    "img": "/images/winterwood_staff.png",
+    "type": "지팡이",
+    "stats": "지능+24",
+    "howGet": "드롭,제작",
+    "price": "249 (1.5) "
+  },
+  {
+    "dungeon": "D6. 얼어붙는 봉우리",
+    "nameKor": "수정 지팡이 ",
+    "img": "/images/crystal_staff.png",
+    "type": "지팡이",
+    "stats": "지능+26상태이상 면역 확률 +25%",
+    "howGet": "드롭,제작",
+    "price": "360 (1.5) "
+  },
+  {
+    "dungeon": "D6. 얼어붙는 봉우리",
+    "nameKor": "겨울나무 활 ",
+    "img": "/images/winterwood_bow.png",
+    "type": "활",
+    "stats": "지능+5민첩+19",
+    "howGet": "드롭,제작",
+    "price": "275 (1.5) "
+  },
+  {
+    "dungeon": "D6. 얼어붙는 봉우리",
+    "nameKor": "수정 단검 ",
+    "img": "/images/crystal_dagger.png",
+    "type": "단검",
+    "stats": "체질+9민첩+17치명타 피해+30%",
+    "howGet": "드롭,제작",
+    "price": "378 (1.5) "
+  },
+  {
+    "dungeon": "D6. 얼어붙는 봉우리",
+    "nameKor": "얼음 감옥 ",
+    "img": "/images/ice_cage.png",
+    "type": "헤비아머",
+    "stats": "HP+215방어력+16근접 공격자를 빙결 상태로 만듦",
+    "howGet": "드롭,제작",
+    "price": "3926 (3.58) "
+  },
+  {
+    "dungeon": "D6. 얼어붙는 봉우리",
+    "nameKor": "예식용 단검 ",
+    "img": "/images/ceremonial_dagger.png",
+    "type": "단검",
+    "stats": "HP+30체질+8지능+8치유량+40%",
+    "howGet": "드롭,제작",
+    "price": "864 (1.8) "
+  },
+  {
+    "dungeon": "D7. 흑요석 광산",
+    "nameKor": "흑요석 헬름 ★★",
+    "img": "/images/obsidian_helm.png",
+    "type": "액세서리",
+    "stats": "HP+140",
+    "howGet": "드롭,제작",
+    "price": "270 (1.61) "
+  },
+  {
+    "dungeon": "D7. 흑요석 광산",
+    "nameKor": "거미 부츠 ",
+    "img": "/images/spider_boots.png",
+    "type": "액세서리",
+    "stats": "민첩+21",
+    "howGet": "드롭,제작",
+    "price": "378 (2.25) "
+  },
+  {
+    "dungeon": "D7. 흑요석 광산",
+    "nameKor": "거미 장갑 ",
+    "img": "/images/spider_gloves.png",
+    "type": "액세서리",
+    "stats": "체질+12\n민첩+12",
+    "howGet": "드롭,제작",
+    "price": "378 (2.25) "
+  },
+  {
+    "dungeon": "D7. 흑요석 광산",
+    "nameKor": "흑요석 방패 ",
+    "img": "/images/obsidian_shield.png",
+    "type": "액세서리",
+    "stats": "체질+21",
+    "howGet": "드롭,제작",
+    "price": "252 (1.5) "
+  },
+  {
+    "dungeon": "D7. 흑요석 광산",
+    "nameKor": "그림자 반지 ★★★",
+    "img": "/images/shadow_ring.png",
+    "type": "액세서리",
+    "stats": "민첩+24\n선제 공격\n치명타 확률 +12%",
+    "howGet": "드롭,제작",
+    "price": "93 (1.5) "
+  },
+  {
+    "dungeon": "D7. 흑요석 광산",
+    "nameKor": "밤날개 재킷 ",
+    "img": "/images/nightwing_jacket.png",
+    "type": "미디엄아머",
+    "stats": "체질+7민첩+7HP+140",
+    "howGet": "드롭,제작",
+    "price": "567 (2.25) "
+  },
+  {
+    "dungeon": "D7. 흑요석 광산",
+    "nameKor": "흑요석 흉갑 ★",
+    "img": "/images/obsidian_cuirass.png",
+    "type": "헤비아머",
+    "stats": "체질+7HP+210",
+    "howGet": "드롭,제작",
+    "price": "405 (1.59) "
+  },
+  {
+    "dungeon": "D7. 흑요석 광산",
+    "nameKor": "부정한 흉갑 ★★★",
+    "img": "/images/unholy_cuirass.png",
+    "type": "헤비아머",
+    "stats": "체질+8HP+230보복 15 (마법)",
+    "howGet": "드롭,제작",
+    "price": "1607 (2.78) "
+  },
+  {
+    "dungeon": "D7. 흑요석 광산",
+    "nameKor": "거미 로브 ★★",
+    "img": "/images/spider_robe.png",
+    "type": "라이트아머",
+    "stats": "지능+21HP+70",
+    "howGet": "드롭,제작",
+    "price": "540 (2.25) "
+  },
+  {
+    "dungeon": "D7. 흑요석 광산",
+    "nameKor": "흑요석 검 ",
+    "img": "/images/obsidian_sword.png",
+    "type": "검",
+    "stats": "체질+21민첩+7",
+    "howGet": "드롭,제작",
+    "price": "324 (1.5) "
+  },
+  {
+    "dungeon": "D7. 흑요석 광산",
+    "nameKor": "뱀파이어 검 ★★★",
+    "img": "/images/vampire_sword.png",
+    "type": "검",
+    "stats": "체질+21민첩+7생명력 흡수+20%",
+    "howGet": "드롭,제작",
+    "price": "1026 (2.25) "
+  },
+  {
+    "dungeon": "D7. 흑요석 광산",
+    "nameKor": "부정한 검 ",
+    "img": "/images/unholy_sword.png",
+    "type": "검",
+    "stats": "체질+27민첩+5보복 15 (마법)",
+    "howGet": "드롭,제작",
+    "price": "1485 (2.75) "
+  },
+  {
+    "dungeon": "D7. 흑요석 광산",
+    "nameKor": "흑요석 홀장 ",
+    "img": "/images/obsidian_scepter.png",
+    "type": "지팡이",
+    "stats": "지능+28",
+    "howGet": "드롭,제작",
+    "price": "324 (1.5) "
+  },
+  {
+    "dungeon": "D7. 흑요석 광산",
+    "nameKor": "뱀파이어 홀장 ★★★",
+    "img": "/images/vampire_scepter.png",
+    "type": "지팡이",
+    "stats": "지능+28생명력 흡수+20%",
+    "howGet": "드롭,제작",
+    "price": "1026 (2.25) "
+  },
+  {
+    "dungeon": "D7. 흑요석 광산",
+    "nameKor": "판옵티콘 지팡이 ★★★",
+    "img": "/images/panopticon_staff.png",
+    "type": "지팡이",
+    "stats": "지능+32어둠-16",
+    "howGet": "드롭,제작",
+    "price": "642 (1.5) "
+  },
+  {
+    "dungeon": "D7. 흑요석 광산",
+    "nameKor": "흑요석 활 ",
+    "img": "/images/obsidian_bow.png",
+    "type": "활",
+    "stats": "지능+6민첩+22",
+    "howGet": "드롭,제작",
+    "price": "333 (1.59) "
+  },
+  {
+    "dungeon": "D7. 흑요석 광산",
+    "nameKor": "뱀파이어 활 ",
+    "img": "/images/vampire_bow.png",
+    "type": "활",
+    "stats": "지능+6민첩+22생명력 흡수+20%",
+    "howGet": "드롭,제작",
+    "price": "1040 (2.31) "
+  },
+  {
+    "dungeon": "D7. 흑요석 광산",
+    "nameKor": "그림자 활 ",
+    "img": "/images/shadow_bow.png",
+    "type": "활",
+    "stats": "지능+6민첩+22피해량 [0.5x어둠]% 증가",
+    "howGet": "드롭,제작",
+    "price": "1386 (2.86) "
+  },
+  {
+    "dungeon": "D7. 흑요석 광산",
+    "nameKor": "흑요석 단검 ",
+    "img": "/images/obsidian_dagger.png",
+    "type": "단검",
+    "stats": "체질+8민첩+20",
+    "howGet": "드롭,제작",
+    "price": "306 (1.5) "
+  },
+  {
+    "dungeon": "D7. 흑요석 광산",
+    "nameKor": "뱀파이어 단검 ★",
+    "img": "/images/vampire_dagger.png",
+    "type": "단검",
+    "stats": "체질+8민첩+20생명력 흡수+20%",
+    "howGet": "드롭,제작",
+    "price": "999 (2.25) "
+  },
+  {
+    "dungeon": "D7. 흑요석 광산",
+    "nameKor": "그림자 단검 ",
+    "img": "/images/shadow_dagger.png",
+    "type": "단검",
+    "stats": "체질+8민첩+20피해량 [0.5x어둠]% 증가",
+    "howGet": "드롭,제작",
+    "price": "1346 (2.82) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "신록의 헬름 ★",
+    "img": "/images/verdant_helm.png",
+    "type": "액세서리",
+    "stats": "HP+160",
+    "howGet": "드롭,제작",
+    "price": "372 (1.5) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "태고의 헬름 ★",
+    "img": "/images/primeval_helm.png",
+    "type": "액세서리",
+    "stats": "HP+180\n방어력+12",
+    "howGet": "드롭,제작",
+    "price": "1020 (1.5) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "거북 방패 ",
+    "img": "/images/tortoise_shield.png",
+    "type": "액세서리",
+    "stats": "체질+24",
+    "howGet": "드롭,제작",
+    "price": "240 (1.5) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "가시 달린 거북 방패 ★★★",
+    "img": "/images/spiked_tortoise_shield.png",
+    "type": "액세서리",
+    "stats": "체질+24\n보복25(물리)",
+    "howGet": "드롭,제작",
+    "price": "846 (1.75) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "태고의 방패 ",
+    "img": "/images/primeval_shield.png",
+    "type": "액세서리",
+    "stats": "체질+27\n방어력+12",
+    "howGet": "드롭,제작",
+    "price": "675 (1) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "가시 달린 태고의 방패 ★",
+    "img": "/images/spiked_primeval_shield.png",
+    "type": "액세서리",
+    "stats": "체질+27\n방어력+12\n보복25(물리)",
+    "howGet": "드롭,제작",
+    "price": "1499 (1.5) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "거북 갑옷 ",
+    "img": "/images/tortoise_armor.png",
+    "type": "헤비아머",
+    "stats": "체질+8HP+240",
+    "howGet": "드롭,제작",
+    "price": "492 (1.76) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "날쌘발 갑옷 ★★★",
+    "img": "/images/fleetfoot_armor.png",
+    "type": "헤비아머",
+    "stats": "체질+5민첩+1HP+240회피율+12% (합연산)",
+    "howGet": "드롭,제작",
+    "price": "1251 (2.01) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "드라이어드의 갑옷 ★★★",
+    "img": "/images/armor_of_the_dryad.png",
+    "type": "헤비아머",
+    "stats": "HP+240피격 시 자신에게 재생 효과 부여",
+    "howGet": "드롭,제작",
+    "price": "873 (2.36) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "나방 로브 ",
+    "img": "/images/moth_robe.png",
+    "type": "라이트아머",
+    "stats": "지능+24HP+80",
+    "howGet": "드롭,제작",
+    "price": "783 (2.25) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "날쌘발 로브 ★★★",
+    "img": "/images/fleetfoot_robe.png",
+    "type": "라이트아머",
+    "stats": "지능+12민첩+4HP+80회피율+24% (합연산)",
+    "howGet": "드롭,제작",
+    "price": "1688 (2.45) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "숨 막히는 로브 ★★★",
+    "img": "/images/breathtaking_robe.png",
+    "type": "라이트아머",
+    "stats": "지능+25HP+100근접 공격자를 침묵 상태로 만듭니다",
+    "howGet": "드롭,제작",
+    "price": "1859 (2.31) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "태고의 갑옷 ★★★",
+    "img": "/images/primeval_armor.png",
+    "type": "헤비아머",
+    "stats": "체질+9HP+270방어력+15",
+    "howGet": "드롭,제작",
+    "price": "1296 (1.59) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "살아있는 채찍 ★",
+    "img": "/images/living_whip.png",
+    "type": "검",
+    "stats": "민첩+12HP+40원거리 무기명중 시 65% 확률로 도발",
+    "howGet": "드롭,제작",
+    "price": "567 (1.5) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "드라이어드의 축복 ★",
+    "img": "/images/dryads_blessing.png",
+    "type": "지팡이",
+    "stats": "지능+22치유량+23%",
+    "howGet": "드롭,제작",
+    "price": "735 (2.23) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "신록의 장갑 ",
+    "img": "/images/verdant_gloves.png",
+    "type": "액세서리",
+    "stats": "체질+14\n민첩+13",
+    "howGet": "드롭,제작",
+    "price": "498 (1.75) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "날쌘발 장갑 ",
+    "img": "/images/fleetfoot_gloves.png",
+    "type": "액세서리",
+    "stats": "체질+6\n민첩+11\n회피율+16%(합연산)",
+    "howGet": "드롭,제작",
+    "price": "1031 (2.18) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "스피트팽 재킷 ",
+    "img": "/images/spitfang_jacket.png",
+    "type": "미디엄아머",
+    "stats": "체질+8민첩+8HP+160",
+    "howGet": "드롭,제작",
+    "price": "288 (1.78) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "날쌘발 재킷 ★★★",
+    "img": "/images/fleetfoot_jacket.png",
+    "type": "미디엄아머",
+    "stats": "체질+4민첩+8HP+160회피율+20% (합연산)",
+    "howGet": "드롭,제작",
+    "price": "945 (1.88) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "신록의 부츠 ",
+    "img": "/images/verdant_boots.png",
+    "type": "액세서리",
+    "stats": "민첩+24",
+    "howGet": "드롭,제작",
+    "price": "477 (1.66) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "날쌘발 부츠 ",
+    "img": "/images/fleetfoot_boots.png",
+    "type": "액세서리",
+    "stats": "민첩+16\n회피율+16%(합연산)",
+    "howGet": "드롭,제작",
+    "price": "999 (2.09) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "신록의 칼날 ",
+    "img": "/images/verdant_blade.png",
+    "type": "단검",
+    "stats": "체질+9민첩+23",
+    "howGet": "드롭,제작",
+    "price": "246 (1.5) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "드라이어드의 저주 ★★★★",
+    "img": "/images/dryads_curse.png",
+    "type": "단검",
+    "stats": "체질+9지능+30민첩+18마법 피해를 줌",
+    "howGet": "드롭,제작",
+    "price": "504 (1.98) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "신록의 활 ",
+    "img": "/images/verdant_bow.png",
+    "type": "활",
+    "stats": "지능+8민첩+24",
+    "howGet": "드롭,제작",
+    "price": "600 (1.5) "
+  },
+  {
+    "dungeon": "D8. 남부 숲",
+    "nameKor": "숲의 플루트 ",
+    "img": "/images/sylvan_flute.png",
+    "type": "액세서리",
+    "stats": "체질+10\n지능+10\n민첩+10\n영감을 주다/고양: +2턴",
+    "howGet": "드롭,제작",
+    "price": "540 (1) "
+  },
+  {
+    "dungeon": "D9. 메마른 황무지",
+    "nameKor": "천상의 헬멧 ★",
+    "img": "/images/celestial_helmet.png",
+    "type": "액세서리",
+    "stats": "HP+180",
+    "howGet": "드롭,제작",
+    "price": "438 (2.11) "
+  },
+  {
+    "dungeon": "D9. 메마른 황무지",
+    "nameKor": "전술 헬멧 ",
+    "img": "/images/tactical_helmet.png",
+    "type": "액세서리",
+    "stats": "민첩+12\nHP+120\n피해량 [0.5x어둠]% 증가",
+    "howGet": "드롭,제작",
+    "price": "1152 (2.14) "
+  },
+  {
+    "dungeon": "D9. 메마른 황무지",
+    "nameKor": "천상의 방패 ",
+    "img": "/images/celestial_shield.png",
+    "type": "액세서리",
+    "stats": "체질+27",
+    "howGet": "드롭,제작",
+    "price": "473 (2.25) "
+  },
+  {
+    "dungeon": "D9. 메마른 황무지",
+    "nameKor": "탄력 있는 부츠 ",
+    "img": "/images/elastic_boots.png",
+    "type": "액세서리",
+    "stats": "민첩+27",
+    "howGet": "드롭,제작",
+    "price": "312 (1.5) "
+  },
+  {
+    "dungeon": "D9. 메마른 황무지",
+    "nameKor": "점화 구체 ★★★★",
+    "img": "/images/ignition_orb.png",
+    "type": "액세서리",
+    "stats": "지능+8\nHP+70\n화염 피해+40%",
+    "howGet": "드롭,제작",
+    "price": "657 (1.86) "
+  },
+  {
+    "dungeon": "D9. 메마른 황무지",
+    "nameKor": "천상의 갑옷 ",
+    "img": "/images/celestial_armor.png",
+    "type": "헤비아머",
+    "stats": "체질+9HP+270",
+    "howGet": "드롭,제작",
+    "price": "653 (2.18) "
+  },
+  {
+    "dungeon": "D9. 메마른 황무지",
+    "nameKor": "탄력 있는 로브 ",
+    "img": "/images/elastic_robe.png",
+    "type": "라이트아머",
+    "stats": "지능+27HP+90",
+    "howGet": "드롭,제작",
+    "price": "444 (1.5) "
+  },
+  {
+    "dungeon": "D9. 메마른 황무지",
+    "nameKor": "밴쉬 재킷 ",
+    "img": "/images/banshee_jacket.png",
+    "type": "미디엄아머",
+    "stats": "체질+9민첩+9HP+180",
+    "howGet": "드롭,제작",
+    "price": "666 (1.5) "
+  },
+  {
+    "dungeon": "D9. 메마른 황무지",
+    "nameKor": "밴쉬 장갑 ",
+    "img": "/images/banshee_gloves.png",
+    "type": "액세서리",
+    "stats": "체질+15\n민첩+15",
+    "howGet": "드롭,제작",
+    "price": "468 (1.5) "
+  },
+  {
+    "dungeon": "D9. 메마른 황무지",
+    "nameKor": "스킨 리퍼 ★★★",
+    "img": "/images/skin_blender.png",
+    "type": "액세서리",
+    "stats": "체질+21\n민첩+21\n치명타 확률 +15%\n치명타 피해 +15%",
+    "howGet": "드롭,제작",
+    "price": "987 (1.97) "
+  },
+  {
+    "dungeon": "D9. 메마른 황무지",
+    "nameKor": "천상의 검 ",
+    "img": "/images/celestial_sword.png",
+    "type": "검",
+    "stats": "체질+28민첩+8",
+    "howGet": "드롭,제작",
+    "price": "581 (2.25) "
+  },
+  {
+    "dungeon": "D9. 메마른 황무지",
+    "nameKor": "집중의 홀장 ★",
+    "img": "/images/focused_scepter.png",
+    "type": "지팡이",
+    "stats": "지능+24공격이 항상 명중",
+    "howGet": "드롭,제작",
+    "price": "854 (1.94) "
+  },
+  {
+    "dungeon": "D9. 메마른 황무지",
+    "nameKor": "밴쉬의 단검 ",
+    "img": "/images/banshee_dagger.png",
+    "type": "단검",
+    "stats": "체질+8민첩+28",
+    "howGet": "드롭,제작",
+    "price": "552 (1.5) "
+  },
+  {
+    "dungeon": "D9. 메마른 황무지",
+    "nameKor": "밴쉬의 활 ",
+    "img": "/images/banshee_bow.png",
+    "type": "활",
+    "stats": "지능+8민첩+28",
+    "howGet": "드롭,제작",
+    "price": "1967 (2.19) "
+  },
+  {
+    "dungeon": "D9. 메마른 황무지",
+    "nameKor": "밴쉬의 비명 ",
+    "img": "/images/banshee_scream.png",
+    "type": "활",
+    "stats": "지능+12민첩+38치명타 확률 +10%",
+    "howGet": "드롭,제작",
+    "price": "3152 (3.05) "
+  },
+  {
+    "dungeon": "D9. 메마른 황무지",
+    "nameKor": "단락 ★★★",
+    "img": "/images/short_circuit.png",
+    "type": "액세서리",
+    "stats": "민첩+25추가 행동 : 50 피해, 기절 확률 10%",
+    "howGet": "드롭,제작",
+    "price": "705 (1.5) "
+  },
+  {
+    "dungeon": "D9. 메마른 황무지",
+    "nameKor": "천상의 자비 ",
+    "img": "/images/celestials_mercy.png",
+    "type": "검",
+    "stats": "체질+28민첩+8어둠 -12 공격이 항상 명중;",
+    "howGet": "드롭,제작",
+    "price": "1100 (2.68) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "주문이 엮인 원피 ",
+    "img": "/images/spellwoven_hide.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "2 (1) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "주문이 엮인 가죽 ",
+    "img": "/images/spellwoven_leather.png",
+    "type": "가공재료",
+    "stats": "",
+    "howGet": "제작",
+    "price": "6 (1) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "주문이 엮인 재킷 ",
+    "img": "/images/spellwoven_jacket.png",
+    "type": "미디엄아머",
+    "stats": "체질+10민첩+10HP+200",
+    "howGet": "드롭,제작",
+    "price": "741 (1.5) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "라록시안 장갑 ",
+    "img": "/images/laroxian_gloves.png",
+    "type": "액세서리",
+    "stats": "체질+16민첩+17",
+    "howGet": "드롭,제작",
+    "price": "393 (1.5) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "라록시안 부츠 ",
+    "img": "/images/laroxian_boots.png",
+    "type": "액세서리",
+    "stats": "민첩+30",
+    "howGet": "드롭,제작",
+    "price": "447 (1.5) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "살아 움직이는 파편 ",
+    "img": "/images/animated_scraps.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "2 (1) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "살아 움직이는 주괴 ",
+    "img": "/images/animated_ingot.png",
+    "type": "가공재료",
+    "stats": "",
+    "howGet": "제작",
+    "price": "9 (1.5) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "살아 움직이는 흉갑 ",
+    "img": "/images/animated_cuirass.png",
+    "type": "헤비아머",
+    "stats": "체질+10HP+300",
+    "howGet": "드롭,제작",
+    "price": "756 (2.25) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "살아 움직이는 검 ",
+    "img": "/images/animated_sword.png",
+    "type": "검",
+    "stats": "체질+30민첩+10",
+    "howGet": "드롭,제작",
+    "price": "635 (2.25) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "살아 움직이는 지팡이 ",
+    "img": "/images/animated_staff.png",
+    "type": "지팡이",
+    "stats": "지능+40",
+    "howGet": "드롭,제작",
+    "price": "635 (2.25) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "살아 움직이는 단검 ",
+    "img": "/images/animated_dagger.png",
+    "type": "단검",
+    "stats": "체질+10민첩+30",
+    "howGet": "드롭,제작",
+    "price": "635 (2.25) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "살아 움직이는 활 ",
+    "img": "/images/animated_bow.png",
+    "type": "활",
+    "stats": "지능+10민첩+30",
+    "howGet": "드롭,제작",
+    "price": "638 (2.25) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "살아 움직이는 투구 ",
+    "img": "/images/animated_helm.png",
+    "type": "액세서리",
+    "stats": "HP+200",
+    "howGet": "드롭,제작",
+    "price": "471 (2.1) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "살아 움직이는 방패 ",
+    "img": "/images/animated_buckler.png",
+    "type": "액세서리",
+    "stats": "체질+30",
+    "howGet": "드롭,제작",
+    "price": "500 (2.25) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "사악한 홀장 ",
+    "img": "/images/wicked_scepter.png",
+    "type": "지팡이",
+    "stats": "지능+45하수인이 우르의 눈을 얻습니다(상태이상 면역 100%, 체질15, 민첩15 인 액세서리를 하수인이 착용한다)",
+    "howGet": "드롭,제작",
+    "price": "1145 (2.36) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "방출하는 핵 ",
+    "img": "/images/radiating_nucleus.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "10 (1) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "장막 절단기 ",
+    "img": "/images/veil_breaker.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "20 (1) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "보호의 보석 ",
+    "img": "/images/gem_of_protection.png",
+    "type": "가공재료",
+    "stats": "",
+    "howGet": "제작",
+    "price": "60 (1.5) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "장막 분쇄기 ",
+    "img": "/images/veil_shatterer.png",
+    "type": "가공재료",
+    "stats": "",
+    "howGet": "제작",
+    "price": "90 (1.5) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "불안정한 지팡이 ",
+    "img": "/images/unstable_staff.png",
+    "type": "지팡이",
+    "stats": "지능+40피해 : 최소 -80%, 최대 +80%",
+    "howGet": "드롭,제작",
+    "price": "998 (3.2) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "라록시안 원단 ",
+    "img": "/images/laroxian_fabric.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "2 (1) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "라록시안 로브 ",
+    "img": "/images/laroxian_robe.png",
+    "type": "라이트아머",
+    "stats": "지능+30HP+100",
+    "howGet": "드롭,제작",
+    "price": "504 (1.5) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "차폐 흉갑 ",
+    "img": "/images/shielding_cuirass.png",
+    "type": "헤비아머",
+    "stats": "체질+15HP+300상태이상 면역 확률 +30%",
+    "howGet": "드롭,제작",
+    "price": "1224 (3.26) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "차폐 재킷 ",
+    "img": "/images/shielding_jacket.png",
+    "type": "미디엄아머",
+    "stats": "체질+14\n민첩+10\nHP+200\n상태이상 면역 확률 +30%",
+    "howGet": "드롭,제작",
+    "price": "1202 (2.25) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "차폐 헬름 ",
+    "img": "/images/shielding_helm.png",
+    "type": "액세서리",
+    "stats": "체질+3\nHP+200\n상태이상 면역 확률 +25%",
+    "howGet": "드롭,제작",
+    "price": "797 (3.02) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "주문 개론 ",
+    "img": "/images/spell_compendium.png",
+    "type": "액세서리",
+    "stats": "지능+30",
+    "howGet": "드롭,제작",
+    "price": "40 (1) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "대마법사의 지팡이 ",
+    "img": "/images/staff_of_the_archmage.png",
+    "type": "지팡이",
+    "stats": "지능+40\n피해: 최대+15%",
+    "howGet": "드롭,제작",
+    "price": "1707 (3.78) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "대마법사의 로브 ",
+    "img": "/images/robe_of_the_archmage.png",
+    "type": "라이트아머",
+    "stats": "지능+40\nHP+120\n마법 방어력+6",
+    "howGet": "드롭,제작",
+    "price": "966 (2.03) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "힘의 룬 ",
+    "img": "/images/rune_of_power.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "100 (1) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "사악한 인장 ",
+    "img": "/images/wicked_seal.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "250 (1) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "불안정한 보석 ",
+    "img": "/images/unstable_gem.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "10 (1) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "대마법사의 모자 ",
+    "img": "/images/archmage_hat.png",
+    "type": "액세서리",
+    "stats": "지능+35치명타 피해+20%",
+    "howGet": "드롭,제작",
+    "price": "3200 (1) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "재조립 재킷 ",
+    "img": "/images/reassembling_jacket.png",
+    "type": "미디엄아머",
+    "stats": "체질+18\n민첩+14\nHP+200\n재생+40\n상태이상 면역 확률+30%",
+    "howGet": "드롭,제작",
+    "price": "1262 (1.82) "
+  },
+  {
+    "dungeon": "D10. 숨겨진 도시, 라록스",
+    "nameKor": "부정한 주문감옥 ",
+    "img": "/images/unholy_spellcage.png",
+    "type": "헤비아머",
+    "stats": "HP+320체질+9보복 60 (마법)",
+    "howGet": "드롭,제작",
+    "price": "3086 (3) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "테러사우루스 송곳니 ",
+    "img": "/images/terrorsaurus_fang.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "42 (1) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "익룡 발톱 ",
+    "img": "/images/pterodactyl_claw.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "42 (1) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "독이 든 살 ",
+    "img": "/images/poisonous_flesh.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "42 (1) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "점화석영 ",
+    "img": "/images/kindlequartz.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "220 (1) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "다이아몬드 ",
+    "img": "/images/diamond.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "5000 (1) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "인페르나이트 ",
+    "img": "/images/infernite.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "125 (1) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "미스릴 ",
+    "img": "/images/mithril.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "4 (1) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "고대의 원피 ",
+    "img": "/images/ancient_hide.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "2 (1) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "공룡 갈비 ",
+    "img": "/images/dino_ribs.png",
+    "type": "음식",
+    "stats": "",
+    "howGet": "드롭",
+    "price": "20 (1) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "고대의 막 ",
+    "img": "/images/ancient_membrane.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "2 (1) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "선사의 혼합물 ",
+    "img": "/images/prehistoric_mixture.png",
+    "type": "가공재료",
+    "stats": "",
+    "howGet": "제작",
+    "price": "315 (1.5) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "고대의 부츠 ",
+    "img": "/images/ancient_boots.png",
+    "type": "액세서리",
+    "stats": "민첩+33",
+    "howGet": "드롭,제작",
+    "price": "465 (1.5) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "고대의 장갑 ",
+    "img": "/images/ancient_gloves.png",
+    "type": "액세서리",
+    "stats": "체질+18민첩+18",
+    "howGet": "드롭,제작",
+    "price": "468 (1.5) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "고대의 부적 ",
+    "img": "/images/archaic_amulet.png",
+    "type": "액세서리",
+    "stats": "HP+140동물 친화력: 40",
+    "howGet": "드롭,제작",
+    "price": "806 (1.87) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "다이아몬드 부적 ",
+    "img": "/images/diamond_amulet.png",
+    "type": "액세서리",
+    "stats": "HP+175경험치 +55%",
+    "howGet": "드롭,제작",
+    "price": "7503 (1.5) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "고대의 재킷 ",
+    "img": "/images/ancient_jacket.png",
+    "type": "미디엄아머",
+    "stats": "HP+220체질+11민첩+11",
+    "howGet": "드롭,제작",
+    "price": "600 (1.5) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "야수조련사 재킷 ",
+    "img": "/images/beastmaster_jacket.png",
+    "type": "미디엄아머",
+    "stats": "HP+220체질+10민첩+10동물 친화력 50",
+    "howGet": "드롭,제작",
+    "price": "2250 (1.5) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "고대의 로브 ",
+    "img": "/images/ancient_robe.png",
+    "type": "라이트아머",
+    "stats": "HP+110지능+33",
+    "howGet": "드롭,제작",
+    "price": "600 (1.5) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "미스릴 활 ",
+    "img": "/images/mithril_bow.png",
+    "type": "활",
+    "stats": "지능+11민첩+33",
+    "howGet": "드롭,제작",
+    "price": "1023 (1.5) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "미스릴 헬름 ",
+    "img": "/images/mithril_helm.png",
+    "type": "액세서리",
+    "stats": "HP+220",
+    "howGet": "드롭,제작",
+    "price": "750 (1.63) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "미스릴 방패 ",
+    "img": "/images/mithril_shield.png",
+    "type": "액세서리",
+    "stats": "체질+33",
+    "howGet": "드롭,제작",
+    "price": "810 (1.5) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "고대의 갑옷 ",
+    "img": "/images/ancient_armor.png",
+    "type": "헤비아머",
+    "stats": "HP+330체질+11",
+    "howGet": "드롭,제작",
+    "price": "1092 (1.5) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "미스릴 검 ",
+    "img": "/images/mithril_sword.png",
+    "type": "검",
+    "stats": "체질+33민첩+11",
+    "howGet": "드롭,제작",
+    "price": "1020 (1.5) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "미스릴 단검 ",
+    "img": "/images/mithril_dagger.png",
+    "type": "단검",
+    "stats": "체질+11민첩+33",
+    "howGet": "드롭,제작",
+    "price": "996 (1.5) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "독소 주머니 ",
+    "img": "/images/toxin_pouch.png",
+    "type": "액세서리",
+    "stats": "HP+90지능+15독 피해 -4%",
+    "howGet": "드롭,제작",
+    "price": "654 (1.5) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "지옥의 차크람 ",
+    "img": "/images/infernal_chakram.png",
+    "type": "단검",
+    "stats": "민첩+40원거리 무기",
+    "howGet": "드롭,제작",
+    "price": "2625 (1.5) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "의식의 칼날 ",
+    "img": "/images/ritual_blade.png",
+    "type": "단검",
+    "stats": "HP+80체질+25지능+25치유량 +60%",
+    "howGet": "드롭,제작",
+    "price": "15300 (1.49) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "불타는 초상 ",
+    "img": "/images/burning_effigy.png",
+    "type": "액세서리",
+    "stats": "체질+34방어력+9마법 방어력+9위협 수준+3",
+    "howGet": "드롭,제작",
+    "price": "43500 (2.54) "
+  },
+  {
+    "dungeon": "D11. 잊혀진 대지",
+    "nameKor": "지옥의 활 ",
+    "img": "/images/infernal_bow.png",
+    "type": "활",
+    "stats": "민첩+45두 번 공격",
+    "howGet": "드롭,제작",
+    "price": "13400 (2.55) "
+  },
+  {
+    "dungeon": "R1. 슬라임 연못",
+    "nameKor": "탐색 거울 ",
+    "img": "/images/seeking_glass.png",
+    "type": "액세서리",
+    "stats": "지능+25\n공격이 항상 명중",
+    "howGet": "드롭,제작",
+    "price": "10000 (1) "
+  },
+  {
+    "dungeon": "R1. 슬라임 연못",
+    "nameKor": "슬라임 왕의 왕관 ",
+    "img": "/images/slime_kings_crown.png",
+    "type": "액세서리",
+    "stats": "경험치+35%",
+    "howGet": "드롭,제작",
+    "price": "5000 (1) "
+  },
+  {
+    "dungeon": "R1. 슬라임 연못",
+    "nameKor": "슬라임 갑옷 ★",
+    "img": "/images/slime_armor.png",
+    "type": "헤비아머",
+    "stats": "HP+150방어력+5",
+    "howGet": "드롭,제작",
+    "price": "630 (1.5) "
+  },
+  {
+    "dungeon": "R1. 슬라임 연못",
+    "nameKor": "슬라임 로브 ",
+    "img": "/images/slime_robe.png",
+    "type": "라이트아머",
+    "stats": "HP+80방어력+5",
+    "howGet": "드롭,제작",
+    "price": "630 (1.5) "
+  },
+  {
+    "dungeon": "R1. 슬라임 연못",
+    "nameKor": "슬라임 재킷 ",
+    "img": "/images/slime_jacket.png",
+    "type": "미디엄아머",
+    "stats": "HP+130방어력+5",
+    "howGet": "드롭,제작",
+    "price": "630 (1.5) "
+  },
+  {
+    "dungeon": "R1. 슬라임 연못",
+    "nameKor": "용융 지팡이 ",
+    "img": "/images/molten_staff.png",
+    "type": "지팡이",
+    "stats": "지능+14",
+    "howGet": "드롭,제작",
+    "price": "285 (1.84) "
+  },
+  {
+    "dungeon": "R1. 슬라임 연못",
+    "nameKor": "태양 지팡이 ",
+    "img": "/images/sun_staff.png",
+    "type": "지팡이",
+    "stats": "체질+2지능+13민첩+2화염 피해+40%",
+    "howGet": "드롭,제작",
+    "price": "1560 (2.86) "
+  },
+  {
+    "dungeon": "R1. 슬라임 연못",
+    "nameKor": "얼어붙은 포옹 ",
+    "img": "/images/frozen_embrace.png",
+    "type": "헤비아머",
+    "stats": "HP+200방어력+12근접 공격자를 빙결 상태로 만듦",
+    "howGet": "드롭,제작",
+    "price": "2457 (2.63) "
+  },
+  {
+    "dungeon": "R1. 슬라임 연못",
+    "nameKor": "이그니스 튜닉 ",
+    "img": "/images/tunica_ignis.png",
+    "type": "라이트아머",
+    "stats": "HP+100방어력+10화염 피해+40%",
+    "howGet": "드롭,제작",
+    "price": "2370 (2.6) "
+  },
+  {
+    "dungeon": "R1. 슬라임 연못",
+    "nameKor": "구원의 망토 ★",
+    "img": "/images/cloak_of_redemption.png",
+    "type": "라이트아머",
+    "stats": "HP+110방어력+20마법 방어력+10화염 피해+40%",
+    "howGet": "드롭,제작",
+    "price": "4203 (3.51) "
+  },
+  {
+    "dungeon": "R1. 슬라임 연못",
+    "nameKor": "프리즘 펜던트 ★",
+    "img": "/images/prismatic_pendant.png",
+    "type": "액세서리",
+    "stats": "경험치+65%",
+    "howGet": "드롭,제작",
+    "price": "19500 (4.34) "
+  },
+  {
+    "dungeon": "R1. 슬라임 연못",
+    "nameKor": "공허의 펜던트 ★",
+    "img": "/images/void_pendant.png",
+    "type": "액세서리",
+    "stats": "경험치+80%",
+    "howGet": "드롭,제작",
+    "price": "30000 (6.4) "
+  },
+  {
+    "dungeon": "R1. 슬라임 연못",
+    "nameKor": "프리즘 갑옷 ★★★",
+    "img": "/images/prismatic_armor.png",
+    "type": "헤비아머",
+    "stats": "HP+230방어력+15마법 방어력+15",
+    "howGet": "드롭,제작",
+    "price": "20800 (4.24) "
+  },
+  {
+    "dungeon": "R1. 슬라임 연못",
+    "nameKor": "공허의 갑옷 ★★★",
+    "img": "/images/void_armor.png",
+    "type": "헤비아머",
+    "stats": "HP+280방어력+15마법 방어력+15",
+    "howGet": "드롭,제작",
+    "price": "31500 (6.17) "
+  },
+  {
+    "dungeon": "R1. 슬라임 연못",
+    "nameKor": "승천한 활 ",
+    "img": "/images/ascended_bow.png",
+    "type": "활",
+    "stats": "지능+6민첩+8기절 확률 7.5%",
+    "howGet": "드롭,제작",
+    "price": "279 (1.78) "
+  },
+  {
+    "dungeon": "R1. 슬라임 연못",
+    "nameKor": "파쇄하는 심해 ",
+    "img": "/images/crushing_depth.png",
+    "type": "활",
+    "stats": "지능+13민첩+18기절 확률 10%",
+    "howGet": "드롭,제작",
+    "price": "4596 (3.12) "
+  },
+  {
+    "dungeon": "R1. 슬라임 연못",
+    "nameKor": "고드름 ",
+    "img": "/images/icicle.png",
+    "type": "지팡이",
+    "stats": "체질+10지능+26민첩+10타격 시 빙결",
+    "howGet": "드롭,제작",
+    "price": "2358 (3.34) "
+  },
+  {
+    "dungeon": "R2. [E]신성한 고고학",
+    "nameKor": "검사의 눈 ",
+    "img": "/images/eyes_of_the_swordsman.png",
+    "type": "특수재료",
+    "stats": "[획득방법]\nR2 신성한 고고학에서 첫 번째 검사 샤'키레를 처치하면 100% 확률로 획득",
+    "howGet": "특수상황",
+    "price": "판매불가"
+  },
+  {
+    "dungeon": "R2. [E]신성한 고고학",
+    "nameKor": "검사의 부적 ★★★★",
+    "img": "/images/amulet_of_the_swordsman.png",
+    "type": "액세서리",
+    "stats": "체질+25\n반격 확률+25%",
+    "howGet": "드롭,제작",
+    "price": "판매불가"
+  },
+  {
+    "dungeon": "R2. [E]신성한 고고학",
+    "nameKor": "신성한 접합체 ",
+    "img": "/images/divine_zygote.png",
+    "type": "액세서리",
+    "stats": "체질+7\n지능+7\n민첩+7\n상태이상 면역 확률 +100%",
+    "howGet": "드롭,제작",
+    "price": "판매불가"
+  },
+  {
+    "dungeon": "R2. [E]신성한 고고학",
+    "nameKor": "신성한 배아 ★★★★",
+    "img": "/images/divine_embryo.png",
+    "type": "액세서리",
+    "stats": "체질+20지능+20민첩+20상태이상 면역 확률 +100%",
+    "howGet": "드롭,제작",
+    "price": "판매불가"
+  },
+  {
+    "dungeon": "R2. [E]신성한 고고학",
+    "nameKor": "신성한 유충 ",
+    "img": "/images/divine_larvae.png",
+    "type": "액세서리",
+    "stats": "체질+25지능+25민첩+25상태이상 면역 확률 +100%",
+    "howGet": "드롭,제작",
+    "price": "판매불가"
+  },
+  {
+    "dungeon": "R3. 고대 무덤 발굴",
+    "nameKor": "리치의 로브 ",
+    "img": "/images/robe_of_the_lich.png",
+    "type": "라이트아머",
+    "stats": "지능+27HP+75생명력 흡수+35%(하수인이 살아있을 경우)",
+    "howGet": "드롭,제작",
+    "price": "42500 (1) "
+  },
+  {
+    "dungeon": "R3. 고대 무덤 발굴",
+    "nameKor": "저주받은 활 ★★★★★",
+    "img": "/images/cursed_bow.png",
+    "type": "활",
+    "stats": "민첩+30두 번 공격",
+    "howGet": "드롭,제작",
+    "price": "7683 (1.5) "
+  },
+  {
+    "dungeon": "R3. 고대 무덤 발굴",
+    "nameKor": "저주받은 재킷 ",
+    "img": "/images/cursed_jacket.png",
+    "type": "미디엄아머",
+    "stats": "체질+10HP+100치명타 피해+50%",
+    "howGet": "드롭,제작",
+    "price": "1440 (1.5) "
+  },
+  {
+    "dungeon": "R3. 고대 무덤 발굴",
+    "nameKor": "저주받은 발톱 ",
+    "img": "/images/cursed_claws.png",
+    "type": "액세서리",
+    "stats": "체질+10\n민첩+10\n보너스 행동: 8출혈 중첩 적용",
+    "howGet": "드롭,제작",
+    "price": "1920 (1.5) "
+  },
+  {
+    "dungeon": "R3. 고대 무덤 발굴",
+    "nameKor": "성구함 ",
+    "img": "/images/phylactery.png",
+    "type": "액세서리",
+    "stats": "HP+80\n재생 효과+5%",
+    "howGet": "드롭,제작",
+    "price": "10100 (1.57) "
+  },
+  {
+    "dungeon": "R3. 고대 무덤 발굴",
+    "nameKor": "불멸의 갑옷 ★★★",
+    "img": "/images/armor_of_the_undying.png",
+    "type": "헤비아머",
+    "stats": "HP+350피격시 자신에게 재생[+5%] 효과 부여",
+    "howGet": "드롭,제작",
+    "price": "49300 (2.25) "
+  },
+  {
+    "dungeon": "R3. 고대 무덤 발굴",
+    "nameKor": "저주받은 헬름 ",
+    "img": "/images/cursed_helm.png",
+    "type": "액세서리",
+    "stats": "HP+105보복 15(물리)",
+    "howGet": "드롭,제작",
+    "price": "2880 (1.5) "
+  },
+  {
+    "dungeon": "R4. [E]제국 구조",
+    "nameKor": "해골 열쇠 ",
+    "img": "/images/skeleton_key.png",
+    "type": "액세서리",
+    "stats": "지능+36\n하수인 피해량 x2",
+    "howGet": "드롭,제작",
+    "price": "판매불가"
+  },
+  {
+    "dungeon": "R5. 광신도의 반란",
+    "nameKor": "거대한 검 ",
+    "img": "/images/colossal_sword.png",
+    "type": "검",
+    "stats": "체질+50체질 < 120일 경우 피해량 반감",
+    "howGet": "드롭,제작",
+    "price": "10000 (1) "
+  },
+  {
+    "dungeon": "R5. 광신도의 반란",
+    "nameKor": "영원한 굶주림 ",
+    "img": "/images/eternal_hunger.png",
+    "type": "액세서리",
+    "stats": "지능+5\n생명력 흡수+50%",
+    "howGet": "드롭,제작",
+    "price": "15000 (1) "
+  },
+  {
+    "dungeon": "R5. 광신도의 반란",
+    "nameKor": "결투사 갑옷 ★",
+    "img": "/images/duelist_armor.png",
+    "type": "헤비아머",
+    "stats": "체질+20HP+75반격 확률+25%",
+    "howGet": "드롭,제작",
+    "price": "3885 (1.5) "
+  },
+  {
+    "dungeon": "R5. 광신도의 반란",
+    "nameKor": "챔피언 갑옷 ★★★★",
+    "img": "/images/champion_armor.png",
+    "type": "헤비아머",
+    "stats": "체질+28HP+120반격 확률+40%",
+    "howGet": "드롭,제작",
+    "price": "13300 (1.75) "
+  },
+  {
+    "dungeon": "R5. 광신도의 반란",
+    "nameKor": "교활한 몰락 ",
+    "img": "/images/cunning_downfall.png",
+    "type": "미디엄아머",
+    "stats": "체질+5민첩+5HP+140침묵 10%",
+    "howGet": "드롭,제작",
+    "price": "4320 (1.5) "
+  },
+  {
+    "dungeon": "R5. 광신도의 반란",
+    "nameKor": "교활한 종말 ",
+    "img": "/images/cunning_demise.png",
+    "type": "미디엄아머",
+    "stats": "체질+7민첩+7HP+160침묵 12.5%",
+    "howGet": "드롭,제작",
+    "price": "16200 (1.73) "
+  },
+  {
+    "dungeon": "R5. 광신도의 반란",
+    "nameKor": "티탄의 힘 ",
+    "img": "/images/titanic_might.png",
+    "type": "활",
+    "stats": "지능+20민첩+32기절 확률 11%",
+    "howGet": "드롭,제작",
+    "price": "22400 (1.95) "
+  },
+  {
+    "dungeon": "R5. 광신도의 반란",
+    "nameKor": "티탄의 방패 ",
+    "img": "/images/shield_of_the_titan.png",
+    "type": "액세서리",
+    "stats": "체질+16\n방어력+5\n마법 방어력+5\n위협 수준+1",
+    "howGet": "드롭,제작",
+    "price": "2700 (1.5) "
+  },
+  {
+    "dungeon": "R5. 광신도의 반란",
+    "nameKor": "순교자의 방패 ★★★",
+    "img": "/images/shield_of_the_martyr.png",
+    "type": "액세서리",
+    "stats": "체질+22\n방어력+8\n마법 방어력+8\n위협 수준+2",
+    "howGet": "드롭,제작",
+    "price": "26500 (1.58) "
+  },
+  {
+    "dungeon": "R5. 광신도의 반란",
+    "nameKor": "플라잉 리퍼 ★★★★",
+    "img": "/images/flying_reaper.png",
+    "type": "단검",
+    "stats": "체질+10민첩+20원거리 무기",
+    "howGet": "드롭,제작",
+    "price": "2400 (1.5) "
+  },
+  {
+    "dungeon": "R5. 광신도의 반란",
+    "nameKor": "상호 절망 ★",
+    "img": "/images/mutual_despair.png",
+    "type": "단검",
+    "stats": "체질+15민첩+30부패 20치명타 피해+65%",
+    "howGet": "드롭,제작",
+    "price": "10500 (1.5) "
+  },
+  {
+    "dungeon": "R5. 광신도의 반란",
+    "nameKor": "카벨리안 발톱 ",
+    "img": "/images/kabelian_claws.png",
+    "type": "액세서리",
+    "stats": "체질+18\n민첩+16\n보너스 행동: 20출혈 중첩 적용",
+    "howGet": "드롭,제작",
+    "price": "6720 (1.75) "
+  },
+  {
+    "dungeon": "R5. 광신도의 반란",
+    "nameKor": "십자군 휘장 ",
+    "img": "/images/crusader_insigna.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "52 (1) "
+  },
+  {
+    "dungeon": "R5. 광신도의 반란",
+    "nameKor": "카벨리안 갑옷 ",
+    "img": "/images/kabelian_armor.png",
+    "type": "헤비아머",
+    "stats": "HP+105체질+20어둠 -20",
+    "howGet": "드롭,제작",
+    "price": "3276 (1.5) "
+  },
+  {
+    "dungeon": "R5. 광신도의 반란",
+    "nameKor": "학습의 비약 ",
+    "img": "/images/elixir_of_learning.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "65 (1) "
+  },
+  {
+    "dungeon": "R5. 광신도의 반란",
+    "nameKor": "지혜의 주입물 ",
+    "img": "/images/infusion_of_wisdom.png",
+    "type": "가공재료",
+    "stats": "",
+    "howGet": "제작",
+    "price": "3717 (4.15) "
+  },
+  {
+    "dungeon": "R5. 광신도의 반란",
+    "nameKor": "현자의 재킷 ",
+    "img": "/images/sage_jacket.png",
+    "type": "미디엄아머",
+    "stats": "HP+140체질+7민첩+7경험치 +60%",
+    "howGet": "드롭,제작",
+    "price": "6093 (5.46) "
+  },
+  {
+    "dungeon": "R5. 광신도의 반란",
+    "nameKor": "현자의 망토 ",
+    "img": "/images/sage_cloak.png",
+    "type": "라이트아머",
+    "stats": "HP+70지능+21경험치+60%",
+    "howGet": "드롭,제작",
+    "price": "6161 (5.33) "
+  },
+  {
+    "dungeon": "R5. 광신도의 반란",
+    "nameKor": "현자의 갑옷 ",
+    "img": "/images/sage_armor.png",
+    "type": "헤비아머",
+    "stats": "HP+210체질+7경험치+60%",
+    "howGet": "드롭,제작",
+    "price": "6543 (5.26) "
+  },
+  {
+    "dungeon": "R6. [E]끔찍한 상승",
+    "nameKor": "서펜트 지팡이 ",
+    "img": "/images/serpent_staff.png",
+    "type": "지팡이",
+    "stats": "지능+40치유량-50%타격시 격분",
+    "howGet": "드롭,제작",
+    "price": "판매불가"
+  },
+  {
+    "dungeon": "R7. 실종된 탐험대",
+    "nameKor": "이상한 원단 ",
+    "img": "/images/abherrant_fabric.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "20 (1) "
+  },
+  {
+    "dungeon": "R7. 실종된 탐험대",
+    "nameKor": "검은 원피 ",
+    "img": "/images/black_hide.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "16 (1) "
+  },
+  {
+    "dungeon": "R7. 실종된 탐험대",
+    "nameKor": "섬뜩한 조각 ",
+    "img": "/images/eldritch_shred.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "85 (1) "
+  },
+  {
+    "dungeon": "R7. 실종된 탐험대",
+    "nameKor": "음산한 부츠 ",
+    "img": "/images/bleak_boots.png",
+    "type": "액세서리",
+    "stats": "민첩+34회피율+20% (합연산)",
+    "howGet": "드롭,제작",
+    "price": "2016 (1.5) "
+  },
+  {
+    "dungeon": "R7. 실종된 탐험대",
+    "nameKor": "음산한 장갑 ",
+    "img": "/images/bleak_gloves.png",
+    "type": "액세서리",
+    "stats": "체질+18민첩+19회피율+20% (힙연산)",
+    "howGet": "드롭,제작",
+    "price": "1584 (1.5) "
+  },
+  {
+    "dungeon": "R7. 실종된 탐험대",
+    "nameKor": "섬뜩한 인장 ",
+    "img": "/images/eldritch_seal.png",
+    "type": "가공재료",
+    "stats": "",
+    "howGet": "제작",
+    "price": "893 (1.5) "
+  },
+  {
+    "dungeon": "R7. 실종된 탐험대",
+    "nameKor": "섬뜩한 주교관 ",
+    "img": "/images/eldritch_mitre.png",
+    "type": "액세서리",
+    "stats": "지능+45\nHP+50\n치유량-99%",
+    "howGet": "드롭,제작",
+    "price": "2255 (1.87) "
+  },
+  {
+    "dungeon": "R7. 실종된 탐험대",
+    "nameKor": "보이지 않는 하인 ",
+    "img": "/images/invisible_servant.png",
+    "type": "액세서리",
+    "stats": "체질+35\nHP+135\n보너스 행동: 140의 원거리 마법 피해",
+    "howGet": "드롭,제작",
+    "price": "16200 (1.5) "
+  },
+  {
+    "dungeon": "R7. 실종된 탐험대",
+    "nameKor": "전우주의 바이올린 ",
+    "img": "/images/cosmic_violin.png",
+    "type": "액세서리",
+    "stats": "체질+25\n지능+25\n민첩+25\n영감을 주다/고양: +3턴",
+    "howGet": "드롭,제작",
+    "price": "11100 (1) "
+  },
+  {
+    "dungeon": "R7. 실종된 탐험대",
+    "nameKor": "별의 파편 ",
+    "img": "/images/star_fragment.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "500 (1) "
+  },
+  {
+    "dungeon": "R7. 실종된 탐험대",
+    "nameKor": "별의 섬광 ",
+    "img": "/images/stellar_flare.png",
+    "type": "활",
+    "stats": "지능+34\n민첩+55\n기절+13%",
+    "howGet": "드롭,제작",
+    "price": "37300 (2.67) "
+  },
+  {
+    "dungeon": "R7. 실종된 탐험대",
+    "nameKor": "심령의 점액 ",
+    "img": "/images/astral_goo.png",
+    "type": "일반재료",
+    "stats": "",
+    "howGet": "드롭,바닥",
+    "price": "4 (1) "
+  },
+  {
+    "dungeon": "R7. 실종된 탐험대",
+    "nameKor": "별의 지팡이 ",
+    "img": "/images/stellar_staff.png",
+    "type": "지팡이",
+    "stats": "체질+10지능+25민첩+10화염 피해 +60%",
+    "howGet": "드롭,제작",
+    "price": "6090 (2) "
+  },
+  {
+    "dungeon": "R8. [E]천상의 모선",
+    "nameKor": "에보-23 바이알 ",
+    "img": "/images/evo23_vial.png",
+    "type": "특수재료",
+    "stats": "이 아이템은 모험가의 희귀 특성을 수정할 수 있습니다.\n[두번째 특성을 추가하거나 변경 가능]",
+    "howGet": "특수상황",
+    "price": "판매불가"
+  },
+  {
+    "dungeon": "R9. [E]무서운 하강",
+    "nameKor": "서펜트의 돌진 ",
+    "img": "/images/serpent_lunge.png",
+    "type": "단검",
+    "stats": "체질 +25민첩 +25피해 -50%회피 +50%",
+    "howGet": "드롭,제작",
+    "price": "판매불가"
+  },
+  {
+    "dungeon": "R9. [E]무서운 하강",
+    "nameKor": "서펜트의 독침 ",
+    "img": "/images/serpent_sting.png",
+    "type": "활",
+    "stats": "민첩 +40피해 x3자기 기절",
+    "howGet": "드롭,제작",
+    "price": "판매불가"
+  },
+  {
+    "dungeon": "R9. [E]무서운 하강",
+    "nameKor": "사펜트의 이빨 ",
+    "img": "/images/serpent_bite.png",
+    "type": "검",
+    "stats": "체질 +30민첩 +10위협 -4피해 x 위협",
+    "howGet": "드롭,제작",
+    "price": "판매불가"
+  }
+]

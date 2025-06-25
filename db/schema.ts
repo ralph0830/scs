@@ -265,9 +265,15 @@ export const items = sqliteTable('items', {
   name: text('name').notNull(),
   description: text('description'),
   imageUrl: text('image_url'),
-  type: text('type', { enum: ['material', 'consumable', 'equipment', 'egg'] }).default('material').notNull(),
-  buyPrice: integer('buy_price'),
+  type: text('type').notNull(), // item_types.value 참조
+  // buyPrice: integer('buy_price'), // 구매가 필드 제거
   sellPrice: integer('sell_price'),
+  gemPrice: text('gem_price'),
+  feedPower: text('feed_power'),
+  importantVal: text('important_val'),
+  stats: text('stats'),
+  statsEng: text('stats_eng'),
+  equipmentType: text('equipment_type'), // 무기/방어구/액세서리 등
 });
 
 // User's inventory
@@ -357,4 +363,11 @@ export const userDungeonProgressRelations = relations(userDungeonProgress, ({ on
     fields: [userDungeonProgress.dungeonId],
     references: [dungeonAreas.id],
   }),
-})); 
+}));
+
+export const itemTypes = sqliteTable('item_types', {
+  value: text('value').primaryKey(), // 예: "10"
+  text: text('text').notNull(),      // 한글명: "일반재료"
+  textEng: text('text_eng'),         // 영문명: "Material"
+  category: text('category'),        // 대분류(예: "material", "equipment" 등)
+}); 

@@ -13,16 +13,52 @@ interface IItem {
   id: number
   name: string
   description: string
-  type: string
-  rarity: string
   imageUrl: string | null
-  effect: string
-  price: number | null
-  howGet?: string
-  sellPrice?: string
-  feedPower?: string
-  combine?: string
-  dropMonsters?: string
+  type: string
+  sellPrice: number | null
+  gemPrice?: string | null
+  feedPower?: string | null
+  importantVal?: string | null
+  stats?: string | null
+  statsEng?: string | null
+  equipmentType?: string | null
+}
+
+const ITEM_TYPES = [
+  { value: '10', text: '일반재료' },
+  { value: '11', text: '가공재료' },
+  { value: '12', text: '특수재료' },
+  { value: '20', text: '음식' },
+  { value: '21', text: '음식(상점)' },
+  { value: '31', text: '검' },
+  { value: '32', text: '단검' },
+  { value: '33', text: '지팡이' },
+  { value: '34', text: '활' },
+  { value: '35', text: '헤비아머' },
+  { value: '36', text: '미디엄아머' },
+  { value: '37', text: '라이트아머' },
+  { value: '38', text: '액세서리' },
+  { value: '40', text: '알' },
+  { value: '60', text: '포션' },
+]
+
+const EQUIPMENT_TYPE_LABELS = {
+  weapon: '무기',
+  armor: '방어구',
+  accessory: '액세서리',
+}
+
+const EQUIPMENT_TYPE_OPTIONS = [
+  { value: 'weapon', text: '무기' },
+  { value: 'armor', text: '방어구' },
+  { value: 'accessory', text: '액세서리' },
+]
+
+function getImageUrl(imageUrl: string | null) {
+  if (!imageUrl) return ''
+  if (imageUrl.startsWith('/items/')) return imageUrl
+  if (imageUrl.startsWith('items/')) return '/' + imageUrl
+  return '/items/' + imageUrl.replace(/^\//, '')
 }
 
 export default function AdminItemsPage() {
@@ -57,14 +93,20 @@ export default function AdminItemsPage() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     const formData = new FormData(e.target as HTMLFormElement)
+    const rawImageUrl = formData.get('imageUrl') as string
+    const imageUrl = getImageUrl(rawImageUrl)
     const itemData = {
       name: formData.get('name') as string,
       description: formData.get('description') as string,
       type: formData.get('type') as string,
-      rarity: formData.get('rarity') as string,
-      effect: formData.get('effect') as string,
-      price: formData.get('price') ? Number(formData.get('price')) : null,
-      imageUrl: formData.get('imageUrl') as string,
+      imageUrl,
+      sellPrice: formData.get('sellPrice') ? Number(formData.get('sellPrice')) : null,
+      gemPrice: formData.get('gemPrice') as string,
+      feedPower: formData.get('feedPower') as string,
+      importantVal: formData.get('importantVal') as string,
+      stats: formData.get('stats') as string,
+      statsEng: formData.get('statsEng') as string,
+      equipmentType: formData.get('equipmentType') as string,
     }
 
     try {
@@ -169,45 +211,13 @@ export default function AdminItemsPage() {
                     <SelectValue placeholder="타입 선택" />
                   </SelectTrigger>
                   <SelectContent>
-                    <SelectItem value="일반재료">일반재료</SelectItem>
-                    <SelectItem value="가공재료">가공재료</SelectItem>
-                    <SelectItem value="음식">음식</SelectItem>
-                    <SelectItem value="알">알</SelectItem>
-                    <SelectItem value="장비">장비</SelectItem>
+                    {ITEM_TYPES.map((item) => (
+                      <SelectItem key={item.value} value={item.value}>
+                        {item.text}
+                      </SelectItem>
+                    ))}
                   </SelectContent>
                 </Select>
-              </div>
-              <div>
-                <Label htmlFor="rarity">등급</Label>
-                <Select name="rarity" defaultValue={editingItem?.rarity}>
-                  <SelectTrigger>
-                    <SelectValue placeholder="등급 선택" />
-                  </SelectTrigger>
-                  <SelectContent>
-                    <SelectItem value="common">일반</SelectItem>
-                    <SelectItem value="uncommon">고급</SelectItem>
-                    <SelectItem value="rare">희귀</SelectItem>
-                    <SelectItem value="epic">영웅</SelectItem>
-                    <SelectItem value="legendary">전설</SelectItem>
-                  </SelectContent>
-                </Select>
-              </div>
-              <div>
-                <Label htmlFor="effect">효과</Label>
-                <Input
-                  id="effect"
-                  name="effect"
-                  defaultValue={editingItem?.effect}
-                />
-              </div>
-              <div>
-                <Label htmlFor="price">가격</Label>
-                <Input
-                  id="price"
-                  name="price"
-                  type="number"
-                  defaultValue={editingItem?.price || ''}
-                />
               </div>
               <div>
                 <Label htmlFor="imageUrl">이미지 경로</Label>
@@ -216,6 +226,68 @@ export default function AdminItemsPage() {
                   name="imageUrl"
                   defaultValue={editingItem?.imageUrl || ''}
                 />
+              </div>
+              <div>
+                <Label htmlFor="sellPrice">판매가</Label>
+                <Input
+                  id="sellPrice"
+                  name="sellPrice"
+                  type="number"
+                  defaultValue={editingItem?.sellPrice || ''}
+                />
+              </div>
+              <div>
+                <Label htmlFor="gemPrice">보석가</Label>
+                <Input
+                  id="gemPrice"
+                  name="gemPrice"
+                  defaultValue={editingItem?.gemPrice || ''}
+                />
+              </div>
+              <div>
+                <Label htmlFor="feedPower">영양력</Label>
+                <Input
+                  id="feedPower"
+                  name="feedPower"
+                  defaultValue={editingItem?.feedPower || ''}
+                />
+              </div>
+              <div>
+                <Label htmlFor="importantVal">중요도</Label>
+                <Input
+                  id="importantVal"
+                  name="importantVal"
+                  defaultValue={editingItem?.importantVal || ''}
+                />
+              </div>
+              <div>
+                <Label htmlFor="stats">통계</Label>
+                <Input
+                  id="stats"
+                  name="stats"
+                  defaultValue={editingItem?.stats || ''}
+                />
+              </div>
+              <div>
+                <Label htmlFor="statsEng">통계(영문)</Label>
+                <Input
+                  id="statsEng"
+                  name="statsEng"
+                  defaultValue={editingItem?.statsEng || ''}
+                />
+              </div>
+              <div>
+                <Label htmlFor="equipmentType">장비유형</Label>
+                <Select name="equipmentType" defaultValue={editingItem?.equipmentType || ''}>
+                  <SelectTrigger>
+                    <SelectValue placeholder="장비유형 선택" />
+                  </SelectTrigger>
+                  <SelectContent>
+                    {EQUIPMENT_TYPE_OPTIONS.map((et) => (
+                      <SelectItem key={et.value} value={et.value}>{et.text}</SelectItem>
+                    ))}
+                  </SelectContent>
+                </Select>
               </div>
               <div className="flex justify-end space-x-2">
                 <Button type="button" variant="outline" onClick={() => setIsDialogOpen(false)}>
@@ -238,8 +310,11 @@ export default function AdminItemsPage() {
               <TableHead>이미지</TableHead>
               <TableHead>이름</TableHead>
               <TableHead>타입</TableHead>
-              <TableHead>등급</TableHead>
-              <TableHead>가격</TableHead>
+              <TableHead>판매가</TableHead>
+              <TableHead>보석가</TableHead>
+              <TableHead>영양력</TableHead>
+              <TableHead>중요도</TableHead>
+              <TableHead>장비유형</TableHead>
               <TableHead>작업</TableHead>
             </TableRow>
           </TableHeader>
@@ -250,16 +325,19 @@ export default function AdminItemsPage() {
                 <TableCell>
                   {item.imageUrl && (
                     <img
-                      src={item.imageUrl}
+                      src={getImageUrl(item.imageUrl)}
                       alt={item.name}
                       className="w-8 h-8 object-contain"
                     />
                   )}
                 </TableCell>
                 <TableCell>{item.name}</TableCell>
-                <TableCell>{item.type}</TableCell>
-                <TableCell>{item.rarity}</TableCell>
-                <TableCell>{item.price || '-'}</TableCell>
+                <TableCell>{ITEM_TYPES.find(t => t.value === item.type)?.text}</TableCell>
+                <TableCell>{item.sellPrice || '-'}</TableCell>
+                <TableCell>{item.gemPrice || '-'}</TableCell>
+                <TableCell>{item.feedPower || '-'}</TableCell>
+                <TableCell>{item.importantVal || '-'}</TableCell>
+                <TableCell>{item.equipmentType && EQUIPMENT_TYPE_LABELS[item.equipmentType as keyof typeof EQUIPMENT_TYPE_LABELS] ? EQUIPMENT_TYPE_LABELS[item.equipmentType as keyof typeof EQUIPMENT_TYPE_LABELS] : '-'}</TableCell>
                 <TableCell>
                   <div className="flex space-x-2">
                     <Button
@@ -273,6 +351,7 @@ export default function AdminItemsPage() {
                       size="sm"
                       variant="destructive"
                       onClick={() => handleDelete(item.id)}
+                      disabled={true}
                     >
                       삭제
                     </Button>
