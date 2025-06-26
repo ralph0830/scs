@@ -1,0 +1,27 @@
+[33mcommit d0ca42c6825cbaf73f065141ac321b6edb1fbc89[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author:     ralph0830 <ralph0830@users.noreply.github.com>
+AuthorDate: Thu Jun 26 21:11:10 2025 +0900
+Commit:     ralph0830 <ralph0830@users.noreply.github.com>
+CommitDate: Thu Jun 26 21:11:10 2025 +0900
+
+    style: /admin 및 햄버거 메뉴 다크톤/텍스트/명칭 통일
+
+[33mcommit 02153da50bcf122a95b2383d843838d34e5da9be[m
+Author:     ralph0830 <ralph0830@users.noreply.github.com>
+AuthorDate: Thu Jun 26 21:03:07 2025 +0900
+Commit:     ralph0830 <ralph0830@users.noreply.github.com>
+CommitDate: Thu Jun 26 21:03:07 2025 +0900
+
+    style: 기본 배경색을 홈(#222)과 동일하게 globals.css에 적용
+
+[33mcommit 246dfb9217db905347a376ec6bdf70b4c30428fc[m
+Author:     ralph0830 <ralph0830@users.noreply.github.com>
+AuthorDate: Thu Jun 26 00:44:47 2025 +0900
+Commit:     ralph0830 <ralph0830@users.noreply.github.com>
+CommitDate: Thu Jun 26 00:44:47 2025 +0900
+
+    fix: 몬스터/드랍/DB 마이그레이션 및 데이터 정합성 개선
+    - monsters 테이블 구조 변경 및 데이터 재이관
+    - monster_drops 조인 테이블 생성 및 드랍 데이터 이관
+    - raw_data JSON 및 마이그레이션 스크립트 정비
+    - 데이터/스키마 불일치 수정 및 admin 페이지 연동 개선
