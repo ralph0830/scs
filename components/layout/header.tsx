@@ -56,20 +56,20 @@ export default function Header() {
         onClick={() => setOpen(false)}
       >
         <aside
-          className={`fixed top-0 left-0 h-full w-64 bg-white dark:bg-gray-900 shadow-lg z-50 transform transition-transform duration-300 ${open ? 'translate-x-0' : '-translate-x-full'}`}
+          className={`fixed top-0 left-0 h-full w-64 bg-[#222] shadow-lg z-50 transform transition-transform duration-300 ${open ? 'translate-x-0' : '-translate-x-full'}`}
           onClick={e => e.stopPropagation()}
         >
-          <div className="p-4 font-bold text-lg border-b border-gray-200 dark:border-gray-700">메뉴</div>
+          <div className="p-4 font-bold text-lg border-b border-[#333] text-gray-100">메뉴</div>
           <nav className="flex flex-col p-4 gap-3 flex-1">
-            <Link href="/" className="hover:text-blue-600" onClick={() => setOpen(false)}>홈</Link>
-            <Link href="/critterdex" className="hover:text-blue-600" onClick={() => setOpen(false)}>크리터덱스</Link>
-            <Link href="/dungeon" className="hover:text-blue-600" onClick={() => setOpen(false)}>던전</Link>
-            <Link href="/hatchery" className="hover:text-blue-600" onClick={() => setOpen(false)}>부화장</Link>
-            <Link href="/shop" className="hover:text-blue-600" onClick={() => setOpen(false)}>상점</Link>
+            <Link href="/" className="hover:bg-[#333] rounded px-2 py-2 text-gray-100" onClick={() => setOpen(false)}>홈</Link>
+            <Link href="/critterdex" className="hover:bg-[#333] rounded px-2 py-2 text-gray-100" onClick={() => setOpen(false)}>내 크리터</Link>
+            <Link href="/dungeon" className="hover:bg-[#333] rounded px-2 py-2 text-gray-100" onClick={() => setOpen(false)}>던전</Link>
+            <Link href="/hatchery" className="hover:bg-[#333] rounded px-2 py-2 text-gray-100" onClick={() => setOpen(false)}>부화장</Link>
+            <Link href="/shop" className="hover:bg-[#333] rounded px-2 py-2 text-gray-100" onClick={() => setOpen(false)}>상점</Link>
           </nav>
           {/* 로그아웃 메뉴 */}
           <button
-            className="w-full flex items-center gap-2 px-4 py-3 border-t border-gray-200 dark:border-gray-700 text-left text-red-500 hover:bg-gray-100 dark:hover:bg-gray-800"
+            className="w-full flex items-center gap-2 px-4 py-3 border-t border-[#333] text-left text-red-400 hover:bg-[#333]"
             onClick={handleLogout}
           >
             <LogOut className="w-5 h-5" /> 로그아웃
