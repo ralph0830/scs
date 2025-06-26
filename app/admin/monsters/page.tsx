@@ -232,11 +232,14 @@ export default function MonsterManagementPage() {
                   ) : (
                     monsters.map((monster) => (
                       <TableRow key={monster.id}>
-                        <TableCell>
+                        <TableCell
+                          style={{ minWidth: 56, maxWidth: 56, width: 56, position: 'sticky', left: 0, zIndex: 2, background: '#333' }}
+                          className="p-1 border-r border-[#444]"
+                        >
                           <img
                             src={getMonsterImageUrl(monster.imageUrl)}
                             alt={monster.name + ' 이미지'}
-                            className="w-10 h-10 rounded-full object-cover border"
+                            className="w-10 h-10 rounded-full object-cover border border-[#444]"
                             width={40}
                             height={40}
                           />
