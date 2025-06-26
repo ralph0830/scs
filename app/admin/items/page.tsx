@@ -173,14 +173,81 @@ export default function AdminItemsPage() {
   }
 
   return (
-    <div className="p-6">
-      <div className="flex justify-between items-center mb-6">
-        <h1 className="text-2xl font-bold">아이템 관리</h1>
+    <div className="bg-[#222] text-gray-100 min-h-screen">
+      <main className="px-2 py-4 bg-[#222] min-h-screen">
+        <div className="flex flex-col gap-3 max-w-4xl mx-auto">
+          <div className="bg-[#333] border border-[#444] rounded-xl p-4 shadow mb-4">
+            <div className="flex justify-between items-center mb-4">
+              <h1 className="text-2xl font-bold">아이템 관리</h1>
+              <Button onClick={openAddDialog}>아이템 추가</Button>
+            </div>
+            <div className="overflow-x-auto rounded-xl">
+              <Table className="bg-[#333] text-gray-100">
+                <TableHeader>
+                  <TableRow>
+                    <TableHead>ID</TableHead>
+                    <TableHead>이미지</TableHead>
+                    <TableHead>이름</TableHead>
+                    <TableHead>타입</TableHead>
+                    <TableHead>판매가</TableHead>
+                    <TableHead>보석가</TableHead>
+                    <TableHead>영양력</TableHead>
+                    <TableHead>중요도</TableHead>
+                    <TableHead>장비유형</TableHead>
+                    <TableHead>작업</TableHead>
+                  </TableRow>
+                </TableHeader>
+                <TableBody>
+                  {items.map((item) => (
+                    <TableRow key={item.id}>
+                      <TableCell>{item.id}</TableCell>
+                      <TableCell>
+                        {item.imageUrl && (
+                          <img
+                            src={getImageUrl(item.imageUrl)}
+                            alt={item.name}
+                            className="w-8 h-8 object-contain"
+                          />
+                        )}
+                      </TableCell>
+                      <TableCell>{item.name}</TableCell>
+                      <TableCell>{ITEM_TYPES.find(t => t.value === item.type)?.text}</TableCell>
+                      <TableCell>{item.sellPrice || '-'}</TableCell>
+                      <TableCell>{item.gemPrice || '-'}</TableCell>
+                      <TableCell>{item.feedPower || '-'}</TableCell>
+                      <TableCell>{item.importantVal || '-'}</TableCell>
+                      <TableCell>{item.equipmentType && EQUIPMENT_TYPE_LABELS[item.equipmentType as keyof typeof EQUIPMENT_TYPE_LABELS] ? EQUIPMENT_TYPE_LABELS[item.equipmentType as keyof typeof EQUIPMENT_TYPE_LABELS] : '-'}</TableCell>
+                      <TableCell>
+                        <div className="flex space-x-2">
+                          <Button
+                            size="sm"
+                            variant="outline"
+                            onClick={() => openEditDialog(item)}
+                          >
+                            수정
+                          </Button>
+                          <Button
+                            size="sm"
+                            variant="destructive"
+                            onClick={() => handleDelete(item.id)}
+                            disabled={true}
+                          >
+                            삭제
+                          </Button>
+                        </div>
+                      </TableCell>
+                    </TableRow>
+                  ))}
+                </TableBody>
+              </Table>
+            </div>
+          </div>
+        </div>
         <Dialog open={isDialogOpen} onOpenChange={setIsDialogOpen}>
           <DialogTrigger asChild>
             <Button onClick={openAddDialog}>아이템 추가</Button>
           </DialogTrigger>
-          <DialogContent className="sm:max-w-[425px]">
+          <DialogContent className="sm:max-w-[425px] bg-[#333] text-gray-100 border-[#444]">
             <DialogHeader>
               <DialogTitle>
                 {editingItem ? '아이템 수정' : '아이템 추가'}
@@ -300,68 +367,7 @@ export default function AdminItemsPage() {
             </form>
           </DialogContent>
         </Dialog>
-      </div>
-
-      <div className="border rounded-lg">
-        <Table>
-          <TableHeader>
-            <TableRow>
-              <TableHead>ID</TableHead>
-              <TableHead>이미지</TableHead>
-              <TableHead>이름</TableHead>
-              <TableHead>타입</TableHead>
-              <TableHead>판매가</TableHead>
-              <TableHead>보석가</TableHead>
-              <TableHead>영양력</TableHead>
-              <TableHead>중요도</TableHead>
-              <TableHead>장비유형</TableHead>
-              <TableHead>작업</TableHead>
-            </TableRow>
-          </TableHeader>
-          <TableBody>
-            {items.map((item) => (
-              <TableRow key={item.id}>
-                <TableCell>{item.id}</TableCell>
-                <TableCell>
-                  {item.imageUrl && (
-                    <img
-                      src={getImageUrl(item.imageUrl)}
-                      alt={item.name}
-                      className="w-8 h-8 object-contain"
-                    />
-                  )}
-                </TableCell>
-                <TableCell>{item.name}</TableCell>
-                <TableCell>{ITEM_TYPES.find(t => t.value === item.type)?.text}</TableCell>
-                <TableCell>{item.sellPrice || '-'}</TableCell>
-                <TableCell>{item.gemPrice || '-'}</TableCell>
-                <TableCell>{item.feedPower || '-'}</TableCell>
-                <TableCell>{item.importantVal || '-'}</TableCell>
-                <TableCell>{item.equipmentType && EQUIPMENT_TYPE_LABELS[item.equipmentType as keyof typeof EQUIPMENT_TYPE_LABELS] ? EQUIPMENT_TYPE_LABELS[item.equipmentType as keyof typeof EQUIPMENT_TYPE_LABELS] : '-'}</TableCell>
-                <TableCell>
-                  <div className="flex space-x-2">
-                    <Button
-                      size="sm"
-                      variant="outline"
-                      onClick={() => openEditDialog(item)}
-                    >
-                      수정
-                    </Button>
-                    <Button
-                      size="sm"
-                      variant="destructive"
-                      onClick={() => handleDelete(item.id)}
-                      disabled={true}
-                    >
-                      삭제
-                    </Button>
-                  </div>
-                </TableCell>
-              </TableRow>
-            ))}
-          </TableBody>
-        </Table>
-      </div>
+      </main>
     </div>
   )
 } 

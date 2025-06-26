@@ -200,14 +200,102 @@ export default function MonsterManagementPage() {
   };
 
   return (
-    <div className="container mx-auto p-6">
-      <div className="flex justify-between items-center mb-6">
-        <h1 className="text-3xl font-bold">몬스터 관리</h1>
+    <div className="bg-[#222] text-gray-100 min-h-screen">
+      <main className="px-2 py-4 bg-[#222] min-h-screen">
+        <div className="flex flex-col gap-3 max-w-4xl mx-auto">
+          <div className="bg-[#333] border border-[#444] rounded-xl p-4 shadow mb-4">
+            <div className="flex justify-between items-center mb-4">
+              <h1 className="text-2xl font-bold">몬스터 관리</h1>
+              <Button onClick={() => setIsAddDialogOpen(true)}>몬스터 추가</Button>
+            </div>
+            <div className="overflow-x-auto rounded-xl">
+              <Table className="bg-[#333] text-gray-100">
+                <TableHeader>
+                  <TableRow>
+                    <TableHead></TableHead>
+                    <TableHead>이름</TableHead>
+                    <TableHead>타입</TableHead>
+                    <TableHead>희귀도</TableHead>
+                    <TableHead>기본 HP</TableHead>
+                    <TableHead>기본 공격</TableHead>
+                    <TableHead>기본 방어</TableHead>
+                    <TableHead>경험치 보상</TableHead>
+                    <TableHead>골드 보상</TableHead>
+                    <TableHead>작업</TableHead>
+                  </TableRow>
+                </TableHeader>
+                <TableBody>
+                  {monsters.length === 0 ? (
+                    <TableRow>
+                      <TableCell colSpan={11} className="text-center">등록된 몬스터가 없습니다.</TableCell>
+                    </TableRow>
+                  ) : (
+                    monsters.map((monster) => (
+                      <TableRow key={monster.id}>
+                        <TableCell>
+                          <img
+                            src={getMonsterImageUrl(monster.imageUrl)}
+                            alt={monster.name + ' 이미지'}
+                            className="w-10 h-10 rounded-full object-cover border"
+                            width={40}
+                            height={40}
+                          />
+                        </TableCell>
+                        <TableCell className="font-medium">{monster.name}</TableCell>
+                        <TableCell>
+                          <span className="px-2 py-1 bg-blue-100 text-blue-800 rounded text-sm">
+                            {getTypeLabel(monster.type)}
+                          </span>
+                        </TableCell>
+                        <TableCell>
+                          <span className={`px-2 py-1 rounded text-sm ${getRarityColor(monster.rarity)}`}>
+                            {getRarityLabel(monster.rarity)}
+                          </span>
+                        </TableCell>
+                        <TableCell>{monster.baseHp}</TableCell>
+                        <TableCell>{monster.baseAttack}</TableCell>
+                        <TableCell>{monster.baseDefense}</TableCell>
+                        <TableCell>{monster.experienceReward}</TableCell>
+                        <TableCell>{monster.goldReward}</TableCell>
+                        <TableCell>
+                          <div className="flex space-x-2">
+                            <Button size="sm" variant="outline" onClick={() => handleEdit(monster)}>
+                              수정
+                            </Button>
+                            <AlertDialog>
+                              <AlertDialogTrigger asChild>
+                                <Button size="sm" variant="destructive">삭제</Button>
+                              </AlertDialogTrigger>
+                              <AlertDialogContent>
+                                <AlertDialogHeader>
+                                  <AlertDialogTitle>정말 삭제하시겠습니까?</AlertDialogTitle>
+                                  <AlertDialogDescription>
+                                    이 작업은 되돌릴 수 없습니다. 이 몬스터를 영구적으로 삭제합니다.
+                                  </AlertDialogDescription>
+                                </AlertDialogHeader>
+                                <AlertDialogFooter>
+                                  <AlertDialogCancel>취소</AlertDialogCancel>
+                                  <AlertDialogAction onClick={() => handleDelete(monster.id)}>
+                                    삭제
+                                  </AlertDialogAction>
+                                </AlertDialogFooter>
+                              </AlertDialogContent>
+                            </AlertDialog>
+                          </div>
+                        </TableCell>
+                      </TableRow>
+                    ))
+                  )}
+                </TableBody>
+              </Table>
+            </div>
+          </div>
+        </div>
         <Dialog open={isAddDialogOpen} onOpenChange={setIsAddDialogOpen}>
           <DialogTrigger asChild>
-            <Button>새 몬스터 추가</Button>
+            <Button className="bg-[#333] text-gray-100 border-[#444]">새 몬스터 추가</Button>
           </DialogTrigger>
-          <DialogContent className="max-w-2xl max-h-[90vh] overflow-y-auto">
+          <DialogContent className="max-w-2xl max-h-[90vh] overflow-y-auto bg-[#333] text-gray-100 border-[#444]">
             <MonsterForm
               formData={formData}
               setFormData={setFormData}
@@ -217,101 +305,18 @@ export default function MonsterManagementPage() {
             />
           </DialogContent>
         </Dialog>
-      </div>
-
-      <div className="bg-white rounded-lg shadow overflow-hidden">
-        <Table>
-          <TableHeader>
-            <TableRow>
-              <TableHead></TableHead>
-              <TableHead>이름</TableHead>
-              <TableHead>타입</TableHead>
-              <TableHead>희귀도</TableHead>
-              <TableHead>기본 HP</TableHead>
-              <TableHead>기본 공격</TableHead>
-              <TableHead>기본 방어</TableHead>
-              <TableHead>경험치 보상</TableHead>
-              <TableHead>골드 보상</TableHead>
-              <TableHead>작업</TableHead>
-            </TableRow>
-          </TableHeader>
-          <TableBody>
-            {monsters.length === 0 ? (
-              <TableRow>
-                <TableCell colSpan={11} className="text-center">등록된 몬스터가 없습니다.</TableCell>
-              </TableRow>
-            ) : (
-              monsters.map((monster) => (
-                <TableRow key={monster.id}>
-                  <TableCell>
-                    <img
-                      src={getMonsterImageUrl(monster.imageUrl)}
-                      alt={monster.name + ' 이미지'}
-                      className="w-10 h-10 rounded-full object-cover border"
-                      width={40}
-                      height={40}
-                    />
-                  </TableCell>
-                  <TableCell className="font-medium">{monster.name}</TableCell>
-                  <TableCell>
-                    <span className="px-2 py-1 bg-blue-100 text-blue-800 rounded text-sm">
-                      {getTypeLabel(monster.type)}
-                    </span>
-                  </TableCell>
-                  <TableCell>
-                    <span className={`px-2 py-1 rounded text-sm ${getRarityColor(monster.rarity)}`}>
-                      {getRarityLabel(monster.rarity)}
-                    </span>
-                  </TableCell>
-                  <TableCell>{monster.baseHp}</TableCell>
-                  <TableCell>{monster.baseAttack}</TableCell>
-                  <TableCell>{monster.baseDefense}</TableCell>
-                  <TableCell>{monster.experienceReward}</TableCell>
-                  <TableCell>{monster.goldReward}</TableCell>
-                  <TableCell>
-                    <div className="flex space-x-2">
-                      <Button size="sm" variant="outline" onClick={() => handleEdit(monster)}>
-                        수정
-                      </Button>
-                      <AlertDialog>
-                        <AlertDialogTrigger asChild>
-                          <Button size="sm" variant="destructive">삭제</Button>
-                        </AlertDialogTrigger>
-                        <AlertDialogContent>
-                          <AlertDialogHeader>
-                            <AlertDialogTitle>정말 삭제하시겠습니까?</AlertDialogTitle>
-                            <AlertDialogDescription>
-                              이 작업은 되돌릴 수 없습니다. 이 몬스터를 영구적으로 삭제합니다.
-                            </AlertDialogDescription>
-                          </AlertDialogHeader>
-                          <AlertDialogFooter>
-                            <AlertDialogCancel>취소</AlertDialogCancel>
-                            <AlertDialogAction onClick={() => handleDelete(monster.id)}>
-                              삭제
-                            </AlertDialogAction>
-                          </AlertDialogFooter>
-                        </AlertDialogContent>
-                      </AlertDialog>
-                    </div>
-                  </TableCell>
-                </TableRow>
-              ))
-            )}
-          </TableBody>
-        </Table>
-      </div>
-
-      <Dialog open={isEditDialogOpen} onOpenChange={setIsEditDialogOpen}>
-        <DialogContent className="max-w-2xl max-h-[90vh] overflow-y-auto">
-          <MonsterForm
-            formData={formData}
-            setFormData={setFormData}
-            onSubmit={() => handleSubmit(true)}
-            isEdit={true}
-            isSubmitting={false}
-          />
-        </DialogContent>
-      </Dialog>
+        <Dialog open={isEditDialogOpen} onOpenChange={setIsEditDialogOpen}>
+          <DialogContent className="max-w-2xl max-h-[90vh] overflow-y-auto bg-[#333] text-gray-100 border-[#444]">
+            <MonsterForm
+              formData={formData}
+              setFormData={setFormData}
+              onSubmit={() => handleSubmit(true)}
+              isEdit={true}
+              isSubmitting={false}
+            />
+          </DialogContent>
+        </Dialog>
+      </main>
     </div>
   );
 }

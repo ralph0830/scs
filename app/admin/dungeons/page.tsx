@@ -113,91 +113,92 @@ export default function AdminDungeonsPage() {
   }
   
   return (
-    <div className="container mx-auto px-4 py-8">
-      <div className="text-center mb-8">
-        <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">
-          던전 관리
-        </h1>
-        <p className="text-lg text-gray-600 dark:text-gray-300">
-          게임 내 던전들을 관리합니다
-        </p>
-      </div>
+    <div className="bg-[#222] text-gray-100 min-h-screen">
+      <main className="px-2 py-4 bg-[#222] min-h-screen">
+        <div className="flex flex-col gap-3 max-w-4xl mx-auto">
+          <div className="bg-[#333] border border-[#444] rounded-xl p-4 shadow mb-4">
+            <div className="flex justify-between items-center mb-4">
+              <h1 className="text-2xl font-bold">던전 관리</h1>
+              <Button onClick={handleAddNew}>던전 추가</Button>
+            </div>
+            <div className="overflow-x-auto rounded-xl">
+              <Table className="bg-[#333] text-gray-100">
+                <TableHeader>
+                  <TableRow>
+                    <TableHead>이름</TableHead>
+                    <TableHead>난이도</TableHead>
+                    <TableHead>레벨 범위</TableHead>
+                    <TableHead>해금 조건</TableHead>
+                    <TableHead>작업</TableHead>
+                  </TableRow>
+                </TableHeader>
+                <TableBody>
+                  {dungeons.map((dungeon) => (
+                    <TableRow key={dungeon.id}>
+                      <TableCell className="font-medium">{dungeon.name}</TableCell>
+                      <TableCell>
+                        <span className={`px-2 py-1 rounded text-sm`}>
+                          {difficultyLabels[dungeon.difficulty] ?? dungeon.difficulty}
+                        </span>
+                      </TableCell>
+                      <TableCell>{`${dungeon.minLevel}~${dungeon.maxLevel}`}</TableCell>
+                      <TableCell>
+                        <span className="text-sm text-gray-600">{parseUnlockRequirement(dungeon.unlockRequirement, idNameMap)}</span>
+                      </TableCell>
+                      <TableCell>
+                        <div className="flex space-x-2">
+                          <Button 
+                            size="sm" 
+                            variant="outline"
+                            onClick={() => handleEdit(dungeon)}
+                          >
+                            수정
+                          </Button>
+                          <Link href={`/admin/dungeons/${dungeon.id}/spawns`}>
+                            <Button size="sm" variant="secondary">
+                              몬스터
+                            </Button>
+                          </Link>
+                          <Link href={`/admin/dungeons/${dungeon.id}/drops`}>
+                             <Button size="sm" variant="secondary">
+                               아이템
+                             </Button>
+                          </Link>
+                          <Button 
+                            size="sm" 
+                            variant="destructive"
+                            onClick={() => handleDelete(dungeon.id)}
+                          >
+                            삭제
+                          </Button>
+                        </div>
+                      </TableCell>
+                    </TableRow>
+                  ))}
+                </TableBody>
+              </Table>
+            </div>
+          </div>
+        </div>
 
-      <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg overflow-hidden">
-        <Table>
-          <TableHeader>
-            <TableRow>
-              <TableHead>이름</TableHead>
-              <TableHead>난이도</TableHead>
-              <TableHead>레벨 범위</TableHead>
-              <TableHead>해금 조건</TableHead>
-              <TableHead>작업</TableHead>
-            </TableRow>
-          </TableHeader>
-          <TableBody>
-            {dungeons.map((dungeon) => (
-              <TableRow key={dungeon.id}>
-                <TableCell className="font-medium">{dungeon.name}</TableCell>
-                <TableCell>
-                  <span className={`px-2 py-1 rounded text-sm`}>
-                    {difficultyLabels[dungeon.difficulty] ?? dungeon.difficulty}
-                  </span>
-                </TableCell>
-                <TableCell>{`${dungeon.minLevel}~${dungeon.maxLevel}`}</TableCell>
-                <TableCell>
-                  <span className="text-sm text-gray-600">{parseUnlockRequirement(dungeon.unlockRequirement, idNameMap)}</span>
-                </TableCell>
-                <TableCell>
-                  <div className="flex space-x-2">
-                    <Button 
-                      size="sm" 
-                      variant="outline"
-                      onClick={() => handleEdit(dungeon)}
-                    >
-                      수정
-                    </Button>
-                    <Link href={`/admin/dungeons/${dungeon.id}/spawns`}>
-                      <Button size="sm" variant="secondary">
-                        몬스터
-                      </Button>
-                    </Link>
-                    <Link href={`/admin/dungeons/${dungeon.id}/drops`}>
-                       <Button size="sm" variant="secondary">
-                         아이템
-                       </Button>
-                    </Link>
-                    <Button 
-                      size="sm" 
-                      variant="destructive"
-                      onClick={() => handleDelete(dungeon.id)}
-                    >
-                      삭제
-                    </Button>
-                  </div>
-                </TableCell>
-              </TableRow>
-            ))}
-          </TableBody>
-        </Table>
-      </div>
+        <div className="mt-6 text-center">
+          <Button onClick={handleAddNew}>
+            새 던전 추가
+          </Button>
+        </div>
 
-      <div className="mt-6 text-center">
-        <Button onClick={handleAddNew}>
-          새 던전 추가
-        </Button>
-      </div>
-
-      <Dialog open={isFormOpen} onOpenChange={setIsFormOpen}>
-        <DialogContent className="sm:max-w-[800px]">
-          <DialogHeader>
-            <DialogTitle>{selectedDungeon ? '던전 수정' : '새 던전 추가'}</DialogTitle>
-            <DialogDescription>
-              {selectedDungeon ? '이 던전의 정보를 수정합니다.' : '새로운 던전을 추가합니다.'}
-            </DialogDescription>
-          </DialogHeader>
-          <DungeonForm initialData={selectedDungeon} onSuccess={handleSuccess} />
-        </DialogContent>
-      </Dialog>
+        <Dialog open={isFormOpen} onOpenChange={setIsFormOpen}>
+          <DialogContent className="sm:max-w-[800px] bg-[#333] text-gray-100 border-[#444]">
+            <DialogHeader>
+              <DialogTitle>{selectedDungeon ? '던전 수정' : '새 던전 추가'}</DialogTitle>
+              <DialogDescription>
+                {selectedDungeon ? '이 던전의 정보를 수정합니다.' : '새로운 던전을 추가합니다.'}
+              </DialogDescription>
+            </DialogHeader>
+            <DungeonForm initialData={selectedDungeon} onSuccess={handleSuccess} />
+          </DialogContent>
+        </Dialog>
+      </main>
     </div>
   )
 } 

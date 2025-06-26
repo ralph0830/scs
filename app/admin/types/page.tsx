@@ -13,23 +13,15 @@ export default async function TypeMatchupPage() {
   }))
 
   return (
-    <div className="container mx-auto px-4 py-8">
-      <div className="text-center mb-8">
-        <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">
-          타입 상성 관리
-        </h1>
-        <p className="text-lg text-gray-600 dark:text-gray-300">
-          크리터 타입 간의 상성 관계를 관리합니다
-        </p>
-      </div>
-
-      <TypeMatchupManager initialData={initialMatchups} />
-
-      <div className="mt-6 text-center">
-        <p className="text-gray-600 dark:text-gray-300">
-          타입 상성은 공격 타입이 방어 타입에 얼마나 효과적인지를 나타냅니다.
-        </p>
-      </div>
+    <div className="bg-[#222] text-gray-100 min-h-screen">
+      <main className="px-2 py-4 bg-[#222] min-h-screen">
+        <div className="flex flex-col gap-3 max-w-3xl mx-auto">
+          <div className="bg-[#333] border border-[#444] rounded-xl p-4 shadow mb-4">
+            <h1 className="text-2xl font-bold mb-2">타입 상성 관리</h1>
+            <TypeMatchupManager initialData={initialMatchups} darkMode />
+          </div>
+        </div>
+      </main>
     </div>
   )
 } 
